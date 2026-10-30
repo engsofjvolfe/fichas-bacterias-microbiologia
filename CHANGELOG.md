@@ -7,6 +7,10 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 
 ## [Não publicado]
 
+### Adicionado
+
+- O texto de estudo de *Clostridium difficile*, nas sete etapas do manual de consistência.
+
 ## [0.1.0] - 2026-10-29
 
 ### Adicionado
