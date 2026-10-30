@@ -11,6 +11,11 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 
 - O texto de estudo de *Clostridium difficile*, nas sete etapas do manual de consistência.
 
+### Corrigido
+
+- Nos textos de *Clostridium tetani*, *Enterococcus* e *Neisseria gonorrhoeae*, o trecho do
+  livro de uma etapa tinha uma supressão (`[...]`) num lugar em que nada fora omitido.
+
 ## [0.1.0] - 2026-10-29
 
 ### Adicionado

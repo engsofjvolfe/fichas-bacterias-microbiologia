@@ -59,7 +59,7 @@ Quando consegue escapar do intestino e colonizar outros órgãos, o *Enterococcu
 * **Endocardite Infecciosa:** Ocorre quando a bactéria no sangue se fixa no endotélio ou nas valvas cardíacas (nativas ou próteses), causando infecção grave com febre persistente e sopro cardíaco.
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 19, p. 200, 213*  
-> *"Infecção do trato urinário: disúria e piúria, mais comumente em pacientes internados com um cateter urinário de demora e recebendo antibacterianos cefalosporina de amplo espectro [...] Peritonite: inchaço e sensibilidade abdominal após trauma ou cirurgia abdominal [...] geralmente uma infecção polimicrobiana [...] Endocardite: infecção do endotélio ou valvas cardíacas; associada à bacteriemia persistente [...] O trato urinário é o sítio mais comum de infecções enterocócicas"*
+> *"Infecção do trato urinário: disúria e piúria, mais comumente em pacientes internados com um cateter urinário de demora [...] Peritonite: inchaço e sensibilidade abdominal após trauma ou cirurgia abdominal [...] geralmente uma infecção polimicrobiana [...] Endocardite: infecção do endotélio ou valvas cardíacas; associada à bacteriemia persistente [...] O trato urinário é o sítio mais comum de infecções enterocócicas"*
 
 ---
 

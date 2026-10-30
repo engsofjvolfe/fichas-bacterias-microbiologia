@@ -60,7 +60,7 @@ Ao contrário de patógenos que secretam exotoxinas à distância, a patogenia d
 * **Oftalmia Neonatal:** Conjuntivite purulenta grave no recém-nascido, que pode levar a danos oculares se não tratada rapidamente.
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 23, p. 248, 251*  
-> *"Gonorreia: caracterizada por um corrimento purulento para o local envolvido (p. ex., uretra, colo uterino, cérvice, epidídimo, próstata, reto) após um período de incubação de 2 a 5 dias [...] Infecções disseminadas: disseminação da infecção do sistema geniturinário através do sangue até a pele ou articulações; caracterizadas por erupção cutânea pustular com base eritematosa e artrite supurativa em articulações envolvidas [...] Até metade das mulheres infectadas manifestam infecções leves ou assintomáticas [...] Infecções genitais ascendentes, incluindo salpingite, abscessos tubo-ovarianos e DIP, são observadas em 10 a 20% das mulheres."*
+> *"Gonorreia: caracterizada por um corrimento purulento para o local envolvido (p. ex., uretra, colo uterino, cérvice, epidídimo, próstata, reto) após um período de incubação de 2 a 5 dias [...] disseminação da infecção do sistema geniturinário através do sangue até a pele ou articulações; caracterizadas por erupção cutânea pustular com base eritematosa e artrite supurativa em articulações envolvidas [...] Até metade das mulheres infectadas manifestam infecções leves ou assintomáticas [...] Infecções genitais ascendentes, incluindo salpingite, abscessos tubo-ovarianos e DIP, são observadas em 10 a 20% das mulheres."*
 
 ---
 
