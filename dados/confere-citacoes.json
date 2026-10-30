@@ -1,0 +1,19 @@
+{
+  "versao_schema": 1,
+  "referencia": "^> \\*\\*Fonte Exata no Livro:\\*\\* \\*Murray - Microbiologia Médica, Cap\\. (?P<fonte>\\d+), p\\. (?P<paginas>[0-9][0-9 ,\\-]*)\\*\\s*$",
+  "citacao": "^> \\*\"(?P<trecho>.+)\"\\*\\s*$",
+  "paginas": {
+    "separador": ",",
+    "intervalo": "-"
+  },
+  "fontes": {
+    "arquivo": "chapter{fonte}.md",
+    "titulo_pagina": "## p. {rotulo} (arquivo p. {arquivo})",
+    "ignorar": [
+      {"abre": "^!\\[imagem\\]", "fecha": "^\\[fim da imagem\\]$"}
+    ]
+  },
+  "supressao": "[...]",
+  "pontas": " .,;:",
+  "equivalentes": ["\"“”'‘’", "-–—"]
+}

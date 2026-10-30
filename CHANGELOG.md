@@ -1,0 +1,23 @@
+# Changelog
+
+Todas as mudanças significativas deste projeto serão documentadas neste arquivo.
+
+O formato é baseado no [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e este
+projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2.0.0.html).
+
+## [Não publicado]
+
+## [0.1.0] - 2026-10-29
+
+### Adicionado
+
+- Os textos de estudo de *Clostridium botulinum*, *Clostridium tetani*, *Enterococcus*,
+  *Escherichia coli* e *Neisseria gonorrhoeae*, em sete etapas, cada uma terminando com o
+  trecho do livro que a sustenta, copiado letra por letra, com o capítulo e a página.
+- O manual de consistência, que diz como todo texto é escrito e formatado: o tom, a
+  estrutura em sete etapas, a formatação e as regras de citação.
+- A configuração dos dois conferidores (`dados/`): a forma de um texto de bactéria, com os
+  nomes científicos que vão em itálico, e o bloco de fonte, conferido contra o capítulo
+  citado.
+- O README, com a regra das versões, este changelog e a lista do que falta.
+- O `.gitignore`.

@@ -1,0 +1,68 @@
+{
+  "versao_schema": 1,
+  "abertura": [
+    {"padrao": "^# Documento Investigativo Completo: O Caso d[oa] \\*[^*]+\\*$"},
+    {"igual": "**A Lógica do Estudo:** Em vez de decorar listas isoladas, o estudo aplica o método investigativo do prefácio do livro, tratando o microrganismo como um \"vilão\" e a infecção como uma \"cena de crime\", detalhando **Qual** agente, **Onde** e **Quem**, **Quando**, **Por que** (armas/mecanismos), **O que** causa (sintomas/doenças) e **Como** testar, tratar e prevenir."}
+  ],
+  "secao": "^### (?P<titulo>.+)$",
+  "titulos": [
+    "1. Identificação e Caracterização do Agente [QUAL AGENTE?]",
+    "2. Reservatório e Hospedeiros Suscetíveis [ONDE E QUEM?]",
+    "3. Mecanismos e Vias de Transmissão [QUANDO?]",
+    "4. Fatores de Virulência e Patogênese [POR QUÊ?]",
+    "5. Manifestações Clínicas e Síndromes [O QUE CAUSA?]",
+    "6. Diagnóstico Laboratorial [COMO TESTAR?]",
+    "7. Tratamento, Resistência e Profilaxia [COMO TRATAR E PREVENIR?]"
+  ],
+  "divisor": "^---$",
+  "fecho": {
+    "abre": "^> \\*\\*Fonte Exata no Livro:\\*\\*",
+    "continua": "^>"
+  },
+  "proibidos": [
+    {"nome": "título de nível 5 ou mais", "padrao": "^#{5,} "},
+    {"nome": "subtítulo #### numerado", "padrao": "^#### \\d"},
+    {"nome": "fórmula LaTeX", "padrao": "\\$"},
+    {"nome": "palavra estrangeira", "padrao": "(?i)\\b(forming|highly|sustained|effacement|sprouting|twitching|floppy)\\b"},
+    {"nome": "grafia de Portugal", "padrao": "(?i)micrómetro|nucléic"},
+    {"nome": "supressão sem colchetes", "padrao": "^> \\*\".*(?<!\\[)\\.\\.\\."},
+    {"nome": "linha da fonte sem as duas quebras do fim", "padrao": "^> \\*\\*Fonte Exata no Livro:\\*\\*(?!.*\\*  $)"},
+    {"nome": "& nas páginas da fonte", "padrao": "^> \\*\\*Fonte Exata no Livro:\\*\\*.*&"},
+    {"nome": "caractere invisível ou espaço especial", "padrao": "[\\u00A0\\u00AD\\u034F\\u061C\\u115F\\u1160\\u17B4\\u17B5\\u180E\\u2000-\\u200F\\u2028-\\u202F\\u205F-\\u206F\\u3000\\u3164\\uFE00-\\uFE0F\\uFEFF\\uFFA0\\U000E0000-\\U000E007F]"},
+    {"nome": "comentário escondido", "padrao": "<!--"},
+    {"nome": "resto de citação de ferramenta de IA", "padrao": "(?i)\\[cite|oaicite|contentReference|【|†|utm_source="}
+  ],
+  "italico": {
+    "nomes": [
+      "Actinobacillus", "Actinomyces israelii", "Actinomyces", "Bacillus", "Bacteroides fragilis", "Bacteroides",
+      "Bifidobacterium", "Campylobacter jejuni", "Campylobacter", "Clostridium botulinum", "Clostridium difficile",
+      "Clostridium histolyticum", "Clostridium perfringens", "Clostridium sporogenes", "Clostridium tetani",
+      "Clostridium", "Corynebacterium diphtheriae", "Corynebacterium", "Enterobacter", "Enterococcus casseliflavus",
+      "Enterococcus faecalis", "Enterococcus faecium", "Enterococcus gallinarum", "Enterococcus", "Escherichia coli",
+      "Escherichia", "Eubacterium", "Fusobacterium nucleatum", "Fusobacterium", "Haemophilus influenzae",
+      "Haemophilus", "Helicobacter pylori", "Helicobacter", "Lactobacillus", "Listeria monocytogenes", "Listeria",
+      "Micrococcus", "Mobiluncus", "Mycobacterium tuberculosis", "Mycobacterium", "Mycoplasma pneumoniae",
+      "Mycoplasma", "Neisseria gonorrhoeae", "Neisseria meningitidis", "Neisseria", "Nocardia", "Pasteurella",
+      "Peptococcus", "Peptostreptococcus", "Porphyromonas", "Prevotella melaninogenica", "Prevotella",
+      "Propionibacterium", "Proteus", "Pseudomonas aeruginosa", "Pseudomonas", "Salmonella", "Serratia marcescens",
+      "Serratia", "Shigella", "Staphylococcus aureus", "Staphylococcus epidermidis", "Staphylococcus saprophyticus",
+      "Staphylococcus", "Streptococcus agalactiae", "Streptococcus mitis", "Streptococcus mutans",
+      "Streptococcus pneumoniae", "Streptococcus pyogenes", "Streptococcus", "Veillonella", "Vibrio",
+      "Yersinia enterocolitica", "Yersinia",
+      "A. israelii", "B. fragilis", "C. botulinum", "C. difficile", "C. diphtheriae", "C. histolyticum", "C. jejuni",
+      "C. perfringens", "C. sporogenes", "C. tetani", "E. casseliflavus", "E. coli", "E. faecalis", "E. faecium",
+      "E. gallinarum", "F. nucleatum", "H. influenzae", "H. pylori", "L. monocytogenes", "M. pneumoniae",
+      "M. tuberculosis", "N. gonorrhoeae", "N. meningitidis", "P. aeruginosa", "P. melaninogenica", "S. agalactiae",
+      "S. aureus", "S. epidermidis", "S. marcescens", "S. mitis", "S. mutans", "S. pneumoniae", "S. pyogenes",
+      "S. saprophyticus", "Y. enterocolitica",
+      "in vivo", "risus sardonicus", "tetanus neonatorum"
+    ],
+    "marcas": ["*", "_"],
+    "fora_de": "^(#|>)"
+  },
+  "palavras": {
+    "fora_de": "^(#|>)",
+    "minimo": 850,
+    "maximo": 2100
+  }
+}

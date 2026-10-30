@@ -1,0 +1,11 @@
+# a prateleira de peças, que serve a qualquer projeto e não é deste
+prateleira/
+
+# documentos protegidos por direitos proprietários e outras pesquisas
+material-base/
+
+# as instruções das sessões de trabalho, só desta máquina
+.claude/
+
+# arquivo de controle dos textos
+controle-dos-textos.md
