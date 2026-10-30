@@ -9,14 +9,16 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 
 ### Adicionado
 
+- O texto de estudo de *Actinobacillus* (no livro, *Aggregatibacter actinomycetemcomitans*),
+  nas sete etapas do manual de consistência.
 - O texto de estudo de *Clostridium difficile*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Neisseria meningitidis*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Shigella*, nas sete etapas do manual de consistência.
 
 ### Modificado
 
-- A lista de nomes em itálico da configuração do conferidor de forma, com as quatro espécies
-  de *Shigella* e o termo latino *in vitro*.
+- A lista de nomes em itálico da configuração do conferidor de forma, com os nomes
+  científicos novos dos textos e o termo latino *in vitro*.
 - No manual de consistência, a seção 1 passa a apontar como modelos de forma e de tom os
   textos de *Clostridium difficile* e *Shigella*, e a seção 4 diz que o teto de tamanho do
   manual é menor que o do conferidor de forma.
