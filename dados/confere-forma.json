@@ -45,7 +45,8 @@
       "Mycoplasma", "Neisseria gonorrhoeae", "Neisseria meningitidis", "Neisseria", "Nocardia", "Pasteurella",
       "Peptococcus", "Peptostreptococcus", "Porphyromonas", "Prevotella melaninogenica", "Prevotella",
       "Propionibacterium", "Proteus", "Pseudomonas aeruginosa", "Pseudomonas", "Salmonella", "Serratia marcescens",
-      "Serratia", "Shigella", "Staphylococcus aureus", "Staphylococcus epidermidis", "Staphylococcus saprophyticus",
+      "Serratia", "Shigella boydii", "Shigella dysenteriae", "Shigella flexneri", "Shigella sonnei", "Shigella",
+      "Staphylococcus aureus", "Staphylococcus epidermidis", "Staphylococcus saprophyticus",
       "Staphylococcus", "Streptococcus agalactiae", "Streptococcus mitis", "Streptococcus mutans",
       "Streptococcus pneumoniae", "Streptococcus pyogenes", "Streptococcus", "Veillonella", "Vibrio",
       "Yersinia enterocolitica", "Yersinia",
@@ -53,9 +54,9 @@
       "C. perfringens", "C. sporogenes", "C. tetani", "E. casseliflavus", "E. coli", "E. faecalis", "E. faecium",
       "E. gallinarum", "F. nucleatum", "H. influenzae", "H. pylori", "L. monocytogenes", "M. pneumoniae",
       "M. tuberculosis", "N. gonorrhoeae", "N. meningitidis", "P. aeruginosa", "P. melaninogenica", "S. agalactiae",
-      "S. aureus", "S. epidermidis", "S. marcescens", "S. mitis", "S. mutans", "S. pneumoniae", "S. pyogenes",
-      "S. saprophyticus", "Y. enterocolitica",
-      "in vivo", "risus sardonicus", "tetanus neonatorum"
+      "S. aureus", "S. boydii", "S. dysenteriae", "S. epidermidis", "S. flexneri", "S. marcescens", "S. mitis",
+      "S. mutans", "S. pneumoniae", "S. pyogenes", "S. saprophyticus", "S. sonnei", "Y. enterocolitica",
+      "in vitro", "in vivo", "risus sardonicus", "tetanus neonatorum"
     ],
     "marcas": ["*", "_"],
     "fora_de": "^(#|>)"
