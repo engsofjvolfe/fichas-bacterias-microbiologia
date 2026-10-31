@@ -50,7 +50,7 @@ Todo documento responde, nesta ordem, às 7 etapas investigativas adaptadas do p
    - Evolução biológica dos mecanismos de resistência antimicrobiana, diferenciação entre cepas sensíveis e resistentes, esquemas terapêuticos indicados, intervenções cirúrgicas necessárias (drenagem de pus), contraindicações e medidas profiláticas.
 
 - **O que precisa aparecer:** os pontos do quadro de resumo do capítulo para a bactéria (o bloco "RESUMOS Organismos clinicamente significativos", no começo de cada capítulo: palavras-chave, biologia e virulência, epidemiologia, doenças, diagnóstico e tratamento).
-- **Tamanho:** o dos modelos, entre cerca de 900 e 2.000 palavras no corpo do texto, sem contar os blocos de fonte. O conferidor de forma só avisa fora de 850 a 2.100, uma faixa mais larga: o teto que vale é o do manual.
+- **Tamanho:** o texto é curto, mas traz todas as informações necessárias; nada necessário sai só para caber num número de palavras. O aviso do conferidor de forma (fora de 850 a 2.100 palavras no corpo, sem os blocos de fonte) só pede um segundo olhar.
 
 ## 5. Diretrizes de Formatação e Estilo
 
