@@ -6,7 +6,7 @@
 
 ### 1. Identificação e Caracterização do Agente [QUAL AGENTE?]
 
-A *Shigella* pertence à mesma família da *Escherichia coli*, a Enterobacteriaceae, mas ocupa nela o lugar oposto: a *E. coli* mora no intestino de todos nós e só às vezes adoece alguém, enquanto a *Shigella*, quando aparece numa amostra clínica, está sempre associada à doença. O perfil de bancada é o da família; o que a distingue são os detalhes:
+A *Shigella* pertence à mesma família da *Escherichia coli*, a *Enterobacteriaceae*, mas ocupa nela o lugar oposto: a *E. coli* mora no intestino de todos nós e só às vezes adoece alguém, enquanto a *Shigella*, quando aparece numa amostra clínica, está sempre associada à doença. O perfil de bancada é o da família; o que a distingue são os detalhes:
 
 * **Morfologia e metabolismo:** é um bacilo (bastonete) Gram-negativo e anaeróbio facultativo, ou seja, cresce com ou sem oxigênio. Fermenta a glicose e é **oxidase-negativa**, isto é, não tem a enzima citocromo oxidase — prova rápida que separa as enterobactérias de outros bastonetes Gram-negativos.
 * **A ausência de flagelos:** quase todas as enterobactérias são móveis, e a *Shigella* é uma das exceções, ao lado de *Klebsiella* e *Yersinia*. A imobilidade é pista de bancada, porque estreita o diagnóstico antes das provas demoradas.
