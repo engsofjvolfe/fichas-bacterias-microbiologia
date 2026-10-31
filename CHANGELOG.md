@@ -13,6 +13,7 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   nas sete etapas do manual de consistência.
 - O texto de estudo de *Clostridium difficile*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Haemophilus influenzae*, nas sete etapas do manual de consistência.
+- O texto de estudo de *Helicobacter pylori*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Neisseria meningitidis*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Shigella*, nas sete etapas do manual de consistência.
 
