@@ -4,7 +4,7 @@
 
 Este manual estabelece o padrão único para a criação, formatação e organização dos textos de estudo em microbiologia clínica: um texto por bactéria, escrito a partir do capítulo do Murray que trata dela (`material-base/gerados-ocr/chapterNN.md`). O objetivo é garantir que todos os documentos mantenham rigor científico, clareza pedagógica narrativa e padronização visual completa.
 
-Os textos de *Clostridium tetani*, *Clostridium botulinum*, *Escherichia coli*, *Neisseria gonorrhoeae* e *Enterococcus* são os modelos: na dúvida, faça como eles.
+Os textos de *Clostridium difficile* e *Shigella* são os modelos de forma e de tom: na dúvida, faça como eles. Onde um texto já escrito e uma regra deste manual divergem, vale a regra.
 
 ## 2. Princípios Pedagógicos e de Linguagem
 
@@ -50,7 +50,7 @@ Todo documento responde, nesta ordem, às 7 etapas investigativas adaptadas do p
    - Evolução biológica dos mecanismos de resistência antimicrobiana, diferenciação entre cepas sensíveis e resistentes, esquemas terapêuticos indicados, intervenções cirúrgicas necessárias (drenagem de pus), contraindicações e medidas profiláticas.
 
 - **O que precisa aparecer:** os pontos do quadro de resumo do capítulo para a bactéria (o bloco "RESUMOS Organismos clinicamente significativos", no começo de cada capítulo: palavras-chave, biologia e virulência, epidemiologia, doenças, diagnóstico e tratamento).
-- **Tamanho:** o dos modelos, entre cerca de 900 e 2.000 palavras no corpo do texto, sem contar os blocos de fonte.
+- **Tamanho:** o dos modelos, entre cerca de 900 e 2.000 palavras no corpo do texto, sem contar os blocos de fonte. O conferidor de forma só avisa fora de 850 a 2.100, uma faixa mais larga: o teto que vale é o do manual.
 
 ## 5. Diretrizes de Formatação e Estilo
 
