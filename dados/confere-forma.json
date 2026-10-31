@@ -36,7 +36,8 @@
     "nomes": [
       "Actinobacillus", "Actinomyces israelii", "Actinomyces", "Aggregatibacter actinomycetemcomitans",
       "Aggregatibacter", "Bacillus", "Bacteroides fragilis", "Bacteroides",
-      "Bifidobacterium", "Campylobacter jejuni", "Campylobacter", "Clostridium botulinum", "Clostridium difficile",
+      "Bifidobacterium", "Burkholderia", "Campylobacter jejuni", "Campylobacter", "Clostridium botulinum",
+      "Clostridium difficile",
       "Clostridium histolyticum", "Clostridium perfringens", "Clostridium sporogenes", "Clostridium tetani",
       "Clostridium", "Corynebacterium diphtheriae", "Corynebacterium", "Enterobacter", "Enterobacteriaceae",
       "Enterococcus casseliflavus",
@@ -50,7 +51,7 @@
       "Serratia marcescens", "Serratia", "Shigella boydii", "Shigella dysenteriae", "Shigella flexneri",
       "Shigella sonnei", "Shigella", "Staphylococcus aureus", "Staphylococcus epidermidis",
       "Staphylococcus saprophyticus",
-      "Staphylococcus", "Streptococcus agalactiae", "Streptococcus mitis", "Streptococcus mutans",
+      "Staphylococcus", "Stenotrophomonas", "Streptococcus agalactiae", "Streptococcus mitis", "Streptococcus mutans",
       "Streptococcus pneumoniae", "Streptococcus pyogenes", "Streptococcus", "Veillonella", "Vibrio",
       "Yersinia enterocolitica", "Yersinia",
       "A. actinomycetemcomitans", "A. aphrophilus",

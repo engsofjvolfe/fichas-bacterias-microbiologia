@@ -16,6 +16,7 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - O texto de estudo de *Helicobacter pylori*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Neisseria meningitidis*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Proteus*, nas sete etapas do manual de consistência.
+- O texto de estudo de *Pseudomonas aeruginosa*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Shigella*, nas sete etapas do manual de consistência.
 
 ### Modificado
