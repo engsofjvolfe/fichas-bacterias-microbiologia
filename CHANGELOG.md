@@ -10,6 +10,8 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 ### Adicionado
 
 - O texto de estudo de *Staphylococcus aureus*, nas sete etapas do manual de consistência.
+- O texto de estudo de *Staphylococcus saprophyticus*, nas sete etapas do manual de
+  consistência.
 
 ### Modificado
 
