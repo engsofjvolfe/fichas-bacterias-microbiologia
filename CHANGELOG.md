@@ -10,6 +10,7 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 ### Adicionado
 
 - O texto de estudo de *Clostridium difficile*, nas sete etapas do manual de consistência.
+- O texto de estudo de *Neisseria meningitidis*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Shigella*, nas sete etapas do manual de consistência.
 
 ### Modificado
