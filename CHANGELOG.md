@@ -23,6 +23,15 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto
   vão para `dados/confere-forma-proibidos.json`, e as marcas de IA vêm do arquivo comum da
   prateleira, dado no comando.
+- No manual de consistência, o livro inteiro passa a ser a fonte: o porquê de um fato e a
+  explicação de um termo podem vir de qualquer capítulo, citados no bloco de fonte da etapa;
+  a explicação de um termo é a do livro, entre parênteses; o fato que o livro dá sem porquê
+  fica sem ele; o texto não usa imagens; e a divergência do livro vai para o arquivo de
+  divergências.
+- No bloco de fonte, a citação de outro capítulo tem a própria linha de referência, sem o
+  rótulo, que só a primeira citação do bloco leva: a configuração do conferidor de citações
+  aceita a referência sem o rótulo, e os padrões proibidos das duas quebras do fim e do `&`
+  valem também para ela.
 
 ## [0.2.0] - 2026-10-31
 

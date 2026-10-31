@@ -6,7 +6,7 @@ daqui. O que é deste projeto fica só aqui; nada dele entra na prateleira.
 
 | Arquivo | Peça que o lê | O que diz |
 | --- | --- | --- |
-| `confere-citacoes.json` | [confere-citacoes](../prateleira/confere-citacoes/README.md) | como é o bloco "Fonte Exata no Livro" dos textos (a linha da referência e a do trecho), que as fontes são os `chapterNN.md`, com páginas `## p. N` e blocos de imagem que não contam, e que a supressão é `[...]` |
+| `confere-citacoes.json` | [confere-citacoes](../prateleira/confere-citacoes/README.md) | como é o bloco "Fonte Exata no Livro" dos textos (a linha da referência, que só na primeira citação do bloco leva o rótulo, e a do trecho), que as fontes são os `chapterNN.md`, com páginas `## p. N` e blocos de imagem que não contam, e que a supressão é `[...]` |
 | `confere-forma.json` | [confere-forma](../prateleira/confere-forma/README.md) | a forma de um texto de bactéria: o título e o subtítulo fixos, os 7 títulos das etapas, o divisor `---`, o bloco de fonte no fim de cada etapa, os nomes científicos que vão em itálico e o tamanho (850 a 2.100 palavras, que só dá aviso) |
 | `confere-forma-proibidos.json` | [confere-forma](../prateleira/confere-forma/README.md#os-padrões-proibidos) | os padrões proibidos que são deste projeto: o título de nível 5, o subtítulo `####` numerado, a fórmula LaTeX, a palavra estrangeira, a grafia de Portugal, a supressão sem colchetes, a linha da fonte sem as duas quebras do fim, o `&` nas páginas da fonte e o comentário escondido |
 
