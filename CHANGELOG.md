@@ -12,9 +12,12 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - O texto de estudo de *Staphylococcus aureus*, nas sete etapas do manual de consistência.
 - O texto de estudo de *Staphylococcus saprophyticus*, nas sete etapas do manual de
   consistência.
+- O texto de estudo de *Staphylococcus epidermidis*, nas sete etapas do manual de
+  consistência.
 
 ### Modificado
 
+- A lista de nomes em itálico da configuração do conferidor de forma, com *S. lugdunensis*.
 - No manual de consistência, a seção 4 passa a dizer que o texto é curto, mas com todas as
   informações necessárias, sem teto fixo de palavras.
 - Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto
