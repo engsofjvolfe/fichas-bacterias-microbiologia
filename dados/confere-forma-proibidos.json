@@ -1,0 +1,14 @@
+{
+  "versao_schema": 1,
+  "proibidos": [
+    {"nome": "título de nível 5 ou mais", "padrao": "^#{5,} "},
+    {"nome": "subtítulo #### numerado", "padrao": "^#### \\d"},
+    {"nome": "fórmula LaTeX", "padrao": "\\$"},
+    {"nome": "palavra estrangeira", "padrao": "(?i)\\b(forming|highly|sustained|effacement|sprouting|twitching|floppy)\\b"},
+    {"nome": "grafia de Portugal", "padrao": "(?i)micrómetro|nucléic"},
+    {"nome": "supressão sem colchetes", "padrao": "^> \\*\".*(?<!\\[)\\.\\.\\."},
+    {"nome": "linha da fonte sem as duas quebras do fim", "padrao": "^> \\*\\*Fonte Exata no Livro:\\*\\*(?!.*\\*  $)"},
+    {"nome": "& nas páginas da fonte", "padrao": "^> \\*\\*Fonte Exata no Livro:\\*\\*.*&"},
+    {"nome": "comentário escondido", "padrao": "<!--"}
+  ]
+}

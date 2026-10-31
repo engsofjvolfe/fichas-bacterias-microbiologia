@@ -17,6 +17,9 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 
 - No manual de consistência, a seção 4 passa a dizer que o texto é curto, mas com todas as
   informações necessárias, sem teto fixo de palavras.
+- Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto
+  vão para `dados/confere-forma-proibidos.json`, e as marcas de IA vêm do arquivo comum da
+  prateleira, dado no comando.
 
 ## [0.2.0] - 2026-10-31
 
