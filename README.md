@@ -11,8 +11,8 @@ o trecho do livro que a sustenta, copiado letra por letra, com o capítulo e a p
 
 | Item | O que é |
 | --- | --- |
-| `documentos-gerados/` | os textos prontos e o `manual-de-consistencia.md`, que diz como todo texto é escrito e formatado: o tom, a estrutura em sete etapas, a formatação e as regras de citação |
-| `dados/` | a configuração das duas peças da prateleira que conferem os textos, e como rodá-las |
+| `documentos-gerados/` | os textos prontos; o `manual-de-consistencia.md`, que diz como todo texto é escrito e formatado: o tom, a estrutura em sete etapas, a formatação e as regras de citação; e o `divergencias.md`, os fatos que o livro diz de formas diferentes, com a forma que os textos ensinam |
+| `dados/` | a configuração das peças da prateleira que conferem os textos, a lista das divergências do livro e como rodar cada peça |
 | `CHANGELOG.md` | o que mudou em cada versão |
 | `TODO.md` | o que falta fazer |
 
@@ -26,6 +26,8 @@ o trecho do livro que a sustenta, copiado letra por letra, com o capítulo e a p
   nome do arquivo de cada um.
 - **As instruções das sessões de trabalho** (`.claude/`): ficam só na máquina em que os
   textos são escritos.
+- **Os ganchos do git** (`.git/hooks/`): ficam em cada cópia do repositório; o do changelog
+  está em [Antes de cada commit](#antes-de-cada-commit).
 
 ## Como os textos são conferidos
 
@@ -39,6 +41,21 @@ deste projeto, que está em [dados/](dados/README.md) junto com o comando de cad
   científicos em itálico.
 
 O tom e o conteúdo, que nenhum conferidor confere, seguem o manual de consistência.
+
+## Antes de cada commit
+
+Um gancho do git confere a forma do `CHANGELOG.md` que vai no commit, o do índice, com a
+peça [confere-changelog](prateleira/confere-changelog/README.md) da prateleira e a
+configuração dela, que é a forma deste changelog; com erro, o commit não se faz. Numa cópia
+nova do repositório, ele se liga no arquivo `.git/hooks/pre-commit`, com permissão de rodar:
+
+    #!/bin/sh
+    # Antes de cada commit, confere a forma do CHANGELOG.md que vai no commit, o do indice, com a
+    # peca confere-changelog da prateleira, que fica na pasta principal do repositorio (a que
+    # guarda o .git), tambem no commit feito numa worktree.
+    comum=$(cd "$(git rev-parse --git-common-dir)" && pwd) || exit 1
+    peca="$(dirname "$comum")/prateleira/confere-changelog"
+    exec python3 -I "$peca/confere_changelog.py" "$peca/configuracao.json" CHANGELOG.md --indice
 
 ## As versões
 

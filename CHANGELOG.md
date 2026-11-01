@@ -14,6 +14,10 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   consistência.
 - O texto de estudo de *Staphylococcus epidermidis*, nas sete etapas do manual de
   consistência.
+- O gancho do git que confere a forma do changelog antes de cada commit, com a peça da
+  prateleira, e o texto dele no README, para ligá-lo numa cópia nova do repositório.
+- A lista das divergências do livro, em `dados/divergencias.json`, e o cabeçalho do
+  documento delas, que a peça da prateleira grava em `documentos-gerados/divergencias.md`.
 
 ### Modificado
 
