@@ -34,10 +34,15 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No glossário, os termos que o texto de *Streptococcus agalactiae* explica.
 - No dicionário das dúvidas, duas do capítulo 19: o início da doença neonatal precoce no
   Boxe 19.1 e a unidade da taxa da doença neonatal.
+- O texto de estudo de *Enterobacter*, nas sete etapas do manual de consistência.
+- No glossário, os termos que o texto de *Enterobacter* explica.
+- No dicionário das dúvidas, uma do capítulo 25: o número do *Enterobacter* na Figura 25.3,
+  truncado na transcrição.
 
 ### Modificado
 
-- A lista de nomes em itálico da configuração do conferidor de forma, com *S. lugdunensis*.
+- A lista de nomes em itálico da configuração do conferidor de forma, com *S. lugdunensis*,
+  *Enterobacter cloacae*, *Citrobacter* e *Morganella*.
 - No manual de consistência, a seção 4 passa a dizer que o texto é curto, mas com todas as
   informações necessárias, sem teto fixo de palavras.
 - Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto

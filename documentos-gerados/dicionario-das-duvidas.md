@@ -25,3 +25,12 @@ livro os deixa.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 206*  
 > *"O uso de profilaxia antibacteriana intraparto é responsável por uma queda drástica na doença neonatal de aproximadamente 1,7 infecção por nascidos vivo em 1993 para 0,22 infecção em 2016."*
+
+## `25/270`
+
+Na Figura 25.3, a transcrição da imagem dá "0% Enterobacter", e as porcentagens lidas nela
+somam 80%: o número do *Enterobacter* ficou truncado. O capítulo não dá esse número em
+outro lugar; ele só se lê na figura original, e os textos não o usam.
+
+> *Murray - Microbiologia Médica, Cap. 25, p. 270*  
+> *"Figura 25.3 Incidência das Enterobacteriaceae associadas à bacteriemia."*

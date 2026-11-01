@@ -85,6 +85,166 @@
       "termo": "terapia empírica",
       "definicao": "Utilizada até a identificação do patógeno específico.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 197*  \n> *\"terapia empírica com antibacterianos de amplo espectro (cefalosporina de amplo espectro + aminoglicosídio) utilizados até a identificação do patógeno específico\"*"
+    },
+    {
+      "termo": "ágar MacConkey",
+      "definicao": "Meio de cultura que contém lactose e mostra a fermentação dela por alterações de cor.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 268*  \n> *\"a fermentação da lactose (detectada por alterações de cor em meios contendo lactose, tais como o ágar MacConkey, que é comumente usado)\"*"
+    },
+    {
+      "termo": "anaeróbio facultativo",
+      "definicao": "Que cresce na presença ou na ausência de oxigênio.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 130*  \n> *\"A maioria das bactérias, entretanto, cresce na presença ou na ausência de oxigênio e são denominadas organismos anaeróbios facultativos.\"*"
+    },
+    {
+      "termo": "antígeno",
+      "definicao": "O que os anticorpos detectam nas bactérias.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117*  \n> *\"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem).\"*"
+    },
+    {
+      "termo": "bacilo",
+      "definicao": "Bactéria em forma de bastonete.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 116*  \n> *\"uma bactéria em forma de bastonete como a E. coli é um bacilo\"*"
+    },
+    {
+      "termo": "bactérias endógenas",
+      "definicao": "As que residem normalmente em locais do corpo como o trato gastrintestinal.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 145*  \n> *\"Essas bactérias endógenas normalmente residem em locais como trato gastrintestinal (GI), boca, pele e trato respiratório superior\"*"
+    },
+    {
+      "termo": "betalactamase",
+      "definicao": "Enzima que inativa os antibacterianos betalactâmicos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"Betalactamase: uma enzima que hidrolisa o anel betalactâmico na classe de antibacterianos dos betalactâmicos, inativando o antibacteriano.\"*"
+    },
+    {
+      "termo": "betalactâmicos",
+      "definicao": "Antibacterianos ativos na parede celular que compartilham uma estrutura comum, o anel betalactâmico.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"A maior parte dos antibacterianos ativos para a parede celular é classificada como antibacterianos betalactâmicos (p. ex., penicilinas, cefalosporinas, cefamicinas, carbapenêmicos, monobactâmicos, inibidores da betalactamase). Eles são assim nomeados porque compartilham uma estrutura comum: o anel betalactâmico.\"*"
+    },
+    {
+      "termo": "carbapenemase",
+      "definicao": "Betalactamase específica para os carbapenêmicos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"As enzimas específicas para penicilinas, cefalosporinas e carbapenêmicos são as penicilinases, cefalosporinases e carbapenemases, respectivamente\"*"
+    },
+    {
+      "termo": "carbapenêmicos",
+      "definicao": "Importantes antibacterianos de amplo espectro, ativos contra muitos grupos de organismos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 176*  \n> *\"Os carbapenêmicos são importantes antibacterianos de amplo espectro, largamente prescritos, ativos contra muitos grupos de organismos.\"*"
+    },
+    {
+      "termo": "colônia",
+      "definicao": "A forma em que as bactérias crescem, com até 1 milhão ou mais de organismos cada.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 116*  \n> *\"As bactérias crescem em colônias; cada colônia é como uma cidade de até 1 milhão ou mais de organismos.\"*"
+    },
+    {
+      "termo": "coloração bipolar",
+      "definicao": "Coloração mais intensa nas extremidades da bactéria.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 171*  \n> *\"Bastonetes gram-negativos com coloração 'bipolar' (mais intensa nas extremidades)\"*"
+    },
+    {
+      "termo": "coloração de Gram",
+      "definicao": "Teste rápido que separa as duas classes principais de bactérias.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 116*  \n> *\"A coloração de Gram é um teste rápido, poderoso e fácil que possibilita aos médicos diferenciar entre as duas classes principais de bactérias\"*"
+    },
+    {
+      "termo": "DNA",
+      "definicao": "Ácido desoxirribonucleico.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 130*  \n> *\"As bactérias também desenvolveram meios para compartilhar o ácido desoxirribonucleico (DNA)\"*"
+    },
+    {
+      "termo": "endotoxina",
+      "definicao": "Poderoso ativador das reações inflamatórias, produzido só por bactérias Gram-negativas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 149*  \n> *\"A porção lipídica A do LPS e o lipo-oligossacarídio (LOS) produzidos por bactérias gram-negativas é um poderoso ativador da fase aguda e das reações inflamatórias, e é denominado endotoxina. É importante observar que a endotoxina não é o mesmo que exotoxina e que apenas bactérias gram-negativas produzem endotoxina.\"*"
+    },
+    {
+      "termo": "fatores de virulência",
+      "definicao": "Características que aumentam a capacidade das bactérias de permanecer no corpo e de prejudicá-lo, causando doença.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 145*  \n> *\"Muitas dessas características são fatores de virulência que aumentam a capacidade das bactérias de permanecerem e prejudicarem o corpo ao causar doenças\"*"
+    },
+    {
+      "termo": "fermentação",
+      "definicao": "Produção de energia a partir da glicose sem oxigênio.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 131*  \n> *\"As bactérias podem produzir energia a partir da glicose por (em ordem de aumento da eficiência) fermentação, respiração anaeróbica (ambas ocorrem na ausência de oxigênio) ou respiração aeróbica. [...] A fermentação ocorre sem oxigênio\"*"
+    },
+    {
+      "termo": "Gram-negativo",
+      "definicao": "Na coloração de Gram, a parede celular, fina, não retém o corante cristal violeta, e a célula é corada pela safranina e fica vermelha.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117-118*  \n> *\"As bactérias gramnegativas têm uma camada fina de peptidoglicano que não retém o corante cristal violeta, portanto as células devem ser contracoradas com safranina e ficam vermelhas [...] uma parede celular constituída de peptidoglicano que é espesso para bactérias gram-positivas e fino para as gram-negativas.\"*"
+    },
+    {
+      "termo": "inibidor de betalactamase",
+      "definicao": "Relativamente inativo por si mesmo, liga-se às betalactamases e as inativa, embora não a todas, e assim o medicamento combinado a ele interrompe a síntese da parede celular da bactéria.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 175-176*  \n> *\"Os inibidores da betalactamase (p. ex., ácido clavulânico, sulbactam, tazobactam, avibactam) são relativamente inativos por si mesmos [...] Os inibidores se ligam e inativam de maneira irreversível as betalactamases [...] (embora nem todas estejam ligadas por esses inibidores), fazendo com que o medicamento combinado interrompa a síntese da parede celular bacteriana.\"*"
+    },
+    {
+      "termo": "lipídio A",
+      "definicao": "Um dos três componentes do lipopolissacarídio, responsável pela atividade de endotoxina.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 268*  \n> *\"O lipopolissacarídio (LPS) termoestável é o principal antígeno do envoltório celular e consiste em três componentes [...] e o componente lipídico A do LPS é responsável pela atividade de endotoxinas\"*"
+    },
+    {
+      "termo": "lipopolissacarídio",
+      "definicao": "O principal componente da camada de fora da membrana externa.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 121*  \n> *\"o folheto externo é composto principalmente de lipopolissacarídio (LPS)\"*"
+    },
+    {
+      "termo": "lisozima",
+      "definicao": "Uma das secreções antibacterianas das lágrimas e do muco.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 147*  \n> *\"a lisozima e outras secreções antibacterianas em lágrimas e no muco\"*"
+    },
+    {
+      "termo": "meio seletivo",
+      "definicao": "Meio usado para as amostras normalmente contaminadas com outros organismos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 277*  \n> *\"Os meios seletivos (p. ex., ágar Mac-Conkey, ágar eosina-azul de metileno [EMB, do inglês eosinamethylene blue]) são utilizados para a cultura de espécimes normalmente contaminados com outros organismos (p. ex., escarro, fezes).\"*"
+    },
+    {
+      "termo": "membrana externa",
+      "definicao": "Camada por fora da parede celular, exclusiva das bactérias Gram-negativas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 118, 121*  \n> *\"uma parede celular constituída de peptidoglicano [...] A camada externa em relação ao peptidoglicano é a membrana externa, exclusiva para bactérias gram-negativas.\"*"
+    },
+    {
+      "termo": "microbiota normal",
+      "definicao": "Os vários microrganismos que colonizam o corpo humano.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 145*  \n> *\"O corpo humano é colonizado por vários microrganismos (microbiota normal)\"*"
+    },
+    {
+      "termo": "oxidase-negativo",
+      "definicao": "Sem atividade de citocromo oxidase.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 267*  \n> *\"oxidase negativas. A ausência de atividade de citocromo oxidase é uma característica importante, pois pode ser mensurada rapidamente com um teste simples\"*"
+    },
+    {
+      "termo": "piperacilina-tazobactam",
+      "definicao": "Uma penicilina, a piperacilina, combinada ao tazobactam, um inibidor de betalactamase.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 175*  \n> *\"Os inibidores da betalactamase (p. ex., ácido clavulânico, sulbactam, tazobactam, avibactam) são relativamente inativos por si mesmos, mas quando combinados com algumas penicilinas (ou seja, ampicilina, amoxicilina, ticarcilina, piperacilina)\"*"
+    },
+    {
+      "termo": "plasmídio",
+      "definicao": "Pequeno elemento genético, em geral uma molécula circular de DNA, que se replica independentemente do cromossomo da bactéria.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 139*  \n> *\"Os plasmídios são pequenos elementos genéticos que se replicam de modo independente do cromossomo bacteriano. A maioria dos plasmídios é composta por moléculas de DNA circular de fita dupla\"*"
+    },
+    {
+      "termo": "pneumonia",
+      "definicao": "Inflamação dos pulmões.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 267*  \n> *\"pneumoniae, inflamação dos pulmões\"*"
+    },
+    {
+      "termo": "sideróforos",
+      "definicao": "O que as bactérias secretam para concentrar ferro a partir de soluções diluídas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 130*  \n> *\"muitas bactérias secretam proteínas especiais (sideróforos) para concentrar ferro a partir de soluções diluídas\"*"
+    },
+    {
+      "termo": "teste de suscetibilidade",
+      "definicao": "Medida do efeito do antibacteriano contra a bactéria em condições específicas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 169*  \n> *\"os testes in vitro são simplesmente uma medida do efeito do antibacteriano contra o organismo em condições específicas\"*"
+    },
+    {
+      "termo": "tromboflebite séptica",
+      "definicao": "Uma das infecções intravasculares.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 164*  \n> *\"infecções intravasculares (p. ex., endocardite, tromboflebite séptica, infecções associadas a cateteres intravasculares)\"*"
+    },
+    {
+      "termo": "variação de fase",
+      "definicao": "Cada antígeno da bactéria pode ser expresso ou não, alternadamente.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 269*  \n> *\"Cada um desses antígenos pode ser alternadamente expresso ou não (variação de fase)\"*"
     }
   ]
 }
