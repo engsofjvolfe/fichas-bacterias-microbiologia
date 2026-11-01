@@ -45,17 +45,23 @@ O tom e o conteúdo, que nenhum conferidor confere, seguem o manual de consistê
 ## Antes de cada commit
 
 Um gancho do git confere a forma do `CHANGELOG.md` que vai no commit, o do índice, com a
-peça [confere-changelog](prateleira/confere-changelog/README.md) da prateleira e a
-configuração dela, que é a forma deste changelog; com erro, o commit não se faz. Numa cópia
-nova do repositório, ele se liga no arquivo `.git/hooks/pre-commit`, com permissão de rodar:
+peça [confere-changelog](prateleira/confere-changelog/README.md) da prateleira, a
+configuração dela, que é a forma deste changelog, e os links de cada versão, de
+`dados/confere-changelog-links.json`; com erro, o commit não se faz. Numa cópia nova do
+repositório, ele se liga no arquivo `.git/hooks/pre-commit`, com permissão de rodar:
 
     #!/bin/sh
     # Antes de cada commit, confere a forma do CHANGELOG.md que vai no commit, o do indice, com a
     # peca confere-changelog da prateleira, que fica na pasta principal do repositorio (a que
-    # guarda o .git), tambem no commit feito numa worktree.
+    # guarda o .git), e com os links de cada versao da pasta do commit, quando ela os tem; vale
+    # tambem no commit feito numa worktree.
     comum=$(cd "$(git rev-parse --git-common-dir)" && pwd) || exit 1
+    topo=$(git rev-parse --show-toplevel) || exit 1
     peca="$(dirname "$comum")/prateleira/confere-changelog"
-    exec python3 -I "$peca/confere_changelog.py" "$peca/configuracao.json" CHANGELOG.md --indice
+    links="$topo/dados/confere-changelog-links.json"
+    set -- "$peca/configuracao.json" CHANGELOG.md --indice
+    [ -f "$links" ] && set -- "$@" --links "$links"
+    exec python3 -I "$peca/confere_changelog.py" "$@"
 
 ## As versões
 

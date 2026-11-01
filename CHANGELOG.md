@@ -18,6 +18,8 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   prateleira, e o texto dele no README, para ligá-lo numa cópia nova do repositório.
 - A lista das divergências do livro, em `dados/divergencias.json`, e o cabeçalho do
   documento delas, que a peça da prateleira grava em `documentos-gerados/divergencias.md`.
+- O link de cada versão no fim do changelog, com os modelos em
+  `dados/confere-changelog-links.json`, que o gancho do git dá ao conferidor do changelog.
 
 ### Modificado
 
@@ -79,3 +81,7 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   citado.
 - O README, com a regra das versões, este changelog e a lista do que falta.
 - O `.gitignore`.
+
+[Não publicado]: https://github.com/engsofjvolfe/fichas-nacterias-microbiologia/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/engsofjvolfe/fichas-nacterias-microbiologia/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/engsofjvolfe/fichas-nacterias-microbiologia/releases/tag/v0.1.0

@@ -12,6 +12,7 @@ prateleira.
 | `confere-forma-proibidos.json` | [confere-forma](../prateleira/confere-forma/README.md#os-padrões-proibidos) | os padrões proibidos que são deste projeto: o título de nível 5, o subtítulo `####` numerado, a fórmula LaTeX, a palavra estrangeira, a grafia de Portugal, a supressão sem colchetes, a linha da fonte sem as duas quebras do fim, o `&` nas páginas da fonte e o comentário escondido |
 | `divergencias.json` | [divergencias](../prateleira/divergencias/README.md) | os fatos que o livro diz de formas diferentes, cada um com a forma que os textos ensinam e as outras, cada forma com o que diz e o trecho do livro que a dá |
 | `divergencias-cabecalho.md` | [divergencias](../prateleira/divergencias/README.md) | o título e a abertura do documento das divergências, `documentos-gerados/divergencias.md` |
+| `confere-changelog-links.json` | [confere-changelog](../prateleira/confere-changelog/README.md#os-links) | os modelos do link de cada versão no fim do changelog, que o gancho do git dá à peça |
 
 As marcas que uma ferramenta de IA deixa num texto (o caractere invisível ou o espaço
 especial, e o resto de citação) servem a qualquer projeto e ficam na prateleira, no
