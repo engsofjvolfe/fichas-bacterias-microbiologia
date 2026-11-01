@@ -25,6 +25,15 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - O dicionário das dúvidas que o livro deixa, `documentos-gerados/dicionario-das-duvidas.md`,
   cada uma sob os códigos do lugar (o capítulo e a página), com a forma dos códigos em
   `dados/dicionario-das-duvidas.json`, que a peça da prateleira confere.
+- O texto de estudo de *Streptococcus agalactiae*, nas sete etapas do manual de
+  consistência.
+- Na lista das divergências, os quatro fatos do texto de *Streptococcus agalactiae* que o
+  livro diz de formas diferentes: os locais de colonização, as condições que aumentam o
+  risco fora da gravidez, as infecções mais comuns em homens e mulheres não grávidas e o uso
+  dos testes de antígeno.
+- No glossário, os termos que o texto de *Streptococcus agalactiae* explica.
+- No dicionário das dúvidas, duas do capítulo 19: o início da doença neonatal precoce no
+  Boxe 19.1 e a unidade da taxa da doença neonatal.
 
 ### Modificado
 

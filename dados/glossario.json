@@ -1,4 +1,90 @@
 {
   "versao_schema": 1,
-  "termos": []
+  "termos": [
+    {
+      "termo": "amplificação de ácido nucleico",
+      "definicao": "Amplificação de sequências de ácido desoxirribonucleico espécie-específicas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 168*  \n> *\"procedimentos de amplificação de ácido nucleico (p. ex., amplificação de sequências de ácido desoxirribonucleico [DNA] espécie-específicas pela reação em cadeia da polimerase ou outros métodos)\"*"
+    },
+    {
+      "termo": "amplo espectro",
+      "definicao": "Que pode inibir uma variedade de bactérias Gram-positivas e Gram-negativas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"Um medicamento antibacteriano de amplo espectro pode inibir uma variedade de bactérias gram-positivas e gram-negativas\"*"
+    },
+    {
+      "termo": "bacteriemia",
+      "definicao": "Presença de bactérias no sangue.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 164*  \n> *\"Bacteriemia e fungemia são definidas como a presença de bactérias e fungos, respectivamente, no sangue\"*"
+    },
+    {
+      "termo": "beta-hemólise",
+      "definicao": "Hemólise completa.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 198*  \n> *\"hemólise completa (beta [β])\"*"
+    },
+    {
+      "termo": "cápsula",
+      "definicao": "Camada frouxa de polissacarídio ou de proteína, às vezes conhecida por camada viscosa.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 122*  \n> *\"Algumas bactérias (gram-positivas ou gram-negativas) estão intimamente envolvidas por camadas frouxas de polissacarídio ou de proteína, denominadas cápsulas, que às vezes são conhecidas por camada viscosa ou glicocálice.\"*"
+    },
+    {
+      "termo": "catalase",
+      "definicao": "Uma enzima que converte o peróxido de hidrogênio em água e oxigênio.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 18, p. 183*  \n> *\"A presença ou ausência de catalase, uma enzima que converte o peróxido de hidrogênio em água e oxigênio, é utilizada para subdividir os vários gêneros.\"*"
+    },
+    {
+      "termo": "doença invasiva",
+      "definicao": "Na invasão, as bactérias podem entrar na corrente sanguínea e alcançar outros sítios no corpo.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 147*  \n> *\"as bactérias podem ter meios para comprometer a barreira e invadir o corpo. Na invasão, as bactérias podem entrar na corrente sanguínea e alcançar outros sítios no corpo.\"*"
+    },
+    {
+      "termo": "fagocitose",
+      "definicao": "Captação pelos fagócitos, a defesa antibacteriana mais importante, como os neutrófilos e os macrófagos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 152*  \n> *\"Os fagócitos (neutrófilos, macrófagos) são a defesa antibacteriana mais importante [...] inibir a captação por fagocitose (p. ex., os efeitos da cápsula e a proteína M produzida por S. pyogenes)\"*"
+    },
+    {
+      "termo": "IgG",
+      "definicao": "Imunoglobulina G.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 206*  \n> *\"fragmento Fc de anticorpos imunoglobulina (Ig)G\"*"
+    },
+    {
+      "termo": "LCR",
+      "definicao": "Líquido cerebrospinal.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 206*  \n> *\"o exame do líquido cerebrospinal (LCR) é necessário para todas as crianças infectadas\"*"
+    },
+    {
+      "termo": "membranas",
+      "definicao": "O saco amniótico.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 206*  \n> *\"ruptura prolongada do saco amniótico (membrana)\"*"
+    },
+    {
+      "termo": "meningite",
+      "definicao": "Infecção grave envolvendo as meninges.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 200*  \n> *\"Meningite: infecção grave envolvendo as meninges\"*"
+    },
+    {
+      "termo": "PCR",
+      "definicao": "Reação em cadeia da polimerase.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 207*  \n> *\"Os ensaios de amplificação do ácido nucleico baseados na reação em cadeia da polimerase (PCR)\"*"
+    },
+    {
+      "termo": "sepse",
+      "definicao": "Doença em que as respostas excessivas contra as bactérias podem ser a principal causa.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 145*  \n> *\"Respostas excessivas contra as bactérias causam imunopatogênese e podem ser a principal causa da doença (p. ex., sepse).\"*"
+    },
+    {
+      "termo": "septicemia",
+      "definicao": "Presença de bactérias ou fungos no sangue.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 164*  \n> *\"Bacteriemia e fungemia são definidas como a presença de bactérias e fungos, respectivamente, no sangue, e essas infecções são denominadas, em conjunto, como septicemia.\"*"
+    },
+    {
+      "termo": "septo",
+      "definicao": "Parede cruzada.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 125*  \n> *\"seguido pela produção de um septo (parede cruzada) para dividir as bactérias filhas em duas células\"*"
+    },
+    {
+      "termo": "terapia empírica",
+      "definicao": "Utilizada até a identificação do patógeno específico.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 197*  \n> *\"terapia empírica com antibacterianos de amplo espectro (cefalosporina de amplo espectro + aminoglicosídio) utilizados até a identificação do patógeno específico\"*"
+    }
+  ]
 }
