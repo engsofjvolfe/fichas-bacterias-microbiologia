@@ -5,12 +5,47 @@ que o livro dá, com as palavras dele, e o trecho do livro de onde ela vem, com 
 página. O glossário sai da lista em `dados/glossario.json`, pelo comando do
 `dados/README.md`, e muda só por ela.
 
+## ácido teicoico
+
+Componente que fortalece o envoltório celular.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 120*  
+> *"Ácido teicoico | Ligação cruzada (reticulação) do polirribitol fosfato ou glicerol fosfato com peptidoglicano | Fortalece o envoltório celular"*
+
+## adesinas
+
+Proteínas que se ligam a receptores na superfície do tecido e impedem que as bactérias sejam eliminadas.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 147*  
+> *"Escherichia coli e outras bactérias têm adesinas que se ligam a receptores na superfície do tecido e impedem os organismos de serem eliminados."*
+
 ## ágar MacConkey
 
 Meio de cultura que contém lactose e mostra a fermentação dela por alterações de cor.
 
 > *Murray - Microbiologia Médica, Cap. 25, p. 268*  
 > *"a fermentação da lactose (detectada por alterações de cor em meios contendo lactose, tais como o ágar MacConkey, que é comumente usado)"*
+
+## ágar-sangue de carneiro
+
+Um meio com nutrientes enriquecidos.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 197*  
+> *"meios com nutrientes enriquecidos (p. ex., ágar-sangue de carneiro)"*
+
+## alfa-hemólise
+
+Hemólise incompleta.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 198*  
+> *"hemólise incompleta (alfa [α])"*
+
+## amidase
+
+A autolisina do pneumococo.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 209*  
+> *"A fosforilcolina deve estar presente para a atividade da autolisina pneumocócica, a amidase, durante a divisão celular."*
 
 ## amplificação de ácido nucleico
 
@@ -39,6 +74,20 @@ O que os anticorpos detectam nas bactérias.
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 117*  
 > *"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem)."*
+
+## antígenos independentes de células T
+
+Antígenos que estimulam os linfócitos B maduros, mas não os linfócitos T.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 212*  
+> *"Os polissacarídios são antígenos independentes de células T, estimulando linfócitos B maduros, mas não linfócitos T."*
+
+## autolisina
+
+Enzima que degrada a parede celular.
+
+> *Murray - Microbiologia Médica, Cap. 17, p. 173*  
+> *"ativa as autolisinas que degradam a parede celular"*
 
 ## bacilo
 
@@ -82,6 +131,13 @@ Antibacterianos ativos na parede celular que compartilham uma estrutura comum, o
 > *Murray - Microbiologia Médica, Cap. 17, p. 173*  
 > *"A maior parte dos antibacterianos ativos para a parede celular é classificada como antibacterianos betalactâmicos (p. ex., penicilinas, cefalosporinas, cefamicinas, carbapenêmicos, monobactâmicos, inibidores da betalactamase). Eles são assim nomeados porque compartilham uma estrutura comum: o anel betalactâmico."*
 
+## C5a
+
+Atrai neutrófilos e outros fagócitos e medeia o processo inflamatório.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 201, 210*  
+> *"o C5a, que é um quimioatraente de neutrófilos e fagócitos mononucleares [...] produzindo o C5a, que medeia o processo inflamatório"*
+
 ## cápsula
 
 Camada frouxa de polissacarídio ou de proteína, às vezes conhecida por camada viscosa.
@@ -103,6 +159,13 @@ Importantes antibacterianos de amplo espectro, ativos contra muitos grupos de or
 > *Murray - Microbiologia Médica, Cap. 17, p. 176*  
 > *"Os carbapenêmicos são importantes antibacterianos de amplo espectro, largamente prescritos, ativos contra muitos grupos de organismos."*
 
+## carreamento
+
+A colonização.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 196*  
+> *"A colonização (carreamento) orofaríngea"*
+
 ## catalase
 
 Uma enzima que converte o peróxido de hidrogênio em água e oxigênio.
@@ -110,12 +173,54 @@ Uma enzima que converte o peróxido de hidrogênio em água e oxigênio.
 > *Murray - Microbiologia Médica, Cap. 18, p. 183*  
 > *"A presença ou ausência de catalase, uma enzima que converte o peróxido de hidrogênio em água e oxigênio, é utilizada para subdividir os vários gêneros."*
 
+## células T helper
+
+Células T auxiliares.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 201*  
+> *"células T helper (auxiliares)"*
+
+## CIM
+
+Concentração inibitória mínima: a menor concentração do antibiótico que inibe o crescimento da bactéria.
+
+> *Murray - Microbiologia Médica, Cap. 17, p. 173*  
+> *"Concentração inibitória mínima (CIM): determinada por exposição de uma suspensão padronizada de bactérias a uma série de diluições do antimicrobiano. A menor concentração de antibacteriano que inibe o crescimento da bactéria é a CIM"*
+
+## citocinas
+
+Produzidas por leucócitos ativados, levam mais células inflamatórias ao local da infecção e provocam febre e dano aos tecidos.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 210*  
+> *"citocinas como a interleucina (IL)-1 e o fator de necrose tumoral (TNF)-a são produzidos por leucócitos ativados, levando a uma maior migração de células inflamatórias para o sítio da infecção, além de febre, danos teciduais e outros sinais característicos de infecção pneumocócica"*
+
+## citotoxina
+
+Tóxica para muitas células.
+
+> *Murray - Microbiologia Médica, Cap. 18, p. 185*  
+> *"Citotoxinas | Tóxica para muitas células"*
+
+## coco
+
+Bactéria esférica.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 116*  
+> *"Uma bactéria esférica como o Staphylococcus é um coco"*
+
 ## colônia
 
 A forma em que as bactérias crescem, com até 1 milhão ou mais de organismos cada.
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 116*  
 > *"As bactérias crescem em colônias; cada colônia é como uma cidade de até 1 milhão ou mais de organismos."*
+
+## colonização
+
+Permanecer no local, aderido a ele.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 145*  
+> *"permanecer em um nicho (aderir ou colonizar)"*
 
 ## coloração bipolar
 
@@ -131,6 +236,13 @@ Teste rápido que separa as duas classes principais de bactérias.
 > *Murray - Microbiologia Médica, Cap. 12, p. 116*  
 > *"A coloração de Gram é um teste rápido, poderoso e fácil que possibilita aos médicos diferenciar entre as duas classes principais de bactérias"*
 
+## diplococos
+
+Duas células juntas.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 116*  
+> *"diplococos (duas células juntas)"*
+
 ## DNA
 
 Ácido desoxirribonucleico.
@@ -145,12 +257,40 @@ Na invasão, as bactérias podem entrar na corrente sanguínea e alcançar outro
 > *Murray - Microbiologia Médica, Cap. 14, p. 147*  
 > *"as bactérias podem ter meios para comprometer a barreira e invadir o corpo. Na invasão, as bactérias podem entrar na corrente sanguínea e alcançar outros sítios no corpo."*
 
+## empiema
+
+Efusão purulenta.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 211*  
+> *"o empiema (efusão purulenta) é uma complicação rara"*
+
+## endocardite
+
+Infecção do endotélio ou das valvas cardíacas.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 200*  
+> *"Endocardite: infecção do endotélio ou valvas cardíacas"*
+
 ## endotoxina
 
 Poderoso ativador das reações inflamatórias, produzido só por bactérias Gram-negativas.
 
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"A porção lipídica A do LPS e o lipo-oligossacarídio (LOS) produzidos por bactérias gram-negativas é um poderoso ativador da fase aguda e das reações inflamatórias, e é denominado endotoxina. É importante observar que a endotoxina não é o mesmo que exotoxina e que apenas bactérias gram-negativas produzem endotoxina."*
+
+## estreptococos viridans
+
+Nome que vem do latim viridis, verde, pelo pigmento verde formado pela hemólise parcial do ágar-sangue.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 198*  
+> *"estreptococos viridans, no qual o nome é derivado de viridis (do latim, verde), referindo-se ao pigmento verde formado pela hemólise parcial do ágar-sangue"*
+
+## explosão oxidativa
+
+Atividade da célula fagocítica necessária para a morte da bactéria dentro dela.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 210*  
+> *"pela supressão da explosão oxidativa da célula fagocítica mediada pela pneumolisina, que é necessária para a morte intracelular"*
 
 ## fagocitose
 
@@ -173,6 +313,13 @@ Produção de energia a partir da glicose sem oxigênio.
 > *Murray - Microbiologia Médica, Cap. 13, p. 131*  
 > *"As bactérias podem produzir energia a partir da glicose por (em ordem de aumento da eficiência) fermentação, respiração anaeróbica (ambas ocorrem na ausência de oxigênio) ou respiração aeróbica. [...] A fermentação ocorre sem oxigênio"*
 
+## fosforilcolina
+
+Componente que só existe no envoltório celular do *S. pneumoniae* e precisa estar presente para a atividade da amidase.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 209*  
+> *"A fosforilcolina é exclusiva do envoltório celular de S. pneumoniae e apresenta um importante papel regulador na hidrólise do envoltório celular. A fosforilcolina deve estar presente para a atividade da autolisina pneumocócica, a amidase, durante a divisão celular."*
+
 ## Gram-negativo
 
 Na coloração de Gram, a parede celular, fina, não retém o corante cristal violeta, e a célula é corada pela safranina e fica vermelha.
@@ -180,12 +327,57 @@ Na coloração de Gram, a parede celular, fina, não retém o corante cristal vi
 > *Murray - Microbiologia Médica, Cap. 12, p. 117-118*  
 > *"As bactérias gramnegativas têm uma camada fina de peptidoglicano que não retém o corante cristal violeta, portanto as células devem ser contracoradas com safranina e ficam vermelhas [...] uma parede celular constituída de peptidoglicano que é espesso para bactérias gram-positivas e fino para as gram-negativas."*
 
+## Gram-positivo
+
+Que fica roxo, porque o corante fica retido na camada espessa de peptidoglicano que envolve a célula.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 117*  
+> *"Para as bactérias gram-positivas, que ficam roxas ou púrpuras, o corante fica retido em uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula."*
+
+## hemólise
+
+O rompimento dos eritrócitos.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 116*  
+> *"lisar eritrócitos (propriedades hemolíticas estreptocócicas)"*
+>
+> *Murray - Microbiologia Médica, Cap. 14, p. 149*  
+> *"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares."*
+
+## HIV
+
+Vírus da imunodeficiência humana.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 203*  
+> *"vírus da imunodeficiência humana (HIV)"*
+
+## IgA
+
+Imunoglobulina A, uma das substâncias antibacterianas das secreções.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 147*  
+> *"secreções contendo substâncias antibacterianas (p. ex., lisozima, defensinas, imunoglobulina [Ig] A)"*
+
 ## IgG
 
 Imunoglobulina G.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 206*  
 > *"fragmento Fc de anticorpos imunoglobulina (Ig)G"*
+
+## imunoensaio
+
+Teste imunológico que usa anticorpos que reagem com o antígeno.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 204*  
+> *"testes imunológicos usando anticorpos que reagem com o carboidrato grupo-específico"*
+
+## infecção endógena
+
+Vinda da microbiota bacteriana do próprio paciente.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 197*  
+> *"Maioria das infecções endógenas (da microbiota bacteriana do paciente)"*
 
 ## inibidor de betalactamase
 
@@ -257,6 +449,20 @@ Os vários microrganismos que colonizam o corpo humano.
 > *Murray - Microbiologia Médica, Cap. 14, p. 145*  
 > *"O corpo humano é colonizado por vários microrganismos (microbiota normal)"*
 
+## mutação
+
+Mudança na sequência de bases do DNA.
+
+> *Murray - Microbiologia Médica, Cap. 13, p. 138*  
+> *"Uma mutação é qualquer mudança na sequência de bases do DNA."*
+
+## otite média
+
+Infecção da orelha média.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 211*  
+> *"A infecção do orelha média (otite média)"*
+
 ## oxidase-negativo
 
 Sem atividade de citocromo oxidase.
@@ -270,6 +476,13 @@ Reação em cadeia da polimerase.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 207*  
 > *"Os ensaios de amplificação do ácido nucleico baseados na reação em cadeia da polimerase (PCR)"*
+
+## peptidoglicano
+
+A camada espessa, em forma de malha, que envolve a célula.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 117*  
+> *"uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula"*
 
 ## piperacilina-tazobactam
 
@@ -285,12 +498,61 @@ Pequeno elemento genético, em geral uma molécula circular de DNA, que se repli
 > *Murray - Microbiologia Médica, Cap. 13, p. 139*  
 > *"Os plasmídios são pequenos elementos genéticos que se replicam de modo independente do cromossomo bacteriano. A maioria dos plasmídios é composta por moléculas de DNA circular de fita dupla"*
 
+## pleurisia
+
+Dor torácica.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 211*  
+> *"geralmente apresentam dor torácica (pleurisia)"*
+
+## pneumolisina
+
+Uma enzima da bactéria que degrada a hemoglobina e forma um produto verde; é também uma citotoxina, que se liga ao colesterol da membrana das células do hospedeiro e abre poros nela.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 209*  
+> *"A aparência alfa-hemolítica resulta da produção de pneumolisina, que é uma enzima que degrada a hemoglobina e produz um produto verde. [...] A pneumolisina, uma citotoxina semelhante à estreptolisina O em S. pyogenes, liga o colesterol na membrana celular do hospedeiro e cria poros."*
+
 ## pneumonia
 
 Inflamação dos pulmões.
 
 > *Murray - Microbiologia Médica, Cap. 25, p. 267*  
 > *"pneumoniae, inflamação dos pulmões"*
+
+## pneumonia lobar
+
+Pneumonia localizada nos lobos inferiores dos pulmões, por estar associada à aspiração.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 211*  
+> *"Como a doença está associada à aspiração, geralmente está localizada nos lobos inferiores dos pulmões (daí o nome pneumonia lobar"*
+
+## polissacarídio C
+
+A parte do ácido teicoico exposta na superfície, própria da espécie.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 209*  
+> *"O ácido teicoico exposto é ligado à camada de peptidoglicano e se estende através da cápsula sobrejacente. Essa estrutura espécie-específica, denominada polissacarídio C"*
+
+## proteínas de ligação à penicilina
+
+As enzimas que catalisam a construção da camada de peptidoglicano.
+
+> *Murray - Microbiologia Médica, Cap. 18, p. 184*  
+> *"As enzimas que catalisam a construção da camada de peptidoglicano são denominadas de proteínas de ligação à penicilina"*
+
+## PYR
+
+A enzima L-pirrolidonil arilamidase.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 205*  
+> *"enzima L-pirrolidonil arilamidase (PYR)"*
+
+## recombinação
+
+A incorporação de DNA estranho no cromossomo.
+
+> *Murray - Microbiologia Médica, Cap. 13, p. 143*  
+> *"A incorporação de DNA extracromossômico (estranho) no cromossomo ocorre por recombinação."*
 
 ## sepse
 
@@ -319,6 +581,13 @@ O que as bactérias secretam para concentrar ferro a partir de soluções diluí
 
 > *Murray - Microbiologia Médica, Cap. 13, p. 130*  
 > *"muitas bactérias secretam proteínas especiais (sideróforos) para concentrar ferro a partir de soluções diluídas"*
+
+## sorotipagem
+
+Diferencia uma cepa usando anticorpos que detectam os antígenos característicos dela.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 117*  
+> *"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem)."*
 
 ## terapia empírica
 

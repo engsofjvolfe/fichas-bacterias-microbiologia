@@ -56,3 +56,39 @@ a página. O documento sai da lista em `dados/divergencias.json`, pelo comando d
 
 > *Murray - Microbiologia Médica, Cap. 16, p. 169-170*  
 > *"Microscopia | Detecção de antígeno | TAAN | Cultura | Detecção de anticorpo [...] S. agalactiae | B | B | A | A | D [...] B, teste útil em certas circunstâncias ou para o diagnóstico de formas específicas da doença"*
+
+## A sensibilidade da cultura no diagnóstico do *Streptococcus pneumoniae*
+
+**Forma ensinada:** É altamente sensível, como a microscopia, a menos que o paciente tenha sido tratado com antibacterianos.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 197*  
+> *"A microscopia é altamente sensível, assim como a cultura, a menos que o paciente tenha sido tratado com antibacterianos"*
+
+**Outra forma:** Nas culturas de escarro, o *S. pneumoniae* é recuperado em apenas metade dos pacientes com pneumonia.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 212*  
+> *"Streptococcus pneumoniae é recuperado nas culturas de escarro de apenas metade dos pacientes com pneumonia, porque o organismo tem exigências nutricionais fastidiosas e está crescendo em excesso, e de maneira rápida, pela contaminação de bactérias orais."*
+
+## A sensibilidade do teste de antígeno do polissacarídio C na urina, na pneumonia pelo *Streptococcus pneumoniae*
+
+**Forma ensinada:** Os testes de antígeno são sensíveis com o líquido cefalorraquidiano, na meningite, mas não com a urina, na meningite, na pneumonia e em outras infecções.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 197*  
+> *"Testes de antígeno para polissacarídio C pneumocócico são sensíveis com o líquido cefalorraquidiano (meningite), mas não com urina (meningite, pneumonia, outras infecções)"*
+
+**Outra forma:** Na urina, a sensibilidade foi relatada em 70% dos pacientes com pneumonia pneumocócica bacterêmica, mas a especificidade pode ser baixa, particularmente em crianças.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 211-212*  
+> *"A sensibilidade foi relatada em 70% dos pacientes com pneumonia pneumocócica bacterêmica; no entanto, a especificidade pode ser baixa, particularmente em pacientes pediátricos."*
+
+## A quem se recomenda a vacina polissacarídica contra o *Streptococcus pneumoniae*
+
+**Forma ensinada:** A vacina polissacarídica 23-valente é recomendada para adultos em risco para doença.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 197*  
+> *"uma vacina polissacarídica 23-valente é recomendada para adultos em risco para doença"*
+
+**Outra forma:** A vacina com polissacarídio pneumocócico é recomendada como vacina de reforço para crianças e adultos mais velhos.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 212*  
+> *"o uso da vacina com polissacarídio pneumocócico como uma vacina de reforço é recomendado para crianças e adultos mais velhos"*

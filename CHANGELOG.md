@@ -38,6 +38,12 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No glossário, os termos que o texto de *Enterobacter* explica.
 - No dicionário das dúvidas, uma do capítulo 25: o número do *Enterobacter* na Figura 25.3,
   truncado na transcrição.
+- O texto de estudo de *Streptococcus pneumoniae*, nas sete etapas do manual de
+  consistência.
+- Na lista das divergências, os três fatos do texto de *Streptococcus pneumoniae* que o
+  livro diz de formas diferentes: a sensibilidade da cultura, a do teste de antígeno na
+  urina e a quem se recomenda a vacina polissacarídica.
+- No glossário, os termos que o texto de *Streptococcus pneumoniae* explica.
 
 ### Modificado
 

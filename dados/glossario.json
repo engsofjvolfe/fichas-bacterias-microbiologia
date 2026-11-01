@@ -245,6 +245,196 @@
       "termo": "variação de fase",
       "definicao": "Cada antígeno da bactéria pode ser expresso ou não, alternadamente.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 269*  \n> *\"Cada um desses antígenos pode ser alternadamente expresso ou não (variação de fase)\"*"
+    },
+    {
+      "termo": "ácido teicoico",
+      "definicao": "Componente que fortalece o envoltório celular.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 120*  \n> *\"Ácido teicoico | Ligação cruzada (reticulação) do polirribitol fosfato ou glicerol fosfato com peptidoglicano | Fortalece o envoltório celular\"*"
+    },
+    {
+      "termo": "adesinas",
+      "definicao": "Proteínas que se ligam a receptores na superfície do tecido e impedem que as bactérias sejam eliminadas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 147*  \n> *\"Escherichia coli e outras bactérias têm adesinas que se ligam a receptores na superfície do tecido e impedem os organismos de serem eliminados.\"*"
+    },
+    {
+      "termo": "ágar-sangue de carneiro",
+      "definicao": "Um meio com nutrientes enriquecidos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 197*  \n> *\"meios com nutrientes enriquecidos (p. ex., ágar-sangue de carneiro)\"*"
+    },
+    {
+      "termo": "alfa-hemólise",
+      "definicao": "Hemólise incompleta.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 198*  \n> *\"hemólise incompleta (alfa [α])\"*"
+    },
+    {
+      "termo": "amidase",
+      "definicao": "A autolisina do pneumococo.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 209*  \n> *\"A fosforilcolina deve estar presente para a atividade da autolisina pneumocócica, a amidase, durante a divisão celular.\"*"
+    },
+    {
+      "termo": "antígenos independentes de células T",
+      "definicao": "Antígenos que estimulam os linfócitos B maduros, mas não os linfócitos T.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 212*  \n> *\"Os polissacarídios são antígenos independentes de células T, estimulando linfócitos B maduros, mas não linfócitos T.\"*"
+    },
+    {
+      "termo": "autolisina",
+      "definicao": "Enzima que degrada a parede celular.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"ativa as autolisinas que degradam a parede celular\"*"
+    },
+    {
+      "termo": "C5a",
+      "definicao": "Atrai neutrófilos e outros fagócitos e medeia o processo inflamatório.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 201, 210*  \n> *\"o C5a, que é um quimioatraente de neutrófilos e fagócitos mononucleares [...] produzindo o C5a, que medeia o processo inflamatório\"*"
+    },
+    {
+      "termo": "carreamento",
+      "definicao": "A colonização.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 196*  \n> *\"A colonização (carreamento) orofaríngea\"*"
+    },
+    {
+      "termo": "células T helper",
+      "definicao": "Células T auxiliares.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 201*  \n> *\"células T helper (auxiliares)\"*"
+    },
+    {
+      "termo": "CIM",
+      "definicao": "Concentração inibitória mínima: a menor concentração do antibiótico que inibe o crescimento da bactéria.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"Concentração inibitória mínima (CIM): determinada por exposição de uma suspensão padronizada de bactérias a uma série de diluições do antimicrobiano. A menor concentração de antibacteriano que inibe o crescimento da bactéria é a CIM\"*"
+    },
+    {
+      "termo": "citocinas",
+      "definicao": "Produzidas por leucócitos ativados, levam mais células inflamatórias ao local da infecção e provocam febre e dano aos tecidos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 210*  \n> *\"citocinas como a interleucina (IL)-1 e o fator de necrose tumoral (TNF)-a são produzidos por leucócitos ativados, levando a uma maior migração de células inflamatórias para o sítio da infecção, além de febre, danos teciduais e outros sinais característicos de infecção pneumocócica\"*"
+    },
+    {
+      "termo": "citotoxina",
+      "definicao": "Tóxica para muitas células.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 18, p. 185*  \n> *\"Citotoxinas | Tóxica para muitas células\"*"
+    },
+    {
+      "termo": "coco",
+      "definicao": "Bactéria esférica.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 116*  \n> *\"Uma bactéria esférica como o Staphylococcus é um coco\"*"
+    },
+    {
+      "termo": "colonização",
+      "definicao": "Permanecer no local, aderido a ele.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 145*  \n> *\"permanecer em um nicho (aderir ou colonizar)\"*"
+    },
+    {
+      "termo": "diplococos",
+      "definicao": "Duas células juntas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 116*  \n> *\"diplococos (duas células juntas)\"*"
+    },
+    {
+      "termo": "empiema",
+      "definicao": "Efusão purulenta.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 211*  \n> *\"o empiema (efusão purulenta) é uma complicação rara\"*"
+    },
+    {
+      "termo": "endocardite",
+      "definicao": "Infecção do endotélio ou das valvas cardíacas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 200*  \n> *\"Endocardite: infecção do endotélio ou valvas cardíacas\"*"
+    },
+    {
+      "termo": "estreptococos viridans",
+      "definicao": "Nome que vem do latim viridis, verde, pelo pigmento verde formado pela hemólise parcial do ágar-sangue.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 198*  \n> *\"estreptococos viridans, no qual o nome é derivado de viridis (do latim, verde), referindo-se ao pigmento verde formado pela hemólise parcial do ágar-sangue\"*"
+    },
+    {
+      "termo": "explosão oxidativa",
+      "definicao": "Atividade da célula fagocítica necessária para a morte da bactéria dentro dela.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 210*  \n> *\"pela supressão da explosão oxidativa da célula fagocítica mediada pela pneumolisina, que é necessária para a morte intracelular\"*"
+    },
+    {
+      "termo": "fosforilcolina",
+      "definicao": "Componente que só existe no envoltório celular do *S. pneumoniae* e precisa estar presente para a atividade da amidase.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 209*  \n> *\"A fosforilcolina é exclusiva do envoltório celular de S. pneumoniae e apresenta um importante papel regulador na hidrólise do envoltório celular. A fosforilcolina deve estar presente para a atividade da autolisina pneumocócica, a amidase, durante a divisão celular.\"*"
+    },
+    {
+      "termo": "Gram-positivo",
+      "definicao": "Que fica roxo, porque o corante fica retido na camada espessa de peptidoglicano que envolve a célula.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117*  \n> *\"Para as bactérias gram-positivas, que ficam roxas ou púrpuras, o corante fica retido em uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula.\"*"
+    },
+    {
+      "termo": "hemólise",
+      "definicao": "O rompimento dos eritrócitos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 116*  \n> *\"lisar eritrócitos (propriedades hemolíticas estreptocócicas)\"*\n>\n> *Murray - Microbiologia Médica, Cap. 14, p. 149*  \n> *\"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares.\"*"
+    },
+    {
+      "termo": "HIV",
+      "definicao": "Vírus da imunodeficiência humana.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 203*  \n> *\"vírus da imunodeficiência humana (HIV)\"*"
+    },
+    {
+      "termo": "IgA",
+      "definicao": "Imunoglobulina A, uma das substâncias antibacterianas das secreções.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 147*  \n> *\"secreções contendo substâncias antibacterianas (p. ex., lisozima, defensinas, imunoglobulina [Ig] A)\"*"
+    },
+    {
+      "termo": "imunoensaio",
+      "definicao": "Teste imunológico que usa anticorpos que reagem com o antígeno.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 204*  \n> *\"testes imunológicos usando anticorpos que reagem com o carboidrato grupo-específico\"*"
+    },
+    {
+      "termo": "infecção endógena",
+      "definicao": "Vinda da microbiota bacteriana do próprio paciente.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 197*  \n> *\"Maioria das infecções endógenas (da microbiota bacteriana do paciente)\"*"
+    },
+    {
+      "termo": "mutação",
+      "definicao": "Mudança na sequência de bases do DNA.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 138*  \n> *\"Uma mutação é qualquer mudança na sequência de bases do DNA.\"*"
+    },
+    {
+      "termo": "otite média",
+      "definicao": "Infecção da orelha média.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 211*  \n> *\"A infecção do orelha média (otite média)\"*"
+    },
+    {
+      "termo": "peptidoglicano",
+      "definicao": "A camada espessa, em forma de malha, que envolve a célula.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117*  \n> *\"uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula\"*"
+    },
+    {
+      "termo": "pleurisia",
+      "definicao": "Dor torácica.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 211*  \n> *\"geralmente apresentam dor torácica (pleurisia)\"*"
+    },
+    {
+      "termo": "pneumolisina",
+      "definicao": "Uma enzima da bactéria que degrada a hemoglobina e forma um produto verde; é também uma citotoxina, que se liga ao colesterol da membrana das células do hospedeiro e abre poros nela.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 209*  \n> *\"A aparência alfa-hemolítica resulta da produção de pneumolisina, que é uma enzima que degrada a hemoglobina e produz um produto verde. [...] A pneumolisina, uma citotoxina semelhante à estreptolisina O em S. pyogenes, liga o colesterol na membrana celular do hospedeiro e cria poros.\"*"
+    },
+    {
+      "termo": "pneumonia lobar",
+      "definicao": "Pneumonia localizada nos lobos inferiores dos pulmões, por estar associada à aspiração.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 211*  \n> *\"Como a doença está associada à aspiração, geralmente está localizada nos lobos inferiores dos pulmões (daí o nome pneumonia lobar\"*"
+    },
+    {
+      "termo": "polissacarídio C",
+      "definicao": "A parte do ácido teicoico exposta na superfície, própria da espécie.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 209*  \n> *\"O ácido teicoico exposto é ligado à camada de peptidoglicano e se estende através da cápsula sobrejacente. Essa estrutura espécie-específica, denominada polissacarídio C\"*"
+    },
+    {
+      "termo": "proteínas de ligação à penicilina",
+      "definicao": "As enzimas que catalisam a construção da camada de peptidoglicano.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 18, p. 184*  \n> *\"As enzimas que catalisam a construção da camada de peptidoglicano são denominadas de proteínas de ligação à penicilina\"*"
+    },
+    {
+      "termo": "PYR",
+      "definicao": "A enzima L-pirrolidonil arilamidase.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 205*  \n> *\"enzima L-pirrolidonil arilamidase (PYR)\"*"
+    },
+    {
+      "termo": "recombinação",
+      "definicao": "A incorporação de DNA estranho no cromossomo.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 143*  \n> *\"A incorporação de DNA extracromossômico (estranho) no cromossomo ocorre por recombinação.\"*"
+    },
+    {
+      "termo": "sorotipagem",
+      "definicao": "Diferencia uma cepa usando anticorpos que detectam os antígenos característicos dela.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117*  \n> *\"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem).\"*"
     }
   ]
 }
