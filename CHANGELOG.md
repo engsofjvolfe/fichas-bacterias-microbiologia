@@ -20,6 +20,11 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   documento delas, que a peça da prateleira grava em `documentos-gerados/divergencias.md`.
 - O link de cada versão no fim do changelog, com os modelos em
   `dados/confere-changelog-links.json`, que o gancho do git dá ao conferidor do changelog.
+- O glossário dos termos que os textos explicam, com a lista em `dados/glossario.json` e o
+  cabeçalho, que a peça da prateleira grava em `documentos-gerados/glossario.md`.
+- O dicionário das dúvidas que o livro deixa, `documentos-gerados/dicionario-das-duvidas.md`,
+  cada uma sob os códigos do lugar (o capítulo e a página), com a forma dos códigos em
+  `dados/dicionario-das-duvidas.json`, que a peça da prateleira confere.
 
 ### Modificado
 

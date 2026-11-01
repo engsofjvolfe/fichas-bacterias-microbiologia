@@ -1,0 +1,6 @@
+{
+  "versao_schema": 1,
+  "titulo": "## ",
+  "codigo": {"abre": "`", "fecha": "`", "entre": " "},
+  "partes": {"separador": "/", "formas": ["[1-9][0-9]*", "[1-9][0-9]*"], "tamanhos": [1, 2]}
+}

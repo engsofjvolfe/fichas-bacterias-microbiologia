@@ -13,6 +13,9 @@ prateleira.
 | `divergencias.json` | [divergencias](../prateleira/divergencias/README.md) | os fatos que o livro diz de formas diferentes, cada um com a forma que os textos ensinam e as outras, cada forma com o que diz e o trecho do livro que a dá |
 | `divergencias-cabecalho.md` | [divergencias](../prateleira/divergencias/README.md) | o título e a abertura do documento das divergências, `documentos-gerados/divergencias.md` |
 | `confere-changelog-links.json` | [confere-changelog](../prateleira/confere-changelog/README.md#os-links) | os modelos do link de cada versão no fim do changelog, que o gancho do git dá à peça |
+| `glossario.json` | [glossario](../prateleira/glossario/README.md) | os termos que os textos explicam, cada um com a explicação que o livro dá e o trecho do livro de onde ela vem |
+| `glossario-cabecalho.md` | [glossario](../prateleira/glossario/README.md) | o título e a abertura do glossário, `documentos-gerados/glossario.md` |
+| `dicionario-das-duvidas.json` | [dicionario-das-duvidas](../prateleira/dicionario-das-duvidas/README.md) | a forma dos códigos dos títulos do dicionário das dúvidas, `documentos-gerados/dicionario-das-duvidas.md`: o capítulo e a página do lugar de cada dúvida, como `19/210`, ou só o capítulo |
 
 As marcas que uma ferramenta de IA deixa num texto (o caractere invisível ou o espaço
 especial, e o resto de citação) servem a qualquer projeto e ficam na prateleira, no
@@ -29,13 +32,18 @@ Da raiz do projeto, para um texto (ou vários):
 Os dois precisam sair com `0 erro(s)`. O que cada linha de `ERRO` quer dizer está no README
 de cada peça.
 
-O documento das divergências se grava da lista e do cabeçalho daqui, com o rótulo de cada
-forma, e as citações dele se conferem como as de um texto:
+O documento das divergências, com o rótulo de cada forma, e o glossário se gravam da lista e
+do cabeçalho de cada um, daqui, e as citações dos dois se conferem como as de um texto:
 
     python3 -I prateleira/divergencias/divergencias.py dados/divergencias.json dados/divergencias-cabecalho.md documentos-gerados/divergencias.md --ensinada "**Forma ensinada:**" --outra "**Outra forma:**"
-    python3 -I prateleira/confere-citacoes/confere_citacoes.py dados/confere-citacoes.json material-base/gerados-ocr documentos-gerados/divergencias.md
+    python3 -I prateleira/glossario/glossario.py dados/glossario.json dados/glossario-cabecalho.md documentos-gerados/glossario.md
+    python3 -I prateleira/confere-citacoes/confere_citacoes.py dados/confere-citacoes.json material-base/gerados-ocr documentos-gerados/divergencias.md documentos-gerados/glossario.md
 
-Com `--conferir` no fim do primeiro, nada se grava, e ele diz se o documento está em dia.
+Com `--conferir` no fim de cada comando que grava, nada se grava, e ele diz se o documento
+está em dia. O dicionário das dúvidas se escreve à mão, e os códigos dos títulos dele se
+conferem pela forma daqui:
+
+    python3 -I prateleira/dicionario-das-duvidas/confere_dicionario.py dados/dicionario-das-duvidas.json documentos-gerados/dicionario-das-duvidas.md
 
 ## Quando mudar
 
@@ -53,3 +61,9 @@ Com `--conferir` no fim do primeiro, nada se grava, e ele diz se o documento est
   a forma que os textos ensinam e as outras, cada uma com a fonte na forma do bloco de fonte
   dos textos (a linha da referência, sem o rótulo, e a do trecho), e o documento das
   divergências se grava de novo.
+- Um texto explica um termo com as palavras do livro: o termo entra em `glossario.json`, com
+  a explicação e a fonte na forma do bloco de fonte dos textos, e o glossário se grava de
+  novo.
+- O livro deixa uma dúvida, como a transcrição truncada de uma página: ela entra no
+  `documentos-gerados/dicionario-das-duvidas.md`, sob um título com os códigos do lugar
+  (`capítulo/página`), e o conferidor do dicionário confere os títulos.
