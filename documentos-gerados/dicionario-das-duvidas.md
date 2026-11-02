@@ -6,6 +6,23 @@ capítulo, como `19`, com os códigos em ordem natural. Depois do título vêm a
 resposta que ela teve, com o endereço certo da informação, para a mesma busca não se
 repetir.
 
+## `12/122` `14/152` `22/234`
+
+No capítulo 12, a cobertura lipídica das micobactérias aparece como "antifagocítica", o que
+se pode ler como uma cobertura que impede a captação pelos fagócitos. O capítulo 22 diz que o
+*M. tuberculosis* é fagocitado pelos macrófagos alveolares e se multiplica dentro deles, e o
+capítulo 14 põe o envoltório ceroso, rico em lipídios, das micobactérias entre os mecanismos
+de proteção da morte dentro da célula; é essa a forma que os textos ensinam.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 122*  
+> *"Essas bactérias são descritas como álcool-ácido resistentes. A cobertura é responsável pela virulência e é antifagocítica."*
+>
+> *Murray - Microbiologia Médica, Cap. 14, p. 152*  
+> *"Mecanismos bacterianos para proteção da morte intracelular incluem o bloqueio da fusão do lisossomo com o fagossomo para prevenir o contato com seu conteúdo bactericida (Mycobacterium spp.); ter uma cápsula protetora ou envoltório celular ceroso rico em lipídios (micobactérias e Nocardia)"*
+>
+> *Murray - Microbiologia Médica, Cap. 22, p. 234*  
+> *"partículas infecciosas penetram nos alvéolos, onde são fagocitadas pelos macrófagos alveolares"*
+
 ## `19/200` `19/206`
 
 No Boxe 19.1, a doença neonatal precoce aparece como a que dá sinais "7 dias após o
@@ -25,6 +42,16 @@ livro os deixa.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 206*  
 > *"O uso de profilaxia antibacteriana intraparto é responsável por uma queda drástica na doença neonatal de aproximadamente 1,7 infecção por nascidos vivo em 1993 para 0,22 infecção em 2016."*
+
+## `22/231` `22/238`
+
+A profilaxia de quem foi exposto ao *M. tuberculosis* resistente a medicamentos aparece, no
+quadro de resumo e no corpo do capítulo, como "pirazinamida e etambutol ou levofloxacino",
+sem dizer se o levofloxacino entra no lugar do etambutol ou no lugar da dupla. O capítulo não
+resolve; os textos dão a frase como o livro a deixa.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 231, 238*  
+> *"pirazinamida e etambutol ou levofloxacino são usados por 6 a 12 meses após a exposição ao M. tuberculosis resistente a antimicrobianos [...] Pacientes que foram expostos a M. tuberculosis resistente a medicamentos devem receber profilaxia com pirazinamida e etambutol ou levofloxacino por 6 a 12 meses."*
 
 ## `25/270`
 

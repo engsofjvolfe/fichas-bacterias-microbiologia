@@ -12,12 +12,26 @@ Componente que fortalece o envoltório celular.
 > *Murray - Microbiologia Médica, Cap. 12, p. 120*  
 > *"Ácido teicoico | Ligação cruzada (reticulação) do polirribitol fosfato ou glicerol fosfato com peptidoglicano | Fortalece o envoltório celular"*
 
+## ácidos micólicos
+
+Ácidos graxos grandes, presentes na cobertura lipídica semelhante à cera do envoltório das micobactérias.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 122*  
+> *"As micobactérias têm uma camada de peptidoglicano [...] rodeada por uma cobertura lipídica semelhante à cera composta de ácido micólico (ácidos graxos α-ramificados e β-hidroxilados grandes)"*
+
 ## adesinas
 
 Proteínas que se ligam a receptores na superfície do tecido e impedem que as bactérias sejam eliminadas.
 
 > *Murray - Microbiologia Médica, Cap. 14, p. 147*  
 > *"Escherichia coli e outras bactérias têm adesinas que se ligam a receptores na superfície do tecido e impedem os organismos de serem eliminados."*
+
+## aeróbio obrigatório
+
+Que precisa da presença de oxigênio molecular para o metabolismo e o crescimento, como o *M. tuberculosis*.
+
+> *Murray - Microbiologia Médica, Cap. 13, p. 130*  
+> *"Outros organismos (p. ex., Mycobacterium tuberculosis, que causa a tuberculose) necessitam da presença de oxigênio molecular para o metabolismo e crescimento e, portanto, são chamados aeróbios obrigatórios."*
 
 ## ágar MacConkey
 
@@ -32,6 +46,13 @@ Um meio com nutrientes enriquecidos.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 197*  
 > *"meios com nutrientes enriquecidos (p. ex., ágar-sangue de carneiro)"*
+
+## álcool-ácido resistência
+
+A resistência à descoloração com soluções de ácido fraco a forte, que se deve às cadeias médias a longas de ácidos micólicos do envoltório celular.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 232*  
+> *"álcool-ácido resistentes (i. e., resistem à descoloração com soluções de ácido fraco a forte) devido à presença de cadeias médias a longas de ácidos micólicos em seu envoltório celular"*
 
 ## alfa-hemólise
 
@@ -67,6 +88,13 @@ Que cresce na presença ou na ausência de oxigênio.
 
 > *Murray - Microbiologia Médica, Cap. 13, p. 130*  
 > *"A maioria das bactérias, entretanto, cresce na presença ou na ausência de oxigênio e são denominadas organismos anaeróbios facultativos."*
+
+## anérgico
+
+Não reativo aos antígenos.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 236*  
+> *"se forem anérgicos (não reativos aos antígenos; principalmente em pacientes infectados pelo HIV)"*
 
 ## antígeno
 
@@ -123,6 +151,13 @@ Presença de bactérias no sangue.
 
 > *Murray - Microbiologia Médica, Cap. 16, p. 164*  
 > *"Bacteriemia e fungemia são definidas como a presença de bactérias e fungos, respectivamente, no sangue"*
+
+## BCG
+
+Bacilo Calmette-Guérin, o *M. bovis* atenuado usado na vacinação.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 236*  
+> *"a vacinação com M. bovis atenuado (bacilo Calmette-Guérin [BCG])"*
 
 ## beta-hemólise
 
@@ -201,6 +236,13 @@ Células T auxiliares.
 > *Murray - Microbiologia Médica, Cap. 19, p. 201*  
 > *"células T helper (auxiliares)"*
 
+## células TH1
+
+Células T auxiliares.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 234*  
+> *"células TH1 (células T helper, auxiliares)"*
+
 ## CIM
 
 Concentração inibitória mínima: a menor concentração do antibiótico que inibe o crescimento da bactéria.
@@ -256,6 +298,13 @@ Teste rápido que separa as duas classes principais de bactérias.
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 116*  
 > *"A coloração de Gram é um teste rápido, poderoso e fácil que possibilita aos médicos diferenciar entre as duas classes principais de bactérias"*
+
+## complexo *M. tuberculosis*
+
+O *M. tuberculosis* e as espécies intimamente relacionadas a ele.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 233*  
+> *"Mycobacterium tuberculosis e espécies intimamente relacionadas no complexo M. tuberculosis são bactérias de crescimento lento."*
 
 ## diplococos
 
@@ -319,6 +368,13 @@ Infecção aguda da pele.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 202*  
 > *"A erisipela (eritros, vermelho; pella, pele) é uma infecção aguda da pele."*
+
+## espectrometria de massa
+
+Análise rápida dos perfis proteicos característicos das bactérias.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 118*  
+> *"Perfis proteicos característicos de bactérias também podem ser rapidamente analisados por espectrometria de massa (MALDI-TOF)."*
 
 ## estreptococos viridans
 
@@ -397,6 +453,13 @@ Que fica roxo, porque o corante fica retido na camada espessa de peptidoglicano 
 > *Murray - Microbiologia Médica, Cap. 12, p. 117*  
 > *"Para as bactérias gram-positivas, que ficam roxas ou púrpuras, o corante fica retido em uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula."*
 
+## granuloma
+
+Estrutura em que macrófagos e outras células com micobactérias dentro formam o núcleo central de uma massa necrótica, cercada por uma parede densa de macrófagos e células T; impede a propagação das bactérias.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 234*  
+> *"Macrófagos alveolares, células epitelioides e células gigantes de Langhans (células epitelioides fundidas) com micobactérias intracelulares formam o núcleo central de uma massa necrótica que é circundada por uma parede densa de macrófagos e células T CD4, CD8 e NK. Essa estrutura, o granuloma, impede a propagação das bactérias."*
+
 ## hemólise
 
 O rompimento dos eritrócitos.
@@ -414,12 +477,26 @@ Toxina que se insere e rompe os eritrócitos e outras membranas celulares.
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares."*
 
+## hemoptise
+
+Expectoração ou escarro com estrias de sangue.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 235*  
+> *"A produção de expectoração ou escarro com estrias de sangue (hemoptise) está associada à destruição do tecido (p. ex., doença cavitária)."*
+
 ## HIV
 
 Vírus da imunodeficiência humana.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 203*  
 > *"vírus da imunodeficiência humana (HIV)"*
+
+## IFN-γ
+
+Interferona gama.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 234*  
+> *"com subsequente secreção de interferona (IFN)-γ"*
 
 ## IgA
 
@@ -617,6 +694,13 @@ A parte do ácido teicoico exposta na superfície, própria da espécie.
 > *Murray - Microbiologia Médica, Cap. 19, p. 209*  
 > *"O ácido teicoico exposto é ligado à camada de peptidoglicano e se estende através da cápsula sobrejacente. Essa estrutura espécie-específica, denominada polissacarídio C"*
 
+## PPD
+
+Derivado de proteína purificada: as proteínas do envoltório das micobactérias, que estimulam a resposta imune celular, extraídas e parcialmente purificadas, usadas no teste cutâneo.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 232*  
+> *"As proteínas associadas ao envoltório celular são antígenos biologicamente importantes, que estimulam a resposta imune celular do paciente. As preparações extraídas e parcialmente purificadas dessas proteínas (derivados de proteína purificada [PPDs]) são utilizadas como reagentes do teste cutâneo"*
+
 ## proteína M
 
 A principal proteína tipo-específica associada às cepas virulentas.
@@ -651,6 +735,13 @@ A incorporação de DNA estranho no cromossomo.
 
 > *Murray - Microbiologia Médica, Cap. 13, p. 143*  
 > *"A incorporação de DNA extracromossômico (estranho) no cromossomo ocorre por recombinação."*
+
+## RNA
+
+Ácido ribonucleico.
+
+> *Murray - Microbiologia Médica, Cap. 17, p. 177*  
+> *"inibe a transcrição de ácido ribonucleico (RNA)"*
 
 ## sepse
 
@@ -708,12 +799,33 @@ Medida do efeito do antibacteriano contra a bactéria em condições específica
 > *Murray - Microbiologia Médica, Cap. 16, p. 169*  
 > *"os testes in vitro são simplesmente uma medida do efeito do antibacteriano contra o organismo em condições específicas"*
 
+## TNF-α
+
+Fator de necrose tumoral alfa.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 234*  
+> *"os macrófagos secretam interleucina (IL)-12 e fator de necrose tumoral (TNF)-α"*
+
 ## tromboflebite séptica
 
 Uma das infecções intravasculares.
 
 > *Murray - Microbiologia Médica, Cap. 16, p. 164*  
 > *"infecções intravasculares (p. ex., endocardite, tromboflebite séptica, infecções associadas a cateteres intravasculares)"*
+
+## tuberculose extremamente resistente
+
+A causada por cepas resistentes às fluoroquinolonas e a pelo menos um dos medicamentos de segunda linha, potencialmente não tratáveis.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 238*  
+> *"as cepas de M. tuberculosis altamente resistentes, denominadas TB extremamente resistente a medicamentos (XDR), surgiram na maioria das regiões do mundo. Essas cepas, definidas como XDR-TB, que são resistentes às fluoroquinolonas e pelo menos a um dos medicamentos de segunda linha [...] são potencialmente não tratáveis."*
+
+## tuberculose multirresistente
+
+A causada por cepas resistentes pelo menos à isoniazida e à rifampicina.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 238*  
+> *"M. tuberculosis multirresistente a medicamentos (MDR-TB; resistente pelo menos à isoniazida e rifampicina)"*
 
 ## variação de fase
 

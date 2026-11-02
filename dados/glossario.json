@@ -510,6 +510,86 @@
       "termo": "superantígeno",
       "definicao": "Toxina que ativa as células T sem a necessidade de antígeno, levando um grande número delas a liberar grandes quantidades de citocinas.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 149*  \n> *\"Essas moléculas ativam as células T ligando-se simultaneamente a um receptor de células T e a uma molécula de complexo principal de histocompatibilidade de classe II (MHC II) em uma célula apresentadora de antígeno sem a necessidade de antígeno. Os superantígenos ativam um grande número de células T para liberar grandes quantidades (tempestade de citocinas) de interleucinas (IL)\"*"
+    },
+    {
+      "termo": "ácidos micólicos",
+      "definicao": "Ácidos graxos grandes, presentes na cobertura lipídica semelhante à cera do envoltório das micobactérias.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 122*  \n> *\"As micobactérias têm uma camada de peptidoglicano [...] rodeada por uma cobertura lipídica semelhante à cera composta de ácido micólico (ácidos graxos α-ramificados e β-hidroxilados grandes)\"*"
+    },
+    {
+      "termo": "aeróbio obrigatório",
+      "definicao": "Que precisa da presença de oxigênio molecular para o metabolismo e o crescimento, como o *M. tuberculosis*.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 130*  \n> *\"Outros organismos (p. ex., Mycobacterium tuberculosis, que causa a tuberculose) necessitam da presença de oxigênio molecular para o metabolismo e crescimento e, portanto, são chamados aeróbios obrigatórios.\"*"
+    },
+    {
+      "termo": "álcool-ácido resistência",
+      "definicao": "A resistência à descoloração com soluções de ácido fraco a forte, que se deve às cadeias médias a longas de ácidos micólicos do envoltório celular.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 232*  \n> *\"álcool-ácido resistentes (i. e., resistem à descoloração com soluções de ácido fraco a forte) devido à presença de cadeias médias a longas de ácidos micólicos em seu envoltório celular\"*"
+    },
+    {
+      "termo": "anérgico",
+      "definicao": "Não reativo aos antígenos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 236*  \n> *\"se forem anérgicos (não reativos aos antígenos; principalmente em pacientes infectados pelo HIV)\"*"
+    },
+    {
+      "termo": "BCG",
+      "definicao": "Bacilo Calmette-Guérin, o *M. bovis* atenuado usado na vacinação.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 236*  \n> *\"a vacinação com M. bovis atenuado (bacilo Calmette-Guérin [BCG])\"*"
+    },
+    {
+      "termo": "células TH1",
+      "definicao": "Células T auxiliares.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 234*  \n> *\"células TH1 (células T helper, auxiliares)\"*"
+    },
+    {
+      "termo": "complexo *M. tuberculosis*",
+      "definicao": "O *M. tuberculosis* e as espécies intimamente relacionadas a ele.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 233*  \n> *\"Mycobacterium tuberculosis e espécies intimamente relacionadas no complexo M. tuberculosis são bactérias de crescimento lento.\"*"
+    },
+    {
+      "termo": "espectrometria de massa",
+      "definicao": "Análise rápida dos perfis proteicos característicos das bactérias.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 118*  \n> *\"Perfis proteicos característicos de bactérias também podem ser rapidamente analisados por espectrometria de massa (MALDI-TOF).\"*"
+    },
+    {
+      "termo": "granuloma",
+      "definicao": "Estrutura em que macrófagos e outras células com micobactérias dentro formam o núcleo central de uma massa necrótica, cercada por uma parede densa de macrófagos e células T; impede a propagação das bactérias.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 234*  \n> *\"Macrófagos alveolares, células epitelioides e células gigantes de Langhans (células epitelioides fundidas) com micobactérias intracelulares formam o núcleo central de uma massa necrótica que é circundada por uma parede densa de macrófagos e células T CD4, CD8 e NK. Essa estrutura, o granuloma, impede a propagação das bactérias.\"*"
+    },
+    {
+      "termo": "hemoptise",
+      "definicao": "Expectoração ou escarro com estrias de sangue.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 235*  \n> *\"A produção de expectoração ou escarro com estrias de sangue (hemoptise) está associada à destruição do tecido (p. ex., doença cavitária).\"*"
+    },
+    {
+      "termo": "IFN-γ",
+      "definicao": "Interferona gama.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 234*  \n> *\"com subsequente secreção de interferona (IFN)-γ\"*"
+    },
+    {
+      "termo": "PPD",
+      "definicao": "Derivado de proteína purificada: as proteínas do envoltório das micobactérias, que estimulam a resposta imune celular, extraídas e parcialmente purificadas, usadas no teste cutâneo.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 232*  \n> *\"As proteínas associadas ao envoltório celular são antígenos biologicamente importantes, que estimulam a resposta imune celular do paciente. As preparações extraídas e parcialmente purificadas dessas proteínas (derivados de proteína purificada [PPDs]) são utilizadas como reagentes do teste cutâneo\"*"
+    },
+    {
+      "termo": "RNA",
+      "definicao": "Ácido ribonucleico.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 177*  \n> *\"inibe a transcrição de ácido ribonucleico (RNA)\"*"
+    },
+    {
+      "termo": "TNF-α",
+      "definicao": "Fator de necrose tumoral alfa.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 234*  \n> *\"os macrófagos secretam interleucina (IL)-12 e fator de necrose tumoral (TNF)-α\"*"
+    },
+    {
+      "termo": "tuberculose extremamente resistente",
+      "definicao": "A causada por cepas resistentes às fluoroquinolonas e a pelo menos um dos medicamentos de segunda linha, potencialmente não tratáveis.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 238*  \n> *\"as cepas de M. tuberculosis altamente resistentes, denominadas TB extremamente resistente a medicamentos (XDR), surgiram na maioria das regiões do mundo. Essas cepas, definidas como XDR-TB, que são resistentes às fluoroquinolonas e pelo menos a um dos medicamentos de segunda linha [...] são potencialmente não tratáveis.\"*"
+    },
+    {
+      "termo": "tuberculose multirresistente",
+      "definicao": "A causada por cepas resistentes pelo menos à isoniazida e à rifampicina.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 238*  \n> *\"M. tuberculosis multirresistente a medicamentos (MDR-TB; resistente pelo menos à isoniazida e rifampicina)\"*"
     }
   ]
 }

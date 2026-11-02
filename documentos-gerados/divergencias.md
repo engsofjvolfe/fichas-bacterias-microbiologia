@@ -92,3 +92,39 @@ a página. O documento sai da lista em `dados/divergencias.json`, pelo comando d
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 212*  
 > *"o uso da vacina com polissacarídio pneumocócico como uma vacina de reforço é recomendado para crianças e adultos mais velhos"*
+
+## Quem tem maior risco de doença pelo *Mycobacterium tuberculosis*
+
+**Forma ensinada:** Estrangeiros ou viajantes a países endêmicos, pacientes imunocomprometidos (particularmente os infectados pelo HIV), quem faz uso abusivo de drogas e álcool, pessoas em situação de rua ou em contato com pacientes doentes.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 231*  
+> *"Indivíduos com maior risco de doenças são estrangeiros ou viajantes a países endêmicos, pacientes imunocomprometidos (particularmente aqueles com infecção pelo HIV), indivíduos que fazem uso abusivo de drogas e álcool, pessoas em situação de rua ou em contato com pacientes doentes"*
+
+**Outra forma:** Nos Estados Unidos, quase 70% das infecções em pessoas nascidas no exterior; as outras populações com risco aumentado são as pessoas em situação de rua, os usuários de drogas e álcool, os prisioneiros e as pessoas infectadas pelo HIV.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 235*  
+> *"Um total de 9.272 casos foi notificado em 2016 (2,9 casos por 100 mil indivíduos), com quase 70% das infecções em pessoas nascidas no exterior. Outras populações com risco aumentado para a doença causada por M. tuberculosis são as pessoas em situação de rua, usuários de drogas e álcool, prisioneiros e pessoas infectadas com o vírus da imunodeficiência humana (HIV)."*
+
+## A sensibilidade da microscopia no diagnóstico do *Mycobacterium tuberculosis*
+
+**Forma ensinada:** A microscopia e a cultura são sensíveis e específicas.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 231*  
+> *"Microscopia e cultura são sensíveis e específicas"*
+
+**Outra forma:** Em aproximadamente metade das amostras de cultura positiva, as bactérias álcool-ácido resistentes são detectadas por microscopia, o que varia enormemente com a habilidade do microscopista.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 236*  
+> *"Em aproximadamente metade das amostras de cultura positiva as bactérias álcool-ácido resistentes são detectadas por microscopia, embora isso varie enormemente com base na habilidade do microscopista."*
+
+## Os métodos mais usados na identificação do *Mycobacterium tuberculosis*
+
+**Forma ensinada:** Sondas moleculares espécie-específicas, sequenciamento ou espectrometria de massa.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 231*  
+> *"Identificação mais comumente feita usando sondas moleculares espécie-específicas, sequenciamento ou espectrometria de massa"*
+
+**Outra forma:** Sondas moleculares espécie-específicas, amplificação de genes alvos espécie-específicos e espectrometria de massa.
+
+> *Murray - Microbiologia Médica, Cap. 22, p. 237*  
+> *"Sondas moleculares espécie-específicas, amplificação de genes alvos espécie-específicos (p. ex., gene 16S rRNA, gene SecA) e espectrometria de massa são usados atualmente para a identificação de micobactérias."*

@@ -46,11 +46,20 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No glossário, os termos que o texto de *Streptococcus pneumoniae* explica.
 - O texto de estudo de *Streptococcus pyogenes*, nas sete etapas do manual de consistência.
 - No glossário, os termos que o texto de *Streptococcus pyogenes* explica.
+- O texto de estudo de *Mycobacterium tuberculosis*, nas sete etapas do manual de
+  consistência.
+- Na lista das divergências, os três fatos do texto de *Mycobacterium tuberculosis* que o
+  livro diz de formas diferentes: quem tem maior risco de doença, a sensibilidade da
+  microscopia e os métodos mais usados na identificação.
+- No glossário, os termos que o texto de *Mycobacterium tuberculosis* explica.
+- No dicionário das dúvidas, duas dos capítulos 12, 14 e 22: a cobertura "antifagocítica" das
+  micobactérias e a profilaxia com "pirazinamida e etambutol ou levofloxacino".
 
 ### Modificado
 
 - A lista de nomes em itálico da configuração do conferidor de forma, com *S. lugdunensis*,
-  *Enterobacter cloacae*, *Citrobacter* e *Morganella*.
+  *Enterobacter cloacae*, *Citrobacter*, *Morganella*, *M. bovis* e o termo latino
+  *tuberculum*.
 - No manual de consistência, a seção 4 passa a dizer que o texto é curto, mas com todas as
   informações necessárias, sem teto fixo de palavras.
 - Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto
