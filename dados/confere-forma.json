@@ -51,7 +51,7 @@
       "S. agalactiae", "S. aureus", "S. boydii", "S. dysenteriae", "S. enterica", "S. epidermidis", "S. flexneri",
       "S. lugdunensis", "S. marcescens", "S. mitis", "S. mutans", "S. pneumoniae", "S. pyogenes", "S. saprophyticus", "S. sonnei",
       "V. cholerae", "V. parahaemolyticus", "V. vulnificus",
-      "Y. enterocolitica",
+      "Y. enterocolitica", "Y. pestis", "Y. pseudotuberculosis",
       "in vitro", "in vivo", "risus sardonicus", "tetanus neonatorum", "tuberculum"
     ],
     "marcas": ["*", "_"],

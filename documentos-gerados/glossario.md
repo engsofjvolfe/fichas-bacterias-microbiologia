@@ -68,6 +68,13 @@ A autolisina do pneumococo.
 > *Murray - Microbiologia Médica, Cap. 19, p. 209*  
 > *"A fosforilcolina deve estar presente para a atividade da autolisina pneumocócica, a amidase, durante a divisão celular."*
 
+## aminoglicosídios
+
+Antibacterianos utilizados principalmente para tratar infecções com bastonetes Gram-negativos.
+
+> *Murray - Microbiologia Médica, Cap. 17, p. 178*  
+> *"Aminoglicosídios (estreptomicina, canamicina, gentamicina, tobramicina, amicacina) | Utilizados principalmente para tratar infecções com bastonetes (bacilo) gram-negativos"*
+
 ## amplificação de ácido nucleico
 
 Amplificação de sequências de ácido desoxirribonucleico espécie-específicas.
@@ -102,6 +109,13 @@ O que os anticorpos detectam nas bactérias.
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 117*  
 > *"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem)."*
+
+## antígeno O
+
+O polissacarídio somático mais externo do lipopolissacarídio, importante para a classificação epidemiológica de cepas dentro de uma espécie.
+
+> *Murray - Microbiologia Médica, Cap. 25, p. 268*  
+> *"o polissacarídio O somático mais externo [...] o polissacarídio O é importante para a classificação epidemiológica de cepas dentro de uma espécie"*
 
 ## antígenos independentes de células T
 
@@ -236,6 +250,13 @@ Uma enzima que converte o peróxido de hidrogênio em água e oxigênio.
 > *Murray - Microbiologia Médica, Cap. 18, p. 183*  
 > *"A presença ou ausência de catalase, uma enzima que converte o peróxido de hidrogênio em água e oxigênio, é utilizada para subdividir os vários gêneros."*
 
+## células M
+
+Micropregas do cólon.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 148*  
+> *"utilizam fímbrias para se ligarem às células M (micropregas) do cólon"*
+
 ## células T helper
 
 Células T auxiliares.
@@ -369,6 +390,13 @@ Poderoso ativador das reações inflamatórias, produzido só por bactérias Gra
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"A porção lipídica A do LPS e o lipo-oligossacarídio (LOS) produzidos por bactérias gram-negativas é um poderoso ativador da fase aguda e das reações inflamatórias, e é denominado endotoxina. É importante observar que a endotoxina não é o mesmo que exotoxina e que apenas bactérias gram-negativas produzem endotoxina."*
 
+## enriquecimento a frio
+
+Método que permite o crescimento de *Yersinia*, mas inibe ou elimina outros organismos na amostra.
+
+> *Murray - Microbiologia Médica, Cap. 25, p. 277*  
+> *"Esse enriquecimento a frio permite o crescimento de Yersinia, mas inibe ou elimina outros organismos na amostra."*
+
 ## erisipela
 
 Infecção aguda da pele.
@@ -424,6 +452,13 @@ Produção de energia a partir da glicose sem oxigênio.
 
 > *Murray - Microbiologia Médica, Cap. 13, p. 131*  
 > *"As bactérias podem produzir energia a partir da glicose por (em ordem de aumento da eficiência) fermentação, respiração anaeróbica (ambas ocorrem na ausência de oxigênio) ou respiração aeróbica. [...] A fermentação ocorre sem oxigênio"*
+
+## fímbrias
+
+Estruturas semelhantes a cabelos ou pelos na porção externa das bactérias, compostas de subunidades de proteínas.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 122*  
+> *"Fímbrias (pili) [...] são estruturas semelhantes a cabelos ou pelos na porção externa das bactérias, compostas de subunidades de proteínas (pilina)."*
 
 ## fômites
 
@@ -799,6 +834,13 @@ O que as bactérias secretam para concentrar ferro a partir de soluções diluí
 > *Murray - Microbiologia Médica, Cap. 13, p. 130*  
 > *"muitas bactérias secretam proteínas especiais (sideróforos) para concentrar ferro a partir de soluções diluídas"*
 
+## sistema de secreção tipo III
+
+Uma seringa molecular que consiste em aproximadamente 20 proteínas que facilitam a transferência de fatores de virulência de bactérias nas células-alvo do hospedeiro.
+
+> *Murray - Microbiologia Médica, Cap. 25, p. 269*  
+> *"Pense no sistema de secreção tipo III como uma seringa molecular que consiste em aproximadamente 20 proteínas que facilitam a transferência de fatores de virulência de bactérias nas célulasalvo do hospedeiro."*
+
 ## sorogrupo
 
 Subdivisão de uma espécie pelo polissacarídio O.
@@ -819,6 +861,13 @@ Toxina que ativa as células T sem a necessidade de antígeno, levando um grande
 
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"Essas moléculas ativam as células T ligando-se simultaneamente a um receptor de células T e a uma molécula de complexo principal de histocompatibilidade de classe II (MHC II) em uma célula apresentadora de antígeno sem a necessidade de antígeno. Os superantígenos ativam um grande número de células T para liberar grandes quantidades (tempestade de citocinas) de interleucinas (IL)"*
+
+## TAAN
+
+Teste de amplificação de ácido nucleico.
+
+> *Murray - Microbiologia Médica, Cap. 16, p. 170*  
+> *"TAAN, teste de amplificação de ácido nucleico."*
 
 ## terapia empírica
 

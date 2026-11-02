@@ -61,12 +61,16 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No glossário, os termos que o texto de *Vibrio* explica.
 - No dicionário das dúvidas, uma do capítulo 26: a medida dos bacilos de *Vibrio*, com três
   números ligados pela mesma palavra.
+- O texto de estudo de *Yersinia enterocolitica*, nas sete etapas do manual de
+  consistência.
+- No glossário, os termos que o texto de *Yersinia enterocolitica* explica.
 
 ### Modificado
 
 - A lista de nomes em itálico da configuração do conferidor de forma, com *S. lugdunensis*,
   *Enterobacter cloacae*, *Citrobacter*, *Morganella*, *M. bovis*, *Vibrio cholerae*,
-  *Vibrio parahaemolyticus*, *Vibrio vulnificus* e o termo latino *tuberculum*.
+  *Vibrio parahaemolyticus*, *Vibrio vulnificus*, *Y. pestis*, *Y. pseudotuberculosis* e o
+  termo latino *tuberculum*.
 - No manual de consistência, a seção 4 passa a dizer que o texto é curto, mas com todas as
   informações necessárias, sem teto fixo de palavras.
 - Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto

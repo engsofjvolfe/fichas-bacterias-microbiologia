@@ -615,6 +615,41 @@
       "termo": "tuberculose multirresistente",
       "definicao": "A causada por cepas resistentes pelo menos à isoniazida e à rifampicina.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 22, p. 238*  \n> *\"M. tuberculosis multirresistente a medicamentos (MDR-TB; resistente pelo menos à isoniazida e rifampicina)\"*"
+    },
+    {
+      "termo": "aminoglicosídios",
+      "definicao": "Antibacterianos utilizados principalmente para tratar infecções com bastonetes Gram-negativos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 178*  \n> *\"Aminoglicosídios (estreptomicina, canamicina, gentamicina, tobramicina, amicacina) | Utilizados principalmente para tratar infecções com bastonetes (bacilo) gram-negativos\"*"
+    },
+    {
+      "termo": "antígeno O",
+      "definicao": "O polissacarídio somático mais externo do lipopolissacarídio, importante para a classificação epidemiológica de cepas dentro de uma espécie.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 268*  \n> *\"o polissacarídio O somático mais externo [...] o polissacarídio O é importante para a classificação epidemiológica de cepas dentro de uma espécie\"*"
+    },
+    {
+      "termo": "células M",
+      "definicao": "Micropregas do cólon.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 148*  \n> *\"utilizam fímbrias para se ligarem às células M (micropregas) do cólon\"*"
+    },
+    {
+      "termo": "fímbrias",
+      "definicao": "Estruturas semelhantes a cabelos ou pelos na porção externa das bactérias, compostas de subunidades de proteínas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 122*  \n> *\"Fímbrias (pili) [...] são estruturas semelhantes a cabelos ou pelos na porção externa das bactérias, compostas de subunidades de proteínas (pilina).\"*"
+    },
+    {
+      "termo": "enriquecimento a frio",
+      "definicao": "Método que permite o crescimento de *Yersinia*, mas inibe ou elimina outros organismos na amostra.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 277*  \n> *\"Esse enriquecimento a frio permite o crescimento de Yersinia, mas inibe ou elimina outros organismos na amostra.\"*"
+    },
+    {
+      "termo": "sistema de secreção tipo III",
+      "definicao": "Uma seringa molecular que consiste em aproximadamente 20 proteínas que facilitam a transferência de fatores de virulência de bactérias nas células-alvo do hospedeiro.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 269*  \n> *\"Pense no sistema de secreção tipo III como uma seringa molecular que consiste em aproximadamente 20 proteínas que facilitam a transferência de fatores de virulência de bactérias nas célulasalvo do hospedeiro.\"*"
+    },
+    {
+      "termo": "TAAN",
+      "definicao": "Teste de amplificação de ácido nucleico.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 170*  \n> *\"TAAN, teste de amplificação de ácido nucleico.\"*"
     }
   ]
 }
