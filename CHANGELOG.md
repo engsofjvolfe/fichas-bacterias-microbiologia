@@ -64,6 +64,9 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - O texto de estudo de *Yersinia enterocolitica*, nas sete etapas do manual de
   consistência.
 - No glossário, os termos que o texto de *Yersinia enterocolitica* explica.
+- A tabela dos patógenos em palavras-chave, `documentos-gerados/tabela.md`: a doença típica,
+  onde vive, quem adoece, os fatores de virulência e o tratamento de cada agente, com o
+  texto de estudo de onde saíram.
 
 ### Modificado
 
