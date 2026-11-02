@@ -110,6 +110,13 @@ Antígenos que estimulam os linfócitos B maduros, mas não os linfócitos T.
 > *Murray - Microbiologia Médica, Cap. 19, p. 212*  
 > *"Os polissacarídios são antígenos independentes de células T, estimulando linfócitos B maduros, mas não linfócitos T."*
 
+## apoptose
+
+Morte celular programada.
+
+> *Murray - Microbiologia Médica, Cap. 25, p. 274*  
+> *"As shigelas sobrevivem à fagocitose ao induzir a morte celular programada (apoptose)."*
+
 ## ASO
 
 Anticorpos antiestreptolisina O.
@@ -460,6 +467,13 @@ Estrutura em que macrófagos e outras células com micobactérias dentro formam 
 > *Murray - Microbiologia Médica, Cap. 22, p. 234*  
 > *"Macrófagos alveolares, células epitelioides e células gigantes de Langhans (células epitelioides fundidas) com micobactérias intracelulares formam o núcleo central de uma massa necrótica que é circundada por uma parede densa de macrófagos e células T CD4, CD8 e NK. Essa estrutura, o granuloma, impede a propagação das bactérias."*
 
+## halofílico
+
+Amante do sal.
+
+> *Murray - Microbiologia Médica, Cap. 26, p. 281*  
+> *"a maior parte das outras espécies halofílicas (“amantes do sal”) exige suplementação com NaCl"*
+
 ## hemólise
 
 O rompimento dos eritrócitos.
@@ -476,6 +490,13 @@ Toxina que se insere e rompe os eritrócitos e outras membranas celulares.
 
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares."*
+
+## hemolisina de Kanagawa
+
+A hemolisina termoestável direta da *Vibrio parahaemolyticus*; é uma enterotoxina que induz a secreção de íons cloreto em células epiteliais por meio do aumento de cálcio intracelular.
+
+> *Murray - Microbiologia Médica, Cap. 26, p. 282*  
+> *"uma hemolisina termoestável direta (TDH, do inglês thermostable direct hemolysin; também denominada hemolisina de Kanagawa) [...] A TDH é uma enterotoxina que induz a secreção de íons cloreto em células epiteliais por meio do aumento de cálcio intracelular."*
 
 ## hemoptise
 
@@ -638,6 +659,13 @@ A camada espessa, em forma de malha, que envolve a célula.
 > *Murray - Microbiologia Médica, Cap. 12, p. 117*  
 > *"uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula"*
 
+## pilus corregulado com a toxina
+
+Um dos pilis dos víbrios, essenciais para a virulência; medeia a aderência bacteriana às células da mucosa intestinal.
+
+> *Murray - Microbiologia Médica, Cap. 26, p. 281, 282*  
+> *"várias pilis, essenciais para a virulência (p. ex., pilus corregulado com a toxina [TCP] em cepas epidêmicas de V. cholerae) [...] Pilus corregulado com a toxina [...] medeia a aderência bacteriana às células da mucosa intestinal"*
+
 ## piodermite
 
 Infecção confinada purulenta da pele, que afeta principalmente as áreas expostas.
@@ -770,6 +798,13 @@ O que as bactérias secretam para concentrar ferro a partir de soluções diluí
 
 > *Murray - Microbiologia Médica, Cap. 13, p. 130*  
 > *"muitas bactérias secretam proteínas especiais (sideróforos) para concentrar ferro a partir de soluções diluídas"*
+
+## sorogrupo
+
+Subdivisão de uma espécie pelo polissacarídio O.
+
+> *Murray - Microbiologia Médica, Cap. 26, p. 281*  
+> *"O polissacarídio O é utilizado para subdividir as espécies de Vibrio em sorogrupos"*
 
 ## sorotipagem
 

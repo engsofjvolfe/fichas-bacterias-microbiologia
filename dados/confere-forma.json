@@ -40,7 +40,8 @@
       "Shigella sonnei", "Shigella", "Staphylococcus aureus", "Staphylococcus epidermidis",
       "Staphylococcus saprophyticus",
       "Staphylococcus", "Stenotrophomonas", "Streptococcus agalactiae", "Streptococcus mitis", "Streptococcus mutans",
-      "Streptococcus pneumoniae", "Streptococcus pyogenes", "Streptococcus", "Veillonella", "Vibrio",
+      "Streptococcus pneumoniae", "Streptococcus pyogenes", "Streptococcus", "Veillonella",
+      "Vibrio cholerae", "Vibrio parahaemolyticus", "Vibrio vulnificus", "Vibrio",
       "Yersinia enterocolitica", "Yersinia",
       "A. actinomycetemcomitans", "A. aphrophilus",
       "A. israelii", "B. fragilis", "C. botulinum", "C. difficile", "C. diphtheriae", "C. histolyticum", "C. jejuni",
@@ -49,6 +50,7 @@
       "M. pneumoniae", "M. tuberculosis", "N. gonorrhoeae", "N. meningitidis", "P. aeruginosa", "P. melaninogenica", "P. mirabilis",
       "S. agalactiae", "S. aureus", "S. boydii", "S. dysenteriae", "S. enterica", "S. epidermidis", "S. flexneri",
       "S. lugdunensis", "S. marcescens", "S. mitis", "S. mutans", "S. pneumoniae", "S. pyogenes", "S. saprophyticus", "S. sonnei",
+      "V. cholerae", "V. parahaemolyticus", "V. vulnificus",
       "Y. enterocolitica",
       "in vitro", "in vivo", "risus sardonicus", "tetanus neonatorum", "tuberculum"
     ],

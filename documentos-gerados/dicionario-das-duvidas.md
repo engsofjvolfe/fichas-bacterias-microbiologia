@@ -61,3 +61,10 @@ outro lugar; ele só se lê na figura original, e os textos não o usam.
 
 > *Murray - Microbiologia Médica, Cap. 25, p. 270*  
 > *"Figura 25.3 Incidência das Enterobacteriaceae associadas à bacteriemia."*
+
+## `26/284`
+
+A medida dos bacilos de *Vibrio* vem como "0,5 a 1,5 a 3 μm", três números ligados pela mesma palavra, que se podem ler como um intervalo só ou como dois. O arquivo do livro de onde sai a transcrição traz a mesma redação, portanto nada ficou truncado; o capítulo não dá essa medida em outro lugar, e os textos não a usam.
+
+> *Murray - Microbiologia Médica, Cap. 26, p. 284*  
+> *"As espécies de Vibrio são bacilos gram-negativos, curvos e pequenos (0,5 a 1,5 a 3 μm)."*

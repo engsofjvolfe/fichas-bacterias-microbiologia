@@ -128,3 +128,15 @@ a página. O documento sai da lista em `dados/divergencias.json`, pelo comando d
 
 > *Murray - Microbiologia Médica, Cap. 22, p. 237*  
 > *"Sondas moleculares espécie-específicas, amplificação de genes alvos espécie-específicos (p. ex., gene 16S rRNA, gene SecA) e espectrometria de massa são usados atualmente para a identificação de micobactérias."*
+
+## O uso dos imunoensaios de antígeno no diagnóstico das infecções por *Vibrio cholerae*
+
+**Forma ensinada:** Os imunoensaios para a toxina da cólera ou para os lipopolissacarídios O1 e O139 podem ser úteis, embora o desempenho analítico do ensaio seja bastante variável.
+
+> *Murray - Microbiologia Médica, Cap. 26, p. 280, 285*  
+> *"Imunoensaios para toxina da cólera ou O1 e lipopolissacarídios O139 podem ser úteis, embora o desempenho analítico do ensaio seja bastante variável [...] Imunoensaios para a detecção da toxina da cólera ou dos lipopolissacarídios O1 e O139 são utilizados para o diagnóstico de cólera em áreas endêmicas."*
+
+**Outra forma:** Na tabela dos métodos de detecção, a detecção de antígeno da *V. cholerae* e das outras espécies de *Vibrio* é um teste geralmente não útil.
+
+> *Murray - Microbiologia Médica, Cap. 16, p. 169-170*  
+> *"Microscopia | Detecção de antígeno | TAAN | Cultura | Detecção de anticorpo [...] Vibrio cholerae | B | D | A | A | D [...] D, teste geralmente não útil"*

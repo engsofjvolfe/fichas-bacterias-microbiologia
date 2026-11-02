@@ -54,12 +54,19 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No glossário, os termos que o texto de *Mycobacterium tuberculosis* explica.
 - No dicionário das dúvidas, duas dos capítulos 12, 14 e 22: a cobertura "antifagocítica" das
   micobactérias e a profilaxia com "pirazinamida e etambutol ou levofloxacino".
+- O texto de estudo de *Vibrio*, nas sete etapas do manual de consistência.
+- Na lista das divergências, o fato do texto de *Vibrio* que o livro diz de formas
+  diferentes: o uso dos imunoensaios de antígeno no diagnóstico das infecções por
+  *Vibrio cholerae*.
+- No glossário, os termos que o texto de *Vibrio* explica.
+- No dicionário das dúvidas, uma do capítulo 26: a medida dos bacilos de *Vibrio*, com três
+  números ligados pela mesma palavra.
 
 ### Modificado
 
 - A lista de nomes em itálico da configuração do conferidor de forma, com *S. lugdunensis*,
-  *Enterobacter cloacae*, *Citrobacter*, *Morganella*, *M. bovis* e o termo latino
-  *tuberculum*.
+  *Enterobacter cloacae*, *Citrobacter*, *Morganella*, *M. bovis*, *Vibrio cholerae*,
+  *Vibrio parahaemolyticus*, *Vibrio vulnificus* e o termo latino *tuberculum*.
 - No manual de consistência, a seção 4 passa a dizer que o texto é curto, mas com todas as
   informações necessárias, sem teto fixo de palavras.
 - Os padrões proibidos do conferidor de forma saem da configuração dele: os deste projeto

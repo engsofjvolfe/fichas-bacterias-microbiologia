@@ -97,6 +97,31 @@
       "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 130*  \n> *\"A maioria das bactérias, entretanto, cresce na presença ou na ausência de oxigênio e são denominadas organismos anaeróbios facultativos.\"*"
     },
     {
+      "termo": "apoptose",
+      "definicao": "Morte celular programada.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 25, p. 274*  \n> *\"As shigelas sobrevivem à fagocitose ao induzir a morte celular programada (apoptose).\"*"
+    },
+    {
+      "termo": "halofílico",
+      "definicao": "Amante do sal.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 26, p. 281*  \n> *\"a maior parte das outras espécies halofílicas (“amantes do sal”) exige suplementação com NaCl\"*"
+    },
+    {
+      "termo": "hemolisina de Kanagawa",
+      "definicao": "A hemolisina termoestável direta da *Vibrio parahaemolyticus*; é uma enterotoxina que induz a secreção de íons cloreto em células epiteliais por meio do aumento de cálcio intracelular.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 26, p. 282*  \n> *\"uma hemolisina termoestável direta (TDH, do inglês thermostable direct hemolysin; também denominada hemolisina de Kanagawa) [...] A TDH é uma enterotoxina que induz a secreção de íons cloreto em células epiteliais por meio do aumento de cálcio intracelular.\"*"
+    },
+    {
+      "termo": "pilus corregulado com a toxina",
+      "definicao": "Um dos pilis dos víbrios, essenciais para a virulência; medeia a aderência bacteriana às células da mucosa intestinal.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 26, p. 281, 282*  \n> *\"várias pilis, essenciais para a virulência (p. ex., pilus corregulado com a toxina [TCP] em cepas epidêmicas de V. cholerae) [...] Pilus corregulado com a toxina [...] medeia a aderência bacteriana às células da mucosa intestinal\"*"
+    },
+    {
+      "termo": "sorogrupo",
+      "definicao": "Subdivisão de uma espécie pelo polissacarídio O.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 26, p. 281*  \n> *\"O polissacarídio O é utilizado para subdividir as espécies de Vibrio em sorogrupos\"*"
+    },
+    {
       "termo": "antígeno",
       "definicao": "O que os anticorpos detectam nas bactérias.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117*  \n> *\"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem).\"*"
