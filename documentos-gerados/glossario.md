@@ -82,6 +82,13 @@ Antígenos que estimulam os linfócitos B maduros, mas não os linfócitos T.
 > *Murray - Microbiologia Médica, Cap. 19, p. 212*  
 > *"Os polissacarídios são antígenos independentes de células T, estimulando linfócitos B maduros, mas não linfócitos T."*
 
+## ASO
+
+Anticorpos antiestreptolisina O.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 201*  
+> *"Os anticorpos são facilmente formados contra a estreptolisina O (anticorpos antiestreptolisina O [ASO])"*
+
 ## autolisina
 
 Enzima que degrada a parede celular.
@@ -102,6 +109,13 @@ As que residem normalmente em locais do corpo como o trato gastrintestinal.
 
 > *Murray - Microbiologia Médica, Cap. 14, p. 145*  
 > *"Essas bactérias endógenas normalmente residem em locais como trato gastrintestinal (GI), boca, pele e trato respiratório superior"*
+
+## bactericida
+
+Antibacteriano que mata as bactérias.
+
+> *Murray - Microbiologia Médica, Cap. 17, p. 173*  
+> *"Antibacteriano bactericida: antibacteriano que mata as bactérias"*
 
 ## bacteriemia
 
@@ -158,6 +172,13 @@ Importantes antibacterianos de amplo espectro, ativos contra muitos grupos de or
 
 > *Murray - Microbiologia Médica, Cap. 17, p. 176*  
 > *"Os carbapenêmicos são importantes antibacterianos de amplo espectro, largamente prescritos, ativos contra muitos grupos de organismos."*
+
+## carboidrato grupo-específico
+
+O antígeno do grupo de Lancefield.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 199*  
+> *"O carboidrato grupo-específico que constitui aproximadamente 10% do peso seco da célula (antígeno do grupo Lancefield A)"*
 
 ## carreamento
 
@@ -250,12 +271,26 @@ Duas células juntas.
 > *Murray - Microbiologia Médica, Cap. 13, p. 130*  
 > *"As bactérias também desenvolveram meios para compartilhar o ácido desoxirribonucleico (DNA)"*
 
+## DNase
+
+Desoxirribonuclease.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 201*  
+> *"Quatro desoxirribonucleases imunologicamente distintas (DNases A a D) foram identificadas."*
+
 ## doença invasiva
 
 Na invasão, as bactérias podem entrar na corrente sanguínea e alcançar outros sítios no corpo.
 
 > *Murray - Microbiologia Médica, Cap. 14, p. 147*  
 > *"as bactérias podem ter meios para comprometer a barreira e invadir o corpo. Na invasão, as bactérias podem entrar na corrente sanguínea e alcançar outros sítios no corpo."*
+
+## doenças supurativas
+
+Caracterizadas por formação de pus.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 199*  
+> *"Streptococcus pyogenes causa uma variedade de doenças supurativas (caracterizadas por formação de pus)"*
 
 ## empiema
 
@@ -278,12 +313,26 @@ Poderoso ativador das reações inflamatórias, produzido só por bactérias Gra
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"A porção lipídica A do LPS e o lipo-oligossacarídio (LOS) produzidos por bactérias gram-negativas é um poderoso ativador da fase aguda e das reações inflamatórias, e é denominado endotoxina. É importante observar que a endotoxina não é o mesmo que exotoxina e que apenas bactérias gram-negativas produzem endotoxina."*
 
+## erisipela
+
+Infecção aguda da pele.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 202*  
+> *"A erisipela (eritros, vermelho; pella, pele) é uma infecção aguda da pele."*
+
 ## estreptococos viridans
 
 Nome que vem do latim viridis, verde, pelo pigmento verde formado pela hemólise parcial do ágar-sangue.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 198*  
 > *"estreptococos viridans, no qual o nome é derivado de viridis (do latim, verde), referindo-se ao pigmento verde formado pela hemólise parcial do ágar-sangue"*
+
+## exotoxina
+
+Proteína produzida pela bactéria que altera uma função da célula ou a mata.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 149*  
+> *"As exotoxinas são proteínas que podem ser produzidas por bactérias gram-positivas ou gram-negativas, e incluem enzimas citolíticas e proteínas de ligação ao receptor que alteram uma função ou matam a célula."*
 
 ## explosão oxidativa
 
@@ -313,12 +362,26 @@ Produção de energia a partir da glicose sem oxigênio.
 > *Murray - Microbiologia Médica, Cap. 13, p. 131*  
 > *"As bactérias podem produzir energia a partir da glicose por (em ordem de aumento da eficiência) fermentação, respiração anaeróbica (ambas ocorrem na ausência de oxigênio) ou respiração aeróbica. [...] A fermentação ocorre sem oxigênio"*
 
+## fômites
+
+Roupas contaminadas, lençóis ou superfícies.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 202*  
+> *"fômites (p. ex., roupas contaminadas, lençóis ou superfícies)"*
+
 ## fosforilcolina
 
 Componente que só existe no envoltório celular do *S. pneumoniae* e precisa estar presente para a atividade da amidase.
 
 > *Murray - Microbiologia Médica, Cap. 19, p. 209*  
 > *"A fosforilcolina é exclusiva do envoltório celular de S. pneumoniae e apresenta um importante papel regulador na hidrólise do envoltório celular. A fosforilcolina deve estar presente para a atividade da autolisina pneumocócica, a amidase, durante a divisão celular."*
+
+## gangrena
+
+Necrose tecidual associada à obstrução do fluxo sanguíneo.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 202*  
+> *"o desenvolvimento de gangrena (necrose tecidual associada à obstrução do fluxo sanguíneo)"*
 
 ## Gram-negativo
 
@@ -341,6 +404,13 @@ O rompimento dos eritrócitos.
 > *Murray - Microbiologia Médica, Cap. 12, p. 116*  
 > *"lisar eritrócitos (propriedades hemolíticas estreptocócicas)"*
 >
+> *Murray - Microbiologia Médica, Cap. 14, p. 149*  
+> *"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares."*
+
+## hemolisina
+
+Toxina que se insere e rompe os eritrócitos e outras membranas celulares.
+
 > *Murray - Microbiologia Médica, Cap. 14, p. 149*  
 > *"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares."*
 
@@ -470,6 +540,13 @@ Sem atividade de citocromo oxidase.
 > *Murray - Microbiologia Médica, Cap. 25, p. 267*  
 > *"oxidase negativas. A ausência de atividade de citocromo oxidase é uma característica importante, pois pode ser mensurada rapidamente com um teste simples"*
 
+## pancardite
+
+Endocardite, pericardite e miocardite.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 204*  
+> *"O envolvimento do coração se manifesta como uma pancardite (endocardite, pericardite, miocardite)"*
+
 ## PCR
 
 Reação em cadeia da polimerase.
@@ -483,6 +560,13 @@ A camada espessa, em forma de malha, que envolve a célula.
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 117*  
 > *"uma estrutura espessa e reticulada em forma de malha (a camada de peptidoglicano), que envolve a célula"*
+
+## piodermite
+
+Infecção confinada purulenta da pele, que afeta principalmente as áreas expostas.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 202*  
+> *"Piodermite (impetigo) é uma infecção confinada purulenta (pyo) da pele (derma) que afeta principalmente as áreas expostas (ou seja, face, braços, pernas)."*
 
 ## piperacilina-tazobactam
 
@@ -533,12 +617,26 @@ A parte do ácido teicoico exposta na superfície, própria da espécie.
 > *Murray - Microbiologia Médica, Cap. 19, p. 209*  
 > *"O ácido teicoico exposto é ligado à camada de peptidoglicano e se estende através da cápsula sobrejacente. Essa estrutura espécie-específica, denominada polissacarídio C"*
 
+## proteína M
+
+A principal proteína tipo-específica associada às cepas virulentas.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 199*  
+> *"A proteína M é a principal proteína tipo-específica associada às cepas virulentas."*
+
 ## proteínas de ligação à penicilina
 
 As enzimas que catalisam a construção da camada de peptidoglicano.
 
 > *Murray - Microbiologia Médica, Cap. 18, p. 184*  
 > *"As enzimas que catalisam a construção da camada de peptidoglicano são denominadas de proteínas de ligação à penicilina"*
+
+## pústula
+
+Vesícula cheia de pus.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 202*  
+> *"progredindo para pústulas (vesículas cheias de pus)"*
 
 ## PYR
 
@@ -588,6 +686,13 @@ Diferencia uma cepa usando anticorpos que detectam os antígenos característico
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 117*  
 > *"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem)."*
+
+## superantígeno
+
+Toxina que ativa as células T sem a necessidade de antígeno, levando um grande número delas a liberar grandes quantidades de citocinas.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 149*  
+> *"Essas moléculas ativam as células T ligando-se simultaneamente a um receptor de células T e a uma molécula de complexo principal de histocompatibilidade de classe II (MHC II) em uma célula apresentadora de antígeno sem a necessidade de antígeno. Os superantígenos ativam um grande número de células T para liberar grandes quantidades (tempestade de citocinas) de interleucinas (IL)"*
 
 ## terapia empírica
 

@@ -44,6 +44,8 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   livro diz de formas diferentes: a sensibilidade da cultura, a do teste de antígeno na
   urina e a quem se recomenda a vacina polissacarídica.
 - No glossário, os termos que o texto de *Streptococcus pneumoniae* explica.
+- O texto de estudo de *Streptococcus pyogenes*, nas sete etapas do manual de consistência.
+- No glossário, os termos que o texto de *Streptococcus pyogenes* explica.
 
 ### Modificado
 

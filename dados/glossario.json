@@ -435,6 +435,81 @@
       "termo": "sorotipagem",
       "definicao": "Diferencia uma cepa usando anticorpos que detectam os antígenos característicos dela.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 117*  \n> *\"Uma determinada cepa de bactéria pode ser diferenciada usando anticorpos para detectar antígenos característicos das bactérias (sorotipagem).\"*"
+    },
+    {
+      "termo": "ASO",
+      "definicao": "Anticorpos antiestreptolisina O.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 201*  \n> *\"Os anticorpos são facilmente formados contra a estreptolisina O (anticorpos antiestreptolisina O [ASO])\"*"
+    },
+    {
+      "termo": "bactericida",
+      "definicao": "Antibacteriano que mata as bactérias.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 17, p. 173*  \n> *\"Antibacteriano bactericida: antibacteriano que mata as bactérias\"*"
+    },
+    {
+      "termo": "carboidrato grupo-específico",
+      "definicao": "O antígeno do grupo de Lancefield.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 199*  \n> *\"O carboidrato grupo-específico que constitui aproximadamente 10% do peso seco da célula (antígeno do grupo Lancefield A)\"*"
+    },
+    {
+      "termo": "DNase",
+      "definicao": "Desoxirribonuclease.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 201*  \n> *\"Quatro desoxirribonucleases imunologicamente distintas (DNases A a D) foram identificadas.\"*"
+    },
+    {
+      "termo": "doenças supurativas",
+      "definicao": "Caracterizadas por formação de pus.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 199*  \n> *\"Streptococcus pyogenes causa uma variedade de doenças supurativas (caracterizadas por formação de pus)\"*"
+    },
+    {
+      "termo": "erisipela",
+      "definicao": "Infecção aguda da pele.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 202*  \n> *\"A erisipela (eritros, vermelho; pella, pele) é uma infecção aguda da pele.\"*"
+    },
+    {
+      "termo": "exotoxina",
+      "definicao": "Proteína produzida pela bactéria que altera uma função da célula ou a mata.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 149*  \n> *\"As exotoxinas são proteínas que podem ser produzidas por bactérias gram-positivas ou gram-negativas, e incluem enzimas citolíticas e proteínas de ligação ao receptor que alteram uma função ou matam a célula.\"*"
+    },
+    {
+      "termo": "fômites",
+      "definicao": "Roupas contaminadas, lençóis ou superfícies.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 202*  \n> *\"fômites (p. ex., roupas contaminadas, lençóis ou superfícies)\"*"
+    },
+    {
+      "termo": "gangrena",
+      "definicao": "Necrose tecidual associada à obstrução do fluxo sanguíneo.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 202*  \n> *\"o desenvolvimento de gangrena (necrose tecidual associada à obstrução do fluxo sanguíneo)\"*"
+    },
+    {
+      "termo": "hemolisina",
+      "definicao": "Toxina que se insere e rompe os eritrócitos e outras membranas celulares.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 149*  \n> *\"As hemolisinas se inserem e rompem os eritrócitos e outras membranas celulares.\"*"
+    },
+    {
+      "termo": "pancardite",
+      "definicao": "Endocardite, pericardite e miocardite.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 204*  \n> *\"O envolvimento do coração se manifesta como uma pancardite (endocardite, pericardite, miocardite)\"*"
+    },
+    {
+      "termo": "piodermite",
+      "definicao": "Infecção confinada purulenta da pele, que afeta principalmente as áreas expostas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 202*  \n> *\"Piodermite (impetigo) é uma infecção confinada purulenta (pyo) da pele (derma) que afeta principalmente as áreas expostas (ou seja, face, braços, pernas).\"*"
+    },
+    {
+      "termo": "proteína M",
+      "definicao": "A principal proteína tipo-específica associada às cepas virulentas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 199*  \n> *\"A proteína M é a principal proteína tipo-específica associada às cepas virulentas.\"*"
+    },
+    {
+      "termo": "pústula",
+      "definicao": "Vesícula cheia de pus.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 202*  \n> *\"progredindo para pústulas (vesículas cheias de pus)\"*"
+    },
+    {
+      "termo": "superantígeno",
+      "definicao": "Toxina que ativa as células T sem a necessidade de antígeno, levando um grande número delas a liberar grandes quantidades de citocinas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 149*  \n> *\"Essas moléculas ativam as células T ligando-se simultaneamente a um receptor de células T e a uma molécula de complexo principal de histocompatibilidade de classe II (MHC II) em uma célula apresentadora de antígeno sem a necessidade de antígeno. Os superantígenos ativam um grande número de células T para liberar grandes quantidades (tempestade de citocinas) de interleucinas (IL)\"*"
     }
   ]
 }
