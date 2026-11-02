@@ -28,3 +28,21 @@ O que falta fazer neste projeto, e só o que falta. O que fica pronto sai daqui 
    explicações, porquês e consequências que o livro não dá, passagens que divergem
    escolhidas ou juntadas no texto, imagens, nomes só para mostrar e fatos sem o porquê que
    o livro dá.
+
+## Os documentos de apoio
+
+6. Gravar pelas peças da prateleira (itens 6 a 10 do TODO dela) o glossário, as
+   divergências, o dicionário das dúvidas e a lista dos apostos de IA, numa pasta própria,
+   `documentos-de-apoio/`, fora de `documentos-gerados/`, que fica com as fichas: nenhum
+   documento escrito à mão e nenhum JSON de `dados/` com texto corrido, só com os lugares no
+   livro, as marcas e as escolhas. Por rebase, nos commits em que cada um desses documentos
+   entrou no projeto e nos das fichas que puseram entradas nas listas, e não num commit
+   novo; o texto das fichas fica como está.
+7. Escrever no manual de consistência e nas instruções das sessões de trabalho a regra do
+   aposto de IA: quando nenhum capítulo explica um termo, uma sigla ou um conceito de que o
+   aluno precisa para seguir o texto, a explicação curta vem logo depois dele, entre `[IA: `
+   e `]`, numa linha só. Ela pode trazer o fato geral que explica o termo, sem inventar
+   (como o que é fagocitose), e nunca um fato da bactéria (número, epidemiologia,
+   virulência, doença, diagnóstico, tratamento), um porquê ou uma consequência; não entra no
+   bloco de fonte nem no glossário, e sai quando o livro der a explicação. A lista dos
+   apostos sai das marcas (item 6).
