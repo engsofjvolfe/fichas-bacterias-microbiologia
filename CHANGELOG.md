@@ -93,6 +93,9 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   rótulo, que só a primeira citação do bloco leva: a configuração do conferidor de citações
   aceita a referência sem o rótulo, e os padrões proibidos das duas quebras do fim e do `&`
   valem também para ela.
+- No baralho do Anki, as respostas dos cartões passam a ser curtas, em frases completas,
+  ligadas a cada parte da pergunta, com o termo técnico explicado nas palavras do texto de
+  estudo; o pacote sai de novo, com a data da versão nova.
 
 ## [0.2.0] - 2026-10-31
 
