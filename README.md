@@ -12,7 +12,8 @@ o trecho do livro que a sustenta, copiado letra por letra, com o capítulo e a p
 | Item | O que é |
 | --- | --- |
 | `documentos-gerados/` | os textos prontos; o `manual-de-consistencia.md`, que diz como todo texto é escrito e formatado: o tom, a estrutura em sete etapas, a formatação e as regras de citação; o `divergencias.md`, os fatos que o livro diz de formas diferentes, com a forma que os textos ensinam; o `glossario.md`, os termos que os textos explicam, com a explicação do livro; e o `dicionario-das-duvidas.md`, as dúvidas que o livro deixa, sob o lugar de cada uma |
-| `dados/` | a configuração das peças da prateleira que conferem os textos, as listas das divergências e do glossário, a forma dos códigos do dicionário das dúvidas e como rodar cada peça |
+| `baralhos-anki/` | o baralho do Anki da tabela dos patógenos, `bacterias.apkg`, com os cartões em `bacterias.csv`, e o manual de como os cartões se fazem e o baralho se refaz |
+| `dados/` | a configuração das peças da prateleira que conferem os textos e fazem o baralho, as listas das divergências e do glossário, a forma dos códigos do dicionário das dúvidas e como rodar cada peça |
 | `CHANGELOG.md` | o que mudou em cada versão |
 | `TODO.md` | o que falta fazer |
 

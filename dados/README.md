@@ -16,6 +16,9 @@ prateleira.
 | `glossario.json` | [glossario](../prateleira/glossario/README.md) | os termos que os textos explicam, cada um com a explicação que o livro dá e o trecho do livro de onde ela vem |
 | `glossario-cabecalho.md` | [glossario](../prateleira/glossario/README.md) | o título e a abertura do glossário, `documentos-gerados/glossario.md` |
 | `dicionario-das-duvidas.json` | [dicionario-das-duvidas](../prateleira/dicionario-das-duvidas/README.md) | a forma dos códigos dos títulos do dicionário das dúvidas, `documentos-gerados/dicionario-das-duvidas.md`: o capítulo e a página do lugar de cada dúvida, como `19/210`, ou só o capítulo |
+| `baralho-anki.json` | [baralho-anki](../prateleira/baralho-anki/README.md#a-configuração) | o baralho do Anki, `baralhos-anki/bacterias.apkg`: as colunas da tabela dos patógenos (o agente, a fonte e as cinco que viram cartão), as marcas de ênfase, o nome do baralho, o tipo de nota, com os campos, e a data da versão |
+| `baralho-anki-frente.html`, `baralho-anki-verso.html` e `baralho-anki-estilo.css` | [baralho-anki](../prateleira/baralho-anki/README.md#como-rodar) | os modelos da frente e do verso do cartão do baralho e o estilo dele |
+| `baralho-anki-conferido.json` | [baralho-anki](../prateleira/baralho-anki/README.md#o-registro-da-conferência) | o sha256 da tabela dos patógenos e de cada texto de estudo na última conferência de conteúdo dos cartões |
 
 As marcas que uma ferramenta de IA deixa num texto (o caractere invisível ou o espaço
 especial, e o resto de citação) servem a qualquer projeto e ficam na prateleira, no
@@ -45,6 +48,8 @@ conferem pela forma daqui:
 
     python3 -I prateleira/dicionario-das-duvidas/confere_dicionario.py dados/dicionario-das-duvidas.json documentos-gerados/dicionario-das-duvidas.md
 
+O baralho do Anki se faz e se confere pelos comandos do [manual dele](../baralhos-anki/README.md#como-se-refaz).
+
 ## Quando mudar
 
 - A lista dos textos (`controle-dos-textos.md`) ganha ou perde uma bactéria: o nome dela,
@@ -67,3 +72,6 @@ conferem pela forma daqui:
 - O livro deixa uma dúvida, como a transcrição truncada de uma página: ela entra no
   `documentos-gerados/dicionario-das-duvidas.md`, sob um título com os códigos do lugar
   (`capítulo/página`), e o conferidor do dicionário confere os títulos.
+- A tabela dos patógenos ou um texto de estudo muda: o registro da conferência do baralho diz
+  o que mudou, os cartões daquele agente se conferem de novo, e o baralho e o registro se
+  gravam outra vez, pelo [manual do baralho](../baralhos-anki/README.md#como-se-refaz).

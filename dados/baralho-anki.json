@@ -1,0 +1,27 @@
+{
+  "versao_schema": 1,
+  "tabela": {
+    "assunto": "Agente",
+    "fonte": "Fonte",
+    "cartoes": ["Doença Típica", "Onde / Status", "Quem", "Fator de Virulência", "Tratamento"],
+    "separador": " / "
+  },
+  "enfases": [
+    {"marca": "**", "etiqueta": "b"},
+    {"marca": "*", "etiqueta": "i"}
+  ],
+  "baralho": "Microbiologia::Bactérias",
+  "nota": {
+    "nome": "Bactéria: palavras-chave",
+    "cartao": "Pergunta",
+    "campos": [
+      {"nome": "Frente", "coluna": "pergunta"},
+      {"nome": "Verso", "coluna": "resposta"},
+      {"nome": "Trecho", "coluna": "trecho"},
+      {"nome": "Fonte", "coluna": "fonte"}
+    ],
+    "quebra": "<br>",
+    "editor": {"tipo_de_letra": "Arial", "tamanho": 20}
+  },
+  "data": "2026-11-03T00:00:00+00:00"
+}

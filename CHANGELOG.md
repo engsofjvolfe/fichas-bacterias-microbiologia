@@ -67,6 +67,11 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - A tabela dos patógenos em palavras-chave, `documentos-gerados/tabela.md`: a doença típica,
   onde vive, quem adoece, os fatores de virulência e o tratamento de cada agente, com o
   texto de estudo de onde saíram.
+- O baralho do Anki da tabela dos patógenos, em `baralhos-anki/`: os 120 cartões, cinco por
+  agente, cada um com a pergunta, a resposta, escrita pelo texto de estudo, e o trecho do
+  texto que a sustenta, o pacote e o manual de como os cartões se fazem e o baralho se refaz
+  pela peça `baralho-anki` da prateleira; a configuração, os modelos do cartão e o registro
+  da conferência de conteúdo, em `dados/`.
 
 ### Modificado
 
