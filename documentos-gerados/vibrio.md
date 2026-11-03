@@ -140,3 +140,7 @@ Na cólera, o que mata é a perda de líquido, e é ela que o tratamento combate
 >
 > *Murray - Microbiologia Médica, Cap. 16, p. 169*  
 > *"os testes in vitro são simplesmente uma medida do efeito do antibacteriano contra o organismo em condições específicas"*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

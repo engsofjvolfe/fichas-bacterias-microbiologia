@@ -126,3 +126,7 @@ O tratamento da tuberculose, ao contrário do da maioria das infecções bacteri
 >
 > *Murray - Microbiologia Médica, Cap. 17, p. 177, 180*  
 > *"ácido ribonucleico (RNA) [...] Isoniazida, etionamida, etambutol e cicloserina são antibacterianos ativos no envoltório celular utilizados para o tratamento de infecções por micobactérias. [...] Embora o mecanismo exato de ação seja desconhecido, a síntese de ácido micólico é afetada [...] A rifampicina, um derivado semissintético da rifamicina B produzida por S. mediterranei, liga-se à RNA polimerase dependente de DNA e inibe o início da síntese de RNA. A rifampicina é bactericida para M. tuberculosis [...] Como a resistência pode se desenvolver rapidamente, a rifampicina geralmente é combinada com um ou mais antibacterianos eficazes."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

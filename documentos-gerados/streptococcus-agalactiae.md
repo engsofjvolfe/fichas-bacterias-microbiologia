@@ -133,3 +133,7 @@ A penicilina é o tratamento de escolha, e a prevenção da doença do recém-na
 >
 > *Murray - Microbiologia Médica, Cap. 17, p. 173, 175, 178*  
 > *"Um medicamento antibacteriano de amplo espectro pode inibir uma variedade de bactérias gram-positivas e gram-negativas [...] A penicilina G é inativada pelo ácido gástrico; assim, é utilizada principalmente como um medicamento intravenoso [...] Estreptococos e enterococos são resistentes aos aminoglicosídios porque os aminoglicosídios não conseguem penetrar através da parede celular dessas bactérias. O tratamento desses organismos requer coadministração de um aminoglicosídio com um inibidor de síntese da parede celular (p. ex., penicilina, ampicilina, vancomicina) que facilita a captação do aminoglicosídio."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

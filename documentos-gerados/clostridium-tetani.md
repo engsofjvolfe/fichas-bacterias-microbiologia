@@ -98,3 +98,7 @@ Não há relatos clínicos relevantes de resistência antimicrobiana adquirida n
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 30, p. 325*  
 > *"O tratamento do tétano requer o desbridamento da ferida primária (que pode parecer inócua), uso de penicilina ou metronidazol para matar as bactérias e reduzir a produção de toxina, a imunização passiva com imunoglobulina humana contra o tétano para neutralizar a toxina não ligada e a vacinação com o toxoide do tétano (porque a infecção não confere imunidade). [...] A vacinação com uma série de três doses de toxoide tetânico, seguidas de doses de reforço a cada 10 anos, é altamente eficaz na prevenção do tétano."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

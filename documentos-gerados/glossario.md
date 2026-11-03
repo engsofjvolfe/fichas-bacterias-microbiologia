@@ -917,3 +917,7 @@ Cada antígeno da bactéria pode ser expresso ou não, alternadamente.
 
 > *Murray - Microbiologia Médica, Cap. 25, p. 269*  
 > *"Cada um desses antígenos pode ser alternadamente expresso ou não (variação de fase)"*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

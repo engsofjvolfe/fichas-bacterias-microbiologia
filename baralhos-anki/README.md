@@ -92,3 +92,7 @@ do projeto:
 
 A conferência de conteúdo de agora é a de 2026-11-03: cada célula das 24 linhas da tabela e
 cada cartão conferidos contra o texto de estudo do agente, lido inteiro.
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

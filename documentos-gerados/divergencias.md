@@ -140,3 +140,7 @@ a página. O documento sai da lista em `dados/divergencias.json`, pelo comando d
 
 > *Murray - Microbiologia Médica, Cap. 16, p. 169-170*  
 > *"Microscopia | Detecção de antígeno | TAAN | Cultura | Detecção de anticorpo [...] Vibrio cholerae | B | D | A | A | D [...] D, teste geralmente não útil"*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

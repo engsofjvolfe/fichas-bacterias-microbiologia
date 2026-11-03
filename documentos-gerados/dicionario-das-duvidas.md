@@ -68,3 +68,7 @@ A medida dos bacilos de *Vibrio* vem como "0,5 a 1,5 a 3 μm", três números li
 
 > *Murray - Microbiologia Médica, Cap. 26, p. 284*  
 > *"As espécies de Vibrio são bacilos gram-negativos, curvos e pequenos (0,5 a 1,5 a 3 μm)."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

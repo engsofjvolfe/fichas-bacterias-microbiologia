@@ -164,3 +164,7 @@ A penicilina é o fármaco de escolha para as cepas suscetíveis, mas a resistê
 >
 > *Murray - Microbiologia Médica, Cap. 18, p. 184*  
 > *"As enzimas que catalisam a construção da camada de peptidoglicano são denominadas de proteínas de ligação à penicilina"*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

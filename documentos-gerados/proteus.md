@@ -93,3 +93,7 @@ O tratamento segue o laboratório, porque até uma bactéria sensível a muitos 
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 25, p. 278*  
 > *"A terapia com antibacterianos para infecções com Enterobacteriaceae deve ser guiada por resultados de testes de suscetibilidade in vitro e experiência clínica. Alguns organismos, tais como E. coli e P. mirabilis, são suscetíveis a muitos antibacterianos, mas outros podem ser altamente resistentes. A produção de enzimas que inativam todas as penicilinas e cefalosporinas (p. ex., ESBLs) está agora difundida em E. coli, Klebsiella e Proteus. [...] Em geral, a resistência aos antibacterianos é mais comum em infecções hospitalares do que em infecções adquiridas na comunidade. [...] É difícil prevenir infecções com Enterobacteriaceae, porque esses organismos são uma parte importante da população microbiana endógena. Entretanto, alguns fatores de risco para infecções devem ser evitados. Esses fatores incluem o uso irrestrito de antibacterianos, que pode selecionar bactérias resistentes"*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

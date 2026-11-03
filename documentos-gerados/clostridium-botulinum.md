@@ -143,3 +143,7 @@ Administra-se a **antitoxina botulínica trivalente (contra os sorotipos A, B e 
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 30, p. 326-327*  
 > *"Pacientes com botulismo necessitam das seguintes medidas de tratamento: (1) suporte ventilatório adequado; (2) eliminação do organismo a partir do sistema digestório a partir do uso criterioso da lavagem gástrica e terapia com metronidazol ou penicilina; e (3) uso de antitoxina botulínica trivalente contra as toxinas A, B e E para inativar a circulação de toxinas não ligadas na corrente sanguínea. [...] Níveis protetores de anticorpos não se desenvolvem após a doença, portanto, os pacientes permanecem suscetíveis ao botulismo. [...] (todas as toxinas botulínicas são inativadas por aquecimento entre 60 e 100°C por 10 minutos). [...] crianças com menos de 1 ano não devem ingerir mel."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

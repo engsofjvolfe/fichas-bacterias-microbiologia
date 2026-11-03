@@ -118,3 +118,7 @@ O *H. pylori* segue, assim, como um morador de longa data do estômago humano, n
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 28, p. 296, 300-301*  
 > *"O tratamento profilático de indivíduos colonizados não tem utilidade e apresenta efeitos potencialmente adversos, tais como predisposição de pacientes a adenocarcinomas na porção inferior do esôfago [...] Vacinas humanas não estão disponíveis atualmente [...] a colonização com H. pylori parece oferecer proteção contra a doença do refluxo gastresofágico e adenocarcinomas da porção inferior do esôfago e da cárdia gástrica. Portanto, pode não ser prudente eliminar H. pylori em pacientes sem doença sintomática. Certamente, a complexa relação entre H. pylori e seu hospedeiro continua a ser definida. [...] O reconhecimento do papel de H. pylori mudou drasticamente o tratamento e o prognóstico de doença por úlcera péptica [...] Uso de um único antibacteriano ou um antibacteriano combinado com bismuto é ineficaz. O maior sucesso na cura de gastrite ou doença de úlcera péptica foi alcançado com a combinação de um inibidor de bomba de prótons (p. ex., omeprazol), um macrolídeo (p. ex., claritromicina) e um betalactâmico (p. ex., amoxicilina) [...] A falha terapêutica é mais comumente associada à resistência ao antibacteriano claritromicina. [...] O uso de antígenos de H. pylori em vacinas experimentais que estimulam as células TH1 leva à potencialização da inflamação."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

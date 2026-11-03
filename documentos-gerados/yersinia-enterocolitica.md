@@ -145,3 +145,7 @@ As infecções entéricas por espécies de *Yersinia* que não a da peste são n
 >
 > *Murray - Microbiologia Médica, Cap. 17, p. 173, 178, 179*  
 > *"como a resistência aos antibacterianos é frequentemente imprevisível, os médicos devem confiar em sua experiência clínica para a seleção inicial da terapia empírica e depois refinar seu tratamento [...] Um medicamento antibacteriano de amplo espectro pode inibir uma variedade de bactérias gram-positivas e gram-negativas [...] Aminoglicosídios (estreptomicina, canamicina, gentamicina, tobramicina, amicacina) | Utilizados principalmente para tratar infecções com bastonetes (bacilo) gram-negativos [...] O cloranfenicol tem um amplo espectro antibacteriano semelhante ao da tetraciclina, mas não é comumente utilizado nos EUA. A razão de seu uso limitado é que, juntamente com a interferência na síntese de proteínas bacterianas, esse medicamento interrompe a síntese de proteínas em células da medula óssea humana e pode produzir discrasias sanguíneas, como a anemia aplásica."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

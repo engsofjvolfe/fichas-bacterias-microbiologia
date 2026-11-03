@@ -19,7 +19,8 @@ O que falta fazer neste projeto, e só o que falta. O que fica pronto sai daqui 
    de uma lista das que dispensam explicação (como EUA e pH, e as que nenhum capítulo
    explica).
 4. Conferir os textos antes de cada commit: um gancho do git que rode os dois conferidores
-   nos textos que vão no commit e barre o commit quando algum der erro.
+   nos textos que vão no commit, e a peça do rodapé com `--conferir`, e barre o commit quando
+   algum der erro.
 5. Corrigir os textos já escritos, a começar pelos cinco modelos, mexendo o mínimo e na voz
    de cada um, pelo que as regras do item 3 acusarem e pela revisão frase a frase, pelo tom
    e pelas regras de fonte do manual: etapas que abrem direto em lista ou subtítulo (na
@@ -49,11 +50,9 @@ O que falta fazer neste projeto, e só o que falta. O que fica pronto sai daqui 
 
 ## A publicação
 
-8. Pôr a licença do projeto irmão (`recorte-microbiologia-bacteria`), a do conteúdo, CC
-   BY-NC-SA 4.0, no `LICENSE-CONTENT.txt` copiado de lá, com os badges e a seção da licença
-   no README; e o rodapé da licença no fim de cada documento, pela peça da prateleira do item
-   11 do TODO dela. Depois do rodapé, o registro da conferência do baralho
-   (`dados/baralho-anki-conferido.json`) se grava de novo, conferido que nos textos só o
-   rodapé mudou.
-9. Escrever o índice dos documentos, `INDICE.md`, na ordem de leitura, cada um com o que ele
+8. Escrever o índice dos documentos, `INDICE.md`, na ordem de leitura, cada um com o que ele
    é, como o do projeto irmão.
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](LICENSE-CONTENT.txt).*

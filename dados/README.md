@@ -19,6 +19,8 @@ prateleira.
 | `baralho-anki.json` | [baralho-anki](../prateleira/baralho-anki/README.md#a-configuração) | o baralho do Anki, `baralhos-anki/bacterias.apkg`: as colunas da tabela dos patógenos (o agente, a fonte e as cinco que viram cartão), as marcas de ênfase, o nome do baralho, o tipo de nota, com os campos, e a data da versão |
 | `baralho-anki-frente.html`, `baralho-anki-verso.html` e `baralho-anki-estilo.css` | [baralho-anki](../prateleira/baralho-anki/README.md#como-rodar) | os modelos da frente e do verso do cartão do baralho e o estilo dele |
 | `baralho-anki-conferido.json` | [baralho-anki](../prateleira/baralho-anki/README.md#o-registro-da-conferência) | o sha256 da tabela dos patógenos e de cada texto de estudo na última conferência de conteúdo dos cartões |
+| `rodape.md` | [rodape](../prateleira/rodape/README.md#o-modelo) | o modelo do rodapé da licença, com o link para o `LICENSE-CONTENT.txt` a partir desta pasta, que vai no fim de cada documento; o confere-forma e o confere-changelog o deixam fora da conferência, e as divergências e o glossário o põem no fim do documento que gravam |
+| `rodape.json` | [rodape](../prateleira/rodape/README.md#a-configuração) | os documentos que levam o rodapé, os `.md` do repositório, e os que ficam sem ele, os cabeçalhos dos documentos gravados, que entram no começo deles |
 
 As marcas que uma ferramenta de IA deixa num texto (o caractere invisível ou o espaço
 especial, e o resto de citação) servem a qualquer projeto e ficam na prateleira, no
@@ -30,16 +32,24 @@ daqui.
 Da raiz do projeto, para um texto (ou vários):
 
     python3 -I prateleira/confere-citacoes/confere_citacoes.py dados/confere-citacoes.json material-base/gerados-ocr documentos-gerados/<texto>.md
-    python3 -I prateleira/confere-forma/confere_forma.py dados/confere-forma.json documentos-gerados/<texto>.md --proibidos dados/confere-forma-proibidos.json --proibidos prateleira/confere-forma/marcas-de-ia.json
+    python3 -I prateleira/confere-forma/confere_forma.py dados/confere-forma.json documentos-gerados/<texto>.md --proibidos dados/confere-forma-proibidos.json --proibidos prateleira/confere-forma/marcas-de-ia.json --rodape dados/rodape.md
 
 Os dois precisam sair com `0 erro(s)`. O que cada linha de `ERRO` quer dizer está no README
 de cada peça.
 
-O documento das divergências, com o rótulo de cada forma, e o glossário se gravam da lista e
-do cabeçalho de cada um, daqui, e as citações dos dois se conferem como as de um texto:
+O rodapé da licença não se escreve à mão: a peça do rodapé o põe no fim de cada documento
+que ainda não o tem, o texto novo também, e confere, com `--conferir`, que todos o têm, o que
+precisa sair com `0 sem o rodapé em dia`:
 
-    python3 -I prateleira/divergencias/divergencias.py dados/divergencias.json dados/divergencias-cabecalho.md documentos-gerados/divergencias.md --ensinada "**Forma ensinada:**" --outra "**Outra forma:**"
-    python3 -I prateleira/glossario/glossario.py dados/glossario.json dados/glossario-cabecalho.md documentos-gerados/glossario.md
+    python3 -I prateleira/rodape/rodape.py . dados/rodape.json dados/rodape.md
+    python3 -I prateleira/rodape/rodape.py . dados/rodape.json dados/rodape.md --conferir
+
+O documento das divergências, com o rótulo de cada forma, e o glossário se gravam da lista e
+do cabeçalho de cada um, daqui, com o rodapé no fim, e as citações dos dois se conferem como
+as de um texto:
+
+    python3 -I prateleira/divergencias/divergencias.py dados/divergencias.json dados/divergencias-cabecalho.md documentos-gerados/divergencias.md --ensinada "**Forma ensinada:**" --outra "**Outra forma:**" --rodape dados/rodape.md
+    python3 -I prateleira/glossario/glossario.py dados/glossario.json dados/glossario-cabecalho.md documentos-gerados/glossario.md --rodape dados/rodape.md
     python3 -I prateleira/confere-citacoes/confere_citacoes.py dados/confere-citacoes.json material-base/gerados-ocr documentos-gerados/divergencias.md documentos-gerados/glossario.md
 
 Com `--conferir` no fim de cada comando que grava, nada se grava, e ele diz se o documento
@@ -75,3 +85,11 @@ O baralho do Anki se faz e se confere pelos comandos do [manual dele](../baralho
 - A tabela dos patógenos ou um texto de estudo muda: o registro da conferência do baralho diz
   o que mudou, os cartões daquele agente se conferem de novo, e o baralho e o registro se
   gravam outra vez, pelo [manual do baralho](../baralhos-anki/README.md#como-se-refaz).
+- Entra um arquivo `.md` que não é um documento inteiro, como o cabeçalho de um documento que
+  uma peça grava: o padrão dele entra em `fora`, em `rodape.json`.
+- O aviso da licença muda: muda o `rodape.md`, a peça do rodapé grava de novo o fim de cada
+  documento, e as divergências e o glossário se gravam de novo.
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

@@ -87,3 +87,7 @@ No laboratório, o grande objetivo é identificar o *Enterococcus* e **diferenci
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 19, p. 197, 214*  
 > *"A resistência a cada um destes fármacos está se tornando cada vez mais comum e infecções com muitos isolados (particularmente Enterococcus faecium) não são tratáveis com qualquer antibacteriano [...] A terapia para infecções graves tradicionalmente consiste na combinação sinergística de um aminoglicosídio e um antibacteriano ativo contra o envoltório celular (p. ex., ampicilina, vancomicina). [...] Esses incluem linezolida, daptomicina, tigeciclina e quinupristina/dalfopristina."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

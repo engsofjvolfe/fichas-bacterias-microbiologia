@@ -120,3 +120,7 @@ O *S. pyogenes* continua muito sensível à penicilina; o que muda a conduta é 
 >
 > *Murray - Microbiologia Médica, Cap. 17, p. 173, 175, 180*  
 > *"A construção das cadeias e as ligações cruzadas são catalisadas por enzimas específicas (p. ex., transpeptidases, transglicosilases, carboxipeptidases) que são membros de uma grande família de serina proteases. Essas enzimas reguladoras são também denominadas proteínas de ligação à penicilina (PBP), porque são os alvos dos antibacterianos betalactâmicos. Quando bactérias em crescimento são expostas a essas substâncias, os antibacterianos se ligam a PBP específicas no envoltório da célula bacteriana e inibem a montagem das cadeias de peptidoglicano. Isso, por sua vez, ativa as autolisinas que degradam a parede celular, resultando em morte de células bacterianas. [...] Antibacteriano bactericida: antibacteriano que mata as bactérias [...] A penicilina V é mais resistente ao ácido e é a forma oral preferida para o tratamento de bactérias suscetíveis. [...] a clindamicina bloqueia o alongamento proteico por ligação ao ribossomo 50S"*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

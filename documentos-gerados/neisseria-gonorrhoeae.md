@@ -86,3 +86,7 @@ Ao contrário de patógenos que secretam exotoxinas à distância, a patogenia d
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 23, p. 254-255*  
 > *"Atualmente, o Centro de Controle e Prevenção de Doenças (CDC) recomenda dupla terapia com ceftriaxona e azitromicina. A resistência a cada um desses antibacterianos é observada globalmente; entretanto, a combinação ainda permanece eficaz, embora não se saiba por quanto tempo. [...] A quimioprofilaxia com 1% de nitrato de prata, 1% de tetraciclina ou 0,5% de eritromicina em pomada oftalmológica é rotineiramente utilizada para proteger os recém-nascidos contra infecções oculares gonocócicas (oftalmia neonatal) [...] Essa diversidade antigênica também explica a ineficácia de vacinas desenvolvidas contra as proteínas pilinas."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

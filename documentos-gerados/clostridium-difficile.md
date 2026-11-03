@@ -97,3 +97,7 @@ Se foi o antibiótico que abriu caminho para o *C. difficile*, o tratamento come
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 30, p. 317, 321*  
 > *"O leito hospitalar deve ser cuidadosamente limpo depois de o paciente infectado receber alta hospitalar [...] A descontinuação do antibacteriano envolvido na doença (p. ex., ampicilina, clindamicina, fluoroquinolonas) é geralmente suficiente para aliviar enfermidades leves. Entretanto, a terapia específica com metronidazol ou vancomicina é necessária para o manejo terapêutico da diarreia grave ou colite. Podem ocorrer recidivas em 20 a 30% dos pacientes após a conclusão da terapia, pois apenas as formas vegetativas de C. difficile são mortas pelos antibacterianos; os esporos são resistentes. [...] Sucesso notável com esses 'transplantes fecais' tem sido demonstrado, ilustrando o fato de que C. difficile não se estabelece quando uma população entérica saudável de bactérias está presente. [...] Os esporos de C. difficile são difíceis de eliminar, a menos que medidas internas rigorosas sejam utilizadas. Assim, o organismo pode contaminar um ambiente por muitos meses e pode ser uma fonte importante de surtos nosocomiais da doença causada por C. difficile."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

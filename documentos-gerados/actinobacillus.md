@@ -90,3 +90,7 @@ O capítulo não descreve, para essa bactéria, mecanismos de resistência nem m
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 24, p. 263*  
 > *"O tratamento de escolha para a endocardite causada por esses organismos é uma cefalosporina, como a ceftriaxona."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

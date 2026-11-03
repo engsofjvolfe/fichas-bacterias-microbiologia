@@ -72,6 +72,11 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   texto que a sustenta, o pacote e o manual de como os cartões se fazem e o baralho se refaz
   pela peça `baralho-anki` da prateleira; a configuração, os modelos do cartão e o registro
   da conferência de conteúdo, em `dados/`.
+- A licença do conteúdo, a CC BY-NC-SA 4.0, no `LICENSE-CONTENT.txt`, com o badge e a seção
+  da licença no README.
+- O rodapé da licença no fim de cada documento, que a peça `rodape` da prateleira põe e
+  confere, com o modelo em `dados/rodape.md` e, em `dados/rodape.json`, os documentos que
+  ficam sem ele, os cabeçalhos dos documentos gravados.
 
 ### Modificado
 
@@ -96,6 +101,12 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No baralho do Anki, as respostas dos cartões passam a ser curtas, em frases completas,
   ligadas a cada parte da pergunta, com o termo técnico explicado nas palavras do texto de
   estudo; o pacote sai de novo, com a data da versão nova.
+- No manual de consistência, o texto termina no rodapé da licença, que começa por um divisor.
+- O documento das divergências e o glossário se gravam com o rodapé da licença no fim, e o
+  conferidor de forma e o gancho do git do changelog o deixam fora da conferência: os
+  comandos de `dados/README.md` e o texto do gancho, no README, ganham o modelo do rodapé.
+- O registro da conferência do baralho, gravado de novo com o rodapé nos textos de estudo e
+  na tabela, em que só ele mudou.
 
 ## [0.2.0] - 2026-10-31
 
@@ -143,3 +154,7 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 [Não publicado]: https://github.com/engsofjvolfe/fichas-nacterias-microbiologia/compare/v0.2.0...HEAD
 [0.2.0]: https://github.com/engsofjvolfe/fichas-nacterias-microbiologia/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/engsofjvolfe/fichas-nacterias-microbiologia/releases/tag/v0.1.0
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](LICENSE-CONTENT.txt).*

@@ -128,3 +128,7 @@ A divisão das 5 cepas de *E. coli* intestinal baseia-se no local de ataque e se
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 25, p. 265, 278*  
 > *"Os patógenos entéricos são tratados de forma sintomática a menos que a doença disseminada ocorra [...] resistência aumentada às penicilinas e cefalosporinas mediadas por ESBLs [...] evitando o uso desnecessário de cateteres do trato urinário [...] Cozimento adequado de produtos de carne bovina para reduzir o risco de infecções por STEC [...] o alívio sintomático, mas não o tratamento com antibacterianos é geralmente recomendado para pacientes com gastrenterite por STEC e Salmonella, porque os antibacterianos podem prolongar o carreamento desses organismos ou aumentar o risco de complicações secundárias (p. ex., SHU com infecções STEC em crianças)."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

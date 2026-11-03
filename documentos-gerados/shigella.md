@@ -104,3 +104,7 @@ Como o único reservatório é humano, tratar a shigelose não serve apenas a qu
 
 > **Fonte Exata no Livro:** *Murray - Microbiologia Médica, Cap. 25, p. 266, 275, 278*  
 > *"Antibioticoterapia reduz o curso de doença sintomática e perda fecal [...] O tratamento deve ser guiado por testes de suscetibilidade in vitro [...] A terapia empírica pode ser iniciada com uma fluoroquinolona ou sulfametoxazol-trimetoprima [...] A infecção é geralmente autolimitada, embora a antibioticoterapia seja recomendada para reduzir o risco de propagação secundária aos membros da família e outros contatos. [...] O patógeno predominante era uma cepa de S. sonnei multirresistente a medicamentos, com 89% dos isolados resistentes à ampicilina e à sulfametoxazol-trimetoprima. [...] Bactérias do gênero Shigella são predominantemente transmitidas em crianças pequenas, mas é difícil interromper a transmissão fecal-mão-boca responsável pela disseminação da infecção nessa população. Os surtos dessas infecções podem ser efetivamente prevenidos e controlados somente com a educação e a introdução de procedimentos adequados de controle de infecções (p. ex., lavagem das mãos, descarte adequado de fraldas ou roupas de cama sujas) nos ambientes em que essas infecções tipicamente ocorrem."*
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

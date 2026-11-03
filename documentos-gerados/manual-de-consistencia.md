@@ -75,7 +75,7 @@ Texto da etapa.
 
 ### 2. Reservatório e Hospedeiros Suscetíveis [ONDE E QUEM?]
 
-(e assim até a etapa 7, que termina no bloco de fonte, sem --- depois)
+(e assim até a etapa 7, que termina no bloco de fonte; depois dela, só o rodapé da licença)
 ```
 
 - **Título Principal (H1):** `# Documento Investigativo Completo: O Caso do *Nome Científico*`, com "do" ou "da" conforme o nome.
@@ -84,7 +84,8 @@ Texto da etapa.
   **A Lógica do Estudo:** Em vez de decorar listas isoladas, o estudo aplica o método investigativo do prefácio do livro, tratando o microrganismo como um "vilão" e a infecção como uma "cena de crime", detalhando **Qual** agente, **Onde** e **Quem**, **Quando**, **Por que** (armas/mecanismos), **O que** causa (sintomas/doenças) e **Como** testar, tratar e prevenir.
 
 - **Etapas:** títulos `###` exatamente como na seção 4. Quando uma etapa tem grupos distintos (por exemplo, infecções intestinais e extraintestinais), usam-se subtítulos `####`, sem número. Não se usa `#####`.
-- **Divisores de Seção:** uma linha `---` depois do subtítulo e entre uma etapa e a seguinte, em nenhum outro lugar.
+- **Divisores de Seção:** uma linha `---` depois do subtítulo, entre uma etapa e a seguinte e no começo do rodapé da licença, em nenhum outro lugar.
+- **Rodapé da Licença:** o texto termina, depois do bloco de fonte da etapa 7 e de uma linha em branco, no rodapé da licença, o do modelo `dados/rodape.md`. Ele não se escreve à mão: a peça do rodapé o põe no fim de cada documento, pelo comando de `dados/README.md`.
 - **Listas:** `*` para itens paralelos; `1.` para sequências (passos de um mecanismo, pilares de um tratamento).
 - **Ausência Absoluta de Emojis:** Nenhum ícone, emoji ou caractere gráfico decorativo é permitido em títulos, subtítulos, tabelas ou listas. Também não se usam fórmulas LaTeX; para setas, use "→".
 - **Nomenclatura Botânica/Zoológica (Latim):** Nomes científicos de gêneros e espécies devem ser gravados obrigatoriamente em itálico (ex.: *Staphylococcus aureus*, *Escherichia coli*, *E. coli*), assim como os termos latinos (*in vivo*).
@@ -125,7 +126,7 @@ Cada uma das 7 etapas termina com exatamente um bloco de fonte, que é a última
 
 ## 8. Checklist de Validação Antes de Salvar
 
-- [ ] Título, subtítulo fixo e os 7 títulos de etapa exatamente como no modelo; `---` só entre as partes.
+- [ ] Título, subtítulo fixo e os 7 títulos de etapa exatamente como no modelo; `---` só entre as partes e no começo do rodapé da licença, no fim.
 - [ ] Cada etapa abre com a frase de lógica e segue o padrão do tom (seção 3): rótulos, os porquês e as consequências que o livro dá, os termos com a explicação do livro entre parênteses e nenhuma imagem.
 - [ ] Pontos do quadro de resumo do capítulo presentes.
 - [ ] Cada sigla e cada termo técnico com a explicação que o livro dá, entre parênteses, na primeira vez em que aparecem; o termo que nenhum capítulo explica, como o livro o usa.
@@ -135,3 +136,7 @@ Cada uma das 7 etapas termina com exatamente um bloco de fonte, que é a última
 - [ ] Um bloco de fonte no fim de cada etapa, com trechos literais, `[...]` nas omissões, páginas conferidas no `chapterNN.md` e cada trecho de outro capítulo com a linha de referência dele (seção 6).
 - [ ] Nomes em latim estritamente formatados em itálico; nenhuma palavra estrangeira solta; nenhum emoji.
 - [ ] Nome do arquivo igual ao identificador da lista de controle (`controle-dos-textos.md`), em caixa baixa e com hifens (ex.: `staphylococcus-aureus.md`).
+
+---
+
+*Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*
