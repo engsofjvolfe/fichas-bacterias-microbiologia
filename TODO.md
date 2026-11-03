@@ -46,3 +46,14 @@ O que falta fazer neste projeto, e só o que falta. O que fica pronto sai daqui 
    virulência, doença, diagnóstico, tratamento), um porquê ou uma consequência; não entra no
    bloco de fonte nem no glossário, e sai quando o livro der a explicação. A lista dos
    apostos sai das marcas (item 6).
+
+## A publicação
+
+8. Pôr a licença do projeto irmão (`recorte-microbiologia-bacteria`), a do conteúdo, CC
+   BY-NC-SA 4.0, no `LICENSE-CONTENT.txt` copiado de lá, com os badges e a seção da licença
+   no README; e o rodapé da licença no fim de cada documento, pela peça da prateleira do item
+   11 do TODO dela. Depois do rodapé, o registro da conferência do baralho
+   (`dados/baralho-anki-conferido.json`) se grava de novo, conferido que nos textos só o
+   rodapé mudou.
+9. Escrever o índice dos documentos, `INDICE.md`, na ordem de leitura, cada um com o que ele
+   é, como o do projeto irmão.
