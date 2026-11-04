@@ -12,16 +12,20 @@ O que falta fazer neste projeto, e só o que falta. O que fica pronto sai daqui 
 
 ## A conferência dos textos
 
-3. Corrigir os textos já escritos, a começar pelos cinco modelos, mexendo o mínimo e na voz
-   de cada um, pelo que o conferidor de forma acusa (o começo das etapas, o rótulo dos itens
-   de lista e a primeira vez de cada sigla fora da forma da ABNT, entre parênteses, logo
-   depois do nome completo) e pela revisão frase a frase, pelo tom e pelas regras de fonte
-   do manual: etapas que abrem direto em lista ou subtítulo (na *Escherichia coli*, as
-   etapas 5 a 7; na *Neisseria gonorrhoeae*, as 2, 3, 5, 6 e 7; no *Enterococcus*, as
-   2, 3 e 7), termos sem a explicação do livro entre parênteses e siglas sem o nome completo
-   que o livro dá (ou sem o aposto de IA, quando nenhum capítulo os dá), explicações,
-   porquês e consequências que o livro não dá, passagens que divergem escolhidas ou
-   juntadas no texto, imagens, nomes só para mostrar e fatos sem o porquê que o livro dá.
+3. Corrigir os textos já escritos, mexendo o mínimo e na voz de cada um, pelo que o
+   conferidor de forma acusa (o começo das etapas, o rótulo dos itens de lista e a primeira
+   vez de cada sigla fora da forma da ABNT, entre parênteses, logo depois do nome completo)
+   e pela revisão frase a frase, pelo tom e pelas regras de fonte do manual: etapas que
+   abrem direto em lista ou subtítulo (na *Escherichia coli*, as etapas 5 a 7; na
+   *Neisseria gonorrhoeae*, as 2, 3, 5, 6 e 7; no *Enterococcus*, as 2, 3 e 7), termos sem a
+   explicação do livro entre parênteses e siglas sem o nome completo que o livro dá (ou sem
+   o aposto de IA, quando nenhum capítulo os dá), explicações, porquês e consequências que o
+   livro não dá, passagens que divergem escolhidas ou juntadas no texto, imagens, nomes só
+   para mostrar e fatos sem o porquê que o livro dá. A ordem: primeiro os dois modelos do
+   manual, *Clostridium difficile* e *Shigella*, que cada ficha nova lê como molde da forma;
+   depois os cinco primeiros textos, os da versão 0.1.0: *Clostridium botulinum*,
+   *Clostridium tetani*, *Enterococcus*, *Escherichia coli* e *Neisseria gonorrhoeae*; por
+   fim, os outros.
 
 ## Os documentos de apoio
 
