@@ -650,6 +650,46 @@
       "termo": "TAAN",
       "definicao": "Teste de amplificação de ácido nucleico.",
       "fonte": "> *Murray - Microbiologia Médica, Cap. 16, p. 170*  \n> *\"TAAN, teste de amplificação de ácido nucleico.\"*"
+    },
+    {
+      "termo": "anaeróbio",
+      "definicao": "Que não pode crescer na presença de oxigênio.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 130*  \n> *\"Alguns organismos (p. ex., Clostridium perfringens, que causa a gangrena gasosa) não podem crescer na presença de oxigênio e, portanto, são referidos como anaeróbios obrigatórios.\"*"
+    },
+    {
+      "termo": "células vegetativas",
+      "definicao": "Células sem esporos.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 30, p. 318*  \n> *\"as células vegetativas (ou seja, células sem esporos)\"*"
+    },
+    {
+      "termo": "epitélio intestinal",
+      "definicao": "As células epiteliais que revestem o sistema digestório.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 13, p. 131*  \n> *\"melhoram a função de barreira das células epiteliais que revestem o sistema digestório\"*"
+    },
+    {
+      "termo": "esporo",
+      "definicao": "Estado dormente para o qual algumas bactérias, como as do gênero *Clostridium*, podem passar em condições ambientais adversas.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 12, p. 125*  \n> *\"Algumas bactérias gram-positivas, mas nunca as gram-negativas, como membros do gênero Bacillus (p. ex., B. anthracis) e Clostridium (p. ex., C. tetani ou botulinum) (bactérias do solo), são formadores de esporos. Em condições ambientais adversas, como a perda de uma necessidade nutricional, essas bactérias podem converter de um estado vegetativo para um estado dormente, ou esporo.\"*"
+    },
+    {
+      "termo": "neutrófilos",
+      "definicao": "Um dos fagócitos, a defesa antibacteriana mais importante.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 14, p. 152*  \n> *\"Os fagócitos (neutrófilos, macrófagos) são a defesa antibacteriana mais importante\"*"
+    },
+    {
+      "termo": "nosocomial",
+      "definicao": "Adquirido no ambiente hospitalar.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 19, p. 213*  \n> *\"os enterococos representam uma das causas mais comuns de infecções adquiridas no ambiente hospitalar (infecção nosocomial)\"*"
+    },
+    {
+      "termo": "pseudomembranas",
+      "definicao": "Placas esbranquiçadas que se formam sobre o tecido intacto do cólon.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 30, p. 317*  \n> *\"placas esbranquiçadas (pseudomembranas) se formam sobre o tecido colônico intacto\"*"
+    },
+    {
+      "termo": "transplante fecal",
+      "definicao": "Infusão do conteúdo fecal de um doador saudável nos intestinos do paciente doente.",
+      "fonte": "> *Murray - Microbiologia Médica, Cap. 30, p. 321*  \n> *\"Uma nova abordagem para tratar doenças recorrentes é infundir o conteúdo fecal de um doador saudável ('repovoar') nos intestinos do paciente doente. Sucesso notável com esses 'transplantes fecais'\"*"
     }
   ]
 }

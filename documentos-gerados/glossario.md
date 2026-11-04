@@ -89,6 +89,13 @@ Que pode inibir uma variedade de bactérias Gram-positivas e Gram-negativas.
 > *Murray - Microbiologia Médica, Cap. 17, p. 173*  
 > *"Um medicamento antibacteriano de amplo espectro pode inibir uma variedade de bactérias gram-positivas e gram-negativas"*
 
+## anaeróbio
+
+Que não pode crescer na presença de oxigênio.
+
+> *Murray - Microbiologia Médica, Cap. 13, p. 130*  
+> *"Alguns organismos (p. ex., Clostridium perfringens, que causa a gangrena gasosa) não podem crescer na presença de oxigênio e, portanto, são referidos como anaeróbios obrigatórios."*
+
 ## anaeróbio facultativo
 
 Que cresce na presença ou na ausência de oxigênio.
@@ -271,6 +278,13 @@ Células T auxiliares.
 > *Murray - Microbiologia Médica, Cap. 22, p. 234*  
 > *"células TH1 (células T helper, auxiliares)"*
 
+## células vegetativas
+
+Células sem esporos.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 318*  
+> *"as células vegetativas (ou seja, células sem esporos)"*
+
 ## CIM
 
 Concentração inibitória mínima: a menor concentração do antibiótico que inibe o crescimento da bactéria.
@@ -397,6 +411,13 @@ Método que permite o crescimento de *Yersinia*, mas inibe ou elimina outros org
 > *Murray - Microbiologia Médica, Cap. 25, p. 277*  
 > *"Esse enriquecimento a frio permite o crescimento de Yersinia, mas inibe ou elimina outros organismos na amostra."*
 
+## epitélio intestinal
+
+As células epiteliais que revestem o sistema digestório.
+
+> *Murray - Microbiologia Médica, Cap. 13, p. 131*  
+> *"melhoram a função de barreira das células epiteliais que revestem o sistema digestório"*
+
 ## erisipela
 
 Infecção aguda da pele.
@@ -410,6 +431,13 @@ Análise rápida dos perfis proteicos característicos das bactérias.
 
 > *Murray - Microbiologia Médica, Cap. 12, p. 118*  
 > *"Perfis proteicos característicos de bactérias também podem ser rapidamente analisados por espectrometria de massa (MALDI-TOF)."*
+
+## esporo
+
+Estado dormente para o qual algumas bactérias, como as do gênero *Clostridium*, podem passar em condições ambientais adversas.
+
+> *Murray - Microbiologia Médica, Cap. 12, p. 125*  
+> *"Algumas bactérias gram-positivas, mas nunca as gram-negativas, como membros do gênero Bacillus (p. ex., B. anthracis) e Clostridium (p. ex., C. tetani ou botulinum) (bactérias do solo), são formadores de esporos. Em condições ambientais adversas, como a perda de uma necessidade nutricional, essas bactérias podem converter de um estado vegetativo para um estado dormente, ou esporo."*
 
 ## estreptococos viridans
 
@@ -659,6 +687,20 @@ Mudança na sequência de bases do DNA.
 > *Murray - Microbiologia Médica, Cap. 13, p. 138*  
 > *"Uma mutação é qualquer mudança na sequência de bases do DNA."*
 
+## neutrófilos
+
+Um dos fagócitos, a defesa antibacteriana mais importante.
+
+> *Murray - Microbiologia Médica, Cap. 14, p. 152*  
+> *"Os fagócitos (neutrófilos, macrófagos) são a defesa antibacteriana mais importante"*
+
+## nosocomial
+
+Adquirido no ambiente hospitalar.
+
+> *Murray - Microbiologia Médica, Cap. 19, p. 213*  
+> *"os enterococos representam uma das causas mais comuns de infecções adquiridas no ambiente hospitalar (infecção nosocomial)"*
+
 ## otite média
 
 Infecção da orelha média.
@@ -778,6 +820,13 @@ As enzimas que catalisam a construção da camada de peptidoglicano.
 > *Murray - Microbiologia Médica, Cap. 18, p. 184*  
 > *"As enzimas que catalisam a construção da camada de peptidoglicano são denominadas de proteínas de ligação à penicilina"*
 
+## pseudomembranas
+
+Placas esbranquiçadas que se formam sobre o tecido intacto do cólon.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 317*  
+> *"placas esbranquiçadas (pseudomembranas) se formam sobre o tecido colônico intacto"*
+
 ## pústula
 
 Vesícula cheia de pus.
@@ -889,6 +938,13 @@ Fator de necrose tumoral alfa.
 
 > *Murray - Microbiologia Médica, Cap. 22, p. 234*  
 > *"os macrófagos secretam interleucina (IL)-12 e fator de necrose tumoral (TNF)-α"*
+
+## transplante fecal
+
+Infusão do conteúdo fecal de um doador saudável nos intestinos do paciente doente.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 321*  
+> *"Uma nova abordagem para tratar doenças recorrentes é infundir o conteúdo fecal de um doador saudável ('repovoar') nos intestinos do paciente doente. Sucesso notável com esses 'transplantes fecais'"*
 
 ## tromboflebite séptica
 

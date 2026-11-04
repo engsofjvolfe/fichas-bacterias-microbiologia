@@ -141,6 +141,33 @@ a página. O documento sai da lista em `dados/divergencias.json`, pelo comando d
 > *Murray - Microbiologia Médica, Cap. 16, p. 169-170*  
 > *"Microscopia | Detecção de antígeno | TAAN | Cultura | Detecção de anticorpo [...] Vibrio cholerae | B | D | A | A | D [...] D, teste geralmente não útil"*
 
+## O que faz cada uma das duas toxinas do *Clostridium difficile* na parede do intestino
+
+**Forma ensinada:** A enterotoxina atrai os neutrófilos e estimula a liberação de citocinas, e a citotoxina aumenta a permeabilidade da parede intestinal, com a diarreia em seguida.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 317*  
+> *"A maioria das cepas produz duas toxinas: uma enterotoxina que atrai os neutrófilos e estimula a liberação de citocinas, além de uma citotoxina que aumenta a permeabilidade da parede intestinal e diarreia subsequente"*
+
+**Outra forma:** A enterotoxina, a toxina A, atrai os neutrófilos, com liberação de citocinas, e produz um efeito citopático que resulta na ruptura da junção estreita entre as células, no aumento da permeabilidade da parede intestinal e na diarreia; a citotoxina, a toxina B, despolimeriza a actina e destrói o citoesqueleto da célula.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 319*  
+> *"Clostridium difficile produz duas toxinas: uma enterotoxina (toxina A) e uma citotoxina (toxina B). A enterotoxina é quimiotática para neutrófilos, estimulando a infiltração de neutrófilos polimorfonucleares no íleo com liberação de citocinas. A toxina A também produz um efeito citopático, resultando em ruptura da junção estreita entre as células, aumento da permeabilidade da parede intestinal e subsequente diarreia. A citotoxina promove a despolimerização da actina, com destruição resultante do citoesqueleto celular, tanto in vivo como in vitro."*
+
+## O que cresce em excesso no intestino do paciente exposto a antibacterianos, na doença pelo *Clostridium difficile*
+
+**Forma ensinada:** O próprio *C. difficile*, relativamente resistente aos antibacterianos.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 317, 320*  
+> *"A exposição a antibacterianos está associada ao crescimento excessivo de C. difficile e doença subsequente (infecção endógena) [...] porque os medicamentos alteram a microbiota entérica normal, quer permitindo o crescimento excessivo desses organismos relativamente resistentes"*
+>
+> *Murray - Microbiologia Médica, Cap. 14, p. 146*  
+> *"Pressões de seleção, como tratamento com antibacterianos e outros fármacos, dieta e estresse podem levar a mudanças na composição da microbiota, o que pode favorecer a multiplicação de bactérias inadequadas (p. ex., Clostridium difficile, que pode causar colite pseudomembranosa)"*
+
+**Outra forma:** As bactérias intestinais normais, num crescimento excessivo que o *C. difficile*, resistente a antibacterianos como a clindamicina, as cefalosporinas e as fluoroquinolonas, induz.
+
+> *Murray - Microbiologia Médica, Cap. 30, p. 317*  
+> *"Resistência a antibacterianos, tais como clindamicina, cefalosporinas e fluoroquinolonas, permite ao C. difficile induzir o crescimento excessivo de bactérias intestinais normais em pacientes expostos a esses antibacterianos e produzir doenças"*
+
 ---
 
 *Este documento está licenciado sob [CC BY-NC-SA 4.0](../LICENSE-CONTENT.txt).*

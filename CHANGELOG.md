@@ -85,6 +85,10 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   em `dados/confere-commit.json`, sobre os arquivos do commit como estão no índice: a forma e
   as citações dos textos que vão no commit, as citações do glossário e das divergências, o
   rodapé dos documentos e a forma do changelog; com erro, o commit não se faz.
+- Na lista das divergências, os dois fatos do texto de *Clostridium difficile* que o livro diz
+  de formas diferentes: o que faz cada uma das duas toxinas na parede do intestino e o que
+  cresce em excesso no intestino do paciente exposto a antibacterianos.
+- No glossário, os termos que o texto de *Clostridium difficile* explica.
 
 ### Modificado
 
@@ -125,6 +129,16 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - O gancho do git antes de cada commit passa a rodar a peça `confere-commit`, que confere
   também o changelog; o texto dele, no README, muda, e cada cópia do repositório o liga de
   novo.
+
+### Corrigido
+
+- O texto de estudo de *Clostridium difficile*, pelo manual de consistência: cada termo com a
+  explicação que o livro dá, a primeira vez da PCR na forma da ABNT, os rótulos e as
+  explicações sem imagem, só os porquês e as consequências que o livro dá e, nas toxinas e no
+  crescimento excessivo, a forma que a lista das divergências ensina.
+- No baralho do Anki, os cartões de *Clostridium difficile* da doença típica, de quem adoece e
+  do fator de virulência, pelo texto corrigido; o pacote sai de novo, com a data da versão
+  nova, e o registro da conferência se grava de novo.
 
 ## [0.2.0] - 2026-10-31
 
