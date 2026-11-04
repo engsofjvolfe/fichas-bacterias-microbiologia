@@ -1,0 +1,39 @@
+{
+  "versao_schema": 1,
+  "conferencias": [
+    {
+      "nome": "a forma do changelog",
+      "arquivos": ["CHANGELOG.md", "dados/confere-changelog-links.json", "dados/rodape.md"],
+      "fora": [],
+      "comando": ["python3", "-I", "{principal}/prateleira/confere-changelog/confere_changelog.py",
+                  "{principal}/prateleira/confere-changelog/configuracao.json", "CHANGELOG.md",
+                  "--links", "dados/confere-changelog-links.json", "--rodape", "dados/rodape.md"]
+    },
+    {
+      "nome": "a forma dos textos",
+      "arquivos": ["documentos-gerados/*.md"],
+      "fora": ["documentos-gerados/manual-de-consistencia.md", "documentos-gerados/glossario.md",
+               "documentos-gerados/divergencias.md", "documentos-gerados/dicionario-das-duvidas.md",
+               "documentos-gerados/tabela.md"],
+      "comando": ["python3", "-I", "{principal}/prateleira/confere-forma/confere_forma.py",
+                  "dados/confere-forma.json", "dados/confere-forma-esqueleto.md", "{arquivos}",
+                  "--proibidos", "dados/confere-forma-proibidos.json",
+                  "--proibidos", "{principal}/prateleira/confere-forma/marcas-de-ia.json", "--rodape", "dados/rodape.md"]
+    },
+    {
+      "nome": "as citações dos textos, do glossário e das divergências",
+      "arquivos": ["documentos-gerados/*.md"],
+      "fora": ["documentos-gerados/manual-de-consistencia.md", "documentos-gerados/dicionario-das-duvidas.md",
+               "documentos-gerados/tabela.md"],
+      "comando": ["python3", "-I", "{principal}/prateleira/confere-citacoes/confere_citacoes.py",
+                  "dados/confere-citacoes.json", "{principal}/material-base/gerados-ocr", "{arquivos}"]
+    },
+    {
+      "nome": "o rodapé dos documentos",
+      "arquivos": ["*.md", "dados/rodape.json"],
+      "fora": [],
+      "comando": ["python3", "-I", "{principal}/prateleira/rodape/rodape.py", ".", "dados/rodape.json",
+                  "dados/rodape.md", "--conferir"]
+    }
+  ]
+}

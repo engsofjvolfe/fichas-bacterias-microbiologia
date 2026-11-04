@@ -81,6 +81,10 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   e não por um item de lista, um subtítulo, uma citação, uma tabela ou um divisor; cada item
   de lista começa por um rótulo em negrito; e cada sigla, na primeira vez em que aparece,
   vem entre parênteses, logo depois do nome completo, como manda a ABNT NBR 14724.
+- A conferência de cada commit pela peça `confere-commit` da prateleira, com as conferências
+  em `dados/confere-commit.json`, sobre os arquivos do commit como estão no índice: a forma e
+  as citações dos textos que vão no commit, as citações do glossário e das divergências, o
+  rodapé dos documentos e a forma do changelog; com erro, o commit não se faz.
 
 ### Modificado
 
@@ -118,6 +122,9 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - No manual de consistência, na regra 4 e na checklist, a sigla, na primeira vez em que
   aparece, vem entre parênteses, logo depois do nome completo que o livro dá, como manda a
   ABNT NBR 14724.
+- O gancho do git antes de cada commit passa a rodar a peça `confere-commit`, que confere
+  também o changelog; o texto dele, no README, muda, e cada cópia do repositório o liga de
+  novo.
 
 ## [0.2.0] - 2026-10-31
 

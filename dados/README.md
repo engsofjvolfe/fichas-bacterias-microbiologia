@@ -14,6 +14,7 @@ prateleira.
 | `divergencias.json` | [divergencias](../prateleira/divergencias/README.md) | os fatos que o livro diz de formas diferentes, cada um com a forma que os textos ensinam e as outras, cada forma com o que diz e o trecho do livro que a dá |
 | `divergencias-cabecalho.md` | [divergencias](../prateleira/divergencias/README.md) | o título e a abertura do documento das divergências, `documentos-gerados/divergencias.md` |
 | `confere-changelog-links.json` | [confere-changelog](../prateleira/confere-changelog/README.md#os-links) | os modelos do link de cada versão no fim do changelog, que o gancho do git dá à peça |
+| `confere-commit.json` | [confere-commit](../prateleira/confere-commit/README.md#a-configuração) | as conferências de cada commit, que o gancho do git roda sobre os arquivos do commit, como estão no índice: a forma do changelog, a forma e as citações dos textos de bactéria, as citações do glossário e das divergências e o rodapé dos documentos, cada uma com os padrões dos arquivos dela e o comando, com as peças e as fontes da pasta principal |
 | `glossario.json` | [glossario](../prateleira/glossario/README.md) | os termos que os textos explicam, cada um com a explicação que o livro dá e o trecho do livro de onde ela vem |
 | `glossario-cabecalho.md` | [glossario](../prateleira/glossario/README.md) | o título e a abertura do glossário, `documentos-gerados/glossario.md` |
 | `dicionario-das-duvidas.json` | [dicionario-das-duvidas](../prateleira/dicionario-das-duvidas/README.md) | a forma dos códigos dos títulos do dicionário das dúvidas, `documentos-gerados/dicionario-das-duvidas.md`: o capítulo e a página do lugar de cada dúvida, como `19/210`, ou só o capítulo |
@@ -61,6 +62,12 @@ conferem pela forma daqui:
 
 O baralho do Anki se faz e se confere pelos comandos do [manual dele](../baralhos-anki/README.md#como-se-refaz).
 
+Antes de cada commit, o gancho do git roda as conferências de `confere-commit.json` sobre os
+arquivos do commit, como estão no índice (ver o [README](../README.md#antes-de-cada-commit));
+o mesmo, sem fazer o commit, sobre o que está no índice agora:
+
+    python3 -I prateleira/confere-commit/confere_commit.py dados/confere-commit.json
+
 ## Quando mudar
 
 - A lista dos textos (`controle-dos-textos.md`) ganha ou perde uma bactéria: o nome dela,
@@ -89,6 +96,9 @@ O baralho do Anki se faz e se confere pelos comandos do [manual dele](../baralho
   gravam outra vez, pelo [manual do baralho](../baralhos-anki/README.md#como-se-refaz).
 - Entra um arquivo `.md` que não é um documento inteiro, como o cabeçalho de um documento que
   uma peça grava: o padrão dele entra em `fora`, em `rodape.json`.
+- Entra em `documentos-gerados/` um documento que não é texto de bactéria: ele entra em
+  `fora`, em `confere-commit.json`, na conferência da forma dos textos e, se não tiver
+  citações, na das citações.
 - O aviso da licença muda: muda o `rodape.md`, a peça do rodapé grava de novo o fim de cada
   documento, e as divergências e o glossário se gravam de novo.
 
