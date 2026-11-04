@@ -93,6 +93,11 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   `listas-e-tabelas` da prateleira, com a configuração em `dados/listas-e-tabelas.json` e o
   modelo da citação da fonte, que monta cada citação do capítulo, das páginas e do trecho; os
   arquivos do modelo ficam sem o rodapé da licença, e o comando está em `dados/README.md`.
+- A regra do aposto de IA, no manual de consistência: o termo, a sigla ou o conceito que
+  nenhum capítulo explica, e de que o aluno precisa para seguir o texto, ganha a explicação
+  curta entre `[IA: ` e `]`, numa linha só: o fato geral que o explica, nunca um fato da
+  bactéria, fora do bloco de fonte e do glossário; na sigla, o aposto é o nome completo,
+  antes dela. Na conferência da forma, a abertura do aposto não se lê como sigla.
 
 ### Modificado
 
