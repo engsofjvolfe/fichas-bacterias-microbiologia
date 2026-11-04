@@ -77,6 +77,10 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
 - O rodapé da licença no fim de cada documento, que a peça `rodape` da prateleira põe e
   confere, com o modelo em `dados/rodape.md` e, em `dados/rodape.json`, os documentos que
   ficam sem ele, os cabeçalhos dos documentos gravados.
+- Na conferência da forma dos textos, as regras do tom: cada etapa começa por um parágrafo,
+  e não por um item de lista, um subtítulo, uma citação, uma tabela ou um divisor; cada item
+  de lista começa por um rótulo em negrito; e cada sigla, na primeira vez em que aparece,
+  vem entre parênteses, logo depois do nome completo, como manda a ABNT NBR 14724.
 
 ### Modificado
 
@@ -107,6 +111,13 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   comandos de `dados/README.md` e o texto do gancho, no README, ganham o modelo do rodapé.
 - O registro da conferência do baralho, gravado de novo com o rodapé nos textos de estudo e
   na tabela, em que só ele mudou.
+- O título, o subtítulo e os títulos das etapas saem da configuração do conferidor de forma e
+  vão para o esqueleto dos textos, `dados/confere-forma-esqueleto.md`, que o comando dá ao
+  conferidor; o "do" ou "da" e o nome do título são lacunas, e a configuração passa à versão
+  2, só com a forma.
+- No manual de consistência, na regra 4 e na checklist, a sigla, na primeira vez em que
+  aparece, vem entre parênteses, logo depois do nome completo que o livro dá, como manda a
+  ABNT NBR 14724.
 
 ## [0.2.0] - 2026-10-31
 

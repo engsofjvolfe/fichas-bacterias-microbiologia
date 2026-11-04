@@ -1,5 +1,5 @@
 {
   "versao_schema": 1,
   "documentos": ["*.md"],
-  "fora": ["dados/*-cabecalho.md"]
+  "fora": ["dados/*-cabecalho.md", "dados/*-esqueleto.md"]
 }

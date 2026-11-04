@@ -40,12 +40,14 @@ deste projeto, que está em [dados/](dados/README.md) junto com o comando de cad
 
 - **as citações:** cada trecho citado precisa estar, letra por letra, na transcrição do
   capítulo citado, e nas páginas citadas;
-- **a forma:** o título e o subtítulo, os títulos das sete etapas, os divisores, o bloco de
-  fonte no fim de cada etapa, os padrões proibidos (como caracteres invisíveis) e os nomes
-  científicos em itálico.
+- **a forma:** o título e o subtítulo, os títulos das sete etapas, os divisores, o começo de
+  cada etapa, que é um parágrafo, o rótulo em negrito no começo de cada item de lista, a
+  primeira vez de cada sigla, entre parênteses, logo depois do nome completo, como manda a
+  ABNT, o bloco de fonte no fim de cada etapa, os padrões proibidos (como caracteres
+  invisíveis) e os nomes científicos em itálico.
 
-O tom e o conteúdo, que nenhum conferidor confere, seguem o manual de consistência. O rodapé
-da licença, no fim de cada documento, se põe e se confere pela peça
+O resto do tom e o conteúdo, que nenhum conferidor confere, seguem o manual de consistência.
+O rodapé da licença, no fim de cada documento, se põe e se confere pela peça
 [rodape](prateleira/rodape/README.md), com o modelo e os documentos que ficam sem ele em
 `dados/`.
 

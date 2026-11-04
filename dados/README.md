@@ -8,8 +8,9 @@ prateleira.
 | Arquivo | Peça que o lê | O que diz |
 | --- | --- | --- |
 | `confere-citacoes.json` | [confere-citacoes](../prateleira/confere-citacoes/README.md) | como é o bloco "Fonte Exata no Livro" dos textos (a linha da referência, que só na primeira citação do bloco leva o rótulo, e a do trecho), que as fontes são os `chapterNN.md`, com páginas `## p. N` e blocos de imagem que não contam, e que a supressão é `[...]` |
-| `confere-forma.json` | [confere-forma](../prateleira/confere-forma/README.md) | a forma de um texto de bactéria: o título e o subtítulo fixos, os 7 títulos das etapas, o divisor `---`, o bloco de fonte no fim de cada etapa, os nomes científicos que vão em itálico e o tamanho (850 a 2.100 palavras, que só dá aviso) |
-| `confere-forma-proibidos.json` | [confere-forma](../prateleira/confere-forma/README.md#os-padrões-proibidos) | os padrões proibidos que são deste projeto: o título de nível 5, o subtítulo `####` numerado, a fórmula LaTeX, a palavra estrangeira, a grafia de Portugal, a supressão sem colchetes, a linha da fonte sem as duas quebras do fim, o `&` nas páginas da fonte e o comentário escondido |
+| `confere-forma.json` | [confere-forma](../prateleira/confere-forma/README.md) | a forma de um texto de bactéria: as lacunas do título (o "do" ou "da" e o nome em itálico), o começo de cada etapa (um parágrafo, e não um item de lista, um subtítulo, uma citação, uma tabela ou um divisor), o divisor `---`, o bloco de fonte no fim de cada etapa, as siglas (o que é uma sigla e a forma da primeira vez, a da ABNT: entre parênteses, logo depois do nome completo), os nomes científicos que vão em itálico e o tamanho (850 a 2.100 palavras, que só dá aviso) |
+| `confere-forma-esqueleto.md` | [confere-forma](../prateleira/confere-forma/README.md#o-esqueleto) | o esqueleto de um texto de bactéria: o título, com as lacunas, o subtítulo fixo e os 7 títulos das etapas |
+| `confere-forma-proibidos.json` | [confere-forma](../prateleira/confere-forma/README.md#os-padrões-proibidos) | os padrões proibidos que são deste projeto: o título de nível 5, o subtítulo `####` numerado, a fórmula LaTeX, a palavra estrangeira, a grafia de Portugal, a supressão sem colchetes, a linha da fonte sem as duas quebras do fim, o `&` nas páginas da fonte, o comentário escondido e o item de lista sem o rótulo em negrito |
 | `divergencias.json` | [divergencias](../prateleira/divergencias/README.md) | os fatos que o livro diz de formas diferentes, cada um com a forma que os textos ensinam e as outras, cada forma com o que diz e o trecho do livro que a dá |
 | `divergencias-cabecalho.md` | [divergencias](../prateleira/divergencias/README.md) | o título e a abertura do documento das divergências, `documentos-gerados/divergencias.md` |
 | `confere-changelog-links.json` | [confere-changelog](../prateleira/confere-changelog/README.md#os-links) | os modelos do link de cada versão no fim do changelog, que o gancho do git dá à peça |
@@ -20,7 +21,7 @@ prateleira.
 | `baralho-anki-frente.html`, `baralho-anki-verso.html` e `baralho-anki-estilo.css` | [baralho-anki](../prateleira/baralho-anki/README.md#como-rodar) | os modelos da frente e do verso do cartão do baralho e o estilo dele |
 | `baralho-anki-conferido.json` | [baralho-anki](../prateleira/baralho-anki/README.md#o-registro-da-conferência) | o sha256 da tabela dos patógenos e de cada texto de estudo na última conferência de conteúdo dos cartões |
 | `rodape.md` | [rodape](../prateleira/rodape/README.md#o-modelo) | o modelo do rodapé da licença, com o link para o `LICENSE-CONTENT.txt` a partir desta pasta, que vai no fim de cada documento; o confere-forma e o confere-changelog o deixam fora da conferência, e as divergências e o glossário o põem no fim do documento que gravam |
-| `rodape.json` | [rodape](../prateleira/rodape/README.md#a-configuração) | os documentos que levam o rodapé, os `.md` do repositório, e os que ficam sem ele, os cabeçalhos dos documentos gravados, que entram no começo deles |
+| `rodape.json` | [rodape](../prateleira/rodape/README.md#a-configuração) | os documentos que levam o rodapé, os `.md` do repositório, e os que ficam sem ele: os cabeçalhos dos documentos gravados, que entram no começo deles, e o esqueleto dos textos |
 
 As marcas que uma ferramenta de IA deixa num texto (o caractere invisível ou o espaço
 especial, e o resto de citação) servem a qualquer projeto e ficam na prateleira, no
@@ -32,7 +33,7 @@ daqui.
 Da raiz do projeto, para um texto (ou vários):
 
     python3 -I prateleira/confere-citacoes/confere_citacoes.py dados/confere-citacoes.json material-base/gerados-ocr documentos-gerados/<texto>.md
-    python3 -I prateleira/confere-forma/confere_forma.py dados/confere-forma.json documentos-gerados/<texto>.md --proibidos dados/confere-forma-proibidos.json --proibidos prateleira/confere-forma/marcas-de-ia.json --rodape dados/rodape.md
+    python3 -I prateleira/confere-forma/confere_forma.py dados/confere-forma.json dados/confere-forma-esqueleto.md documentos-gerados/<texto>.md --proibidos dados/confere-forma-proibidos.json --proibidos prateleira/confere-forma/marcas-de-ia.json --rodape dados/rodape.md
 
 Os dois precisam sair com `0 erro(s)`. O que cada linha de `ERRO` quer dizer está no README
 de cada peça.
@@ -67,8 +68,9 @@ O baralho do Anki se faz e se confere pelos comandos do [manual dele](../baralho
   `confere-forma.json`, ou sai de lá, se nenhum texto o usa.
 - Um texto usa um nome científico que não está na lista: ele entra em `italico/nomes`, em
   `confere-forma.json`.
-- O manual de consistência muda a forma dos textos (títulos, subtítulo, bloco de fonte): o
-  mesmo muda aqui, no arquivo da peça que confere aquilo.
+- O manual de consistência muda a forma dos textos: o mesmo muda aqui, no arquivo da peça que
+  confere aquilo; o título, o subtítulo e os títulos das etapas, em
+  `confere-forma-esqueleto.md`, e o resto da forma, como o bloco de fonte, nas configurações.
 - Um padrão passa a ser proibido nos textos: entra em `confere-forma-proibidos.json` quando
   é deste projeto, e no `marcas-de-ia.json` da prateleira quando é uma marca que uma
   ferramenta de IA deixa em qualquer texto.

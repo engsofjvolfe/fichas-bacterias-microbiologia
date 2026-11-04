@@ -1,23 +1,21 @@
 {
-  "versao_schema": 1,
-  "abertura": [
-    {"padrao": "^# Documento Investigativo Completo: O Caso d[oa] \\*[^*]+\\*$"},
-    {"igual": "**A Lógica do Estudo:** Em vez de decorar listas isoladas, o estudo aplica o método investigativo do prefácio do livro, tratando o microrganismo como um \"vilão\" e a infecção como uma \"cena de crime\", detalhando **Qual** agente, **Onde** e **Quem**, **Quando**, **Por que** (armas/mecanismos), **O que** causa (sintomas/doenças) e **Como** testar, tratar e prevenir."}
+  "versao_schema": 2,
+  "lacunas": [
+    {"marca": "{do/da}", "padrao": "d[oa]"},
+    {"marca": "{nome}", "padrao": "\\*[^*]+\\*"}
   ],
   "secao": "^### (?P<titulo>.+)$",
-  "titulos": [
-    "1. Identificação e Caracterização do Agente [QUAL AGENTE?]",
-    "2. Reservatório e Hospedeiros Suscetíveis [ONDE E QUEM?]",
-    "3. Mecanismos e Vias de Transmissão [QUANDO?]",
-    "4. Fatores de Virulência e Patogênese [POR QUÊ?]",
-    "5. Manifestações Clínicas e Síndromes [O QUE CAUSA?]",
-    "6. Diagnóstico Laboratorial [COMO TESTAR?]",
-    "7. Tratamento, Resistência e Profilaxia [COMO TRATAR E PREVENIR?]"
-  ],
+  "comeco_das_secoes": "^(?![*+-] |\\d+[.)] |#|>|\\||---$)\\S",
   "divisor": "^---$",
   "fecho": {
     "abre": "^> \\*\\*Fonte Exata no Livro:\\*\\*",
     "continua": "^>"
+  },
+  "siglas": {
+    "padrao": "(?<!\\w)(?!X{0,3}(?:IX|IV|V?I{0,3})(?!\\w))(?=(?:[a-z0-9]*[A-Z]){2})(?![A-Za-z0-9]*[a-z]{2})[A-Za-z0-9]+(?:-(?:[A-Z0-9][A-Za-z0-9]*|[\\u03b1-\\u03c9]))*(?!\\w)",
+    "antes": "\\S \\((?:\\*{1,3}|_{1,3})?",
+    "depois": "(?:\\*{1,3}|_{1,3})?\\)",
+    "fora_de": "^(#|>)"
   },
   "italico": {
     "nomes": [

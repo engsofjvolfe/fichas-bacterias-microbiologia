@@ -9,6 +9,8 @@
     {"nome": "supressão sem colchetes", "padrao": "^> \\*\".*(?<!\\[)\\.\\.\\."},
     {"nome": "linha da fonte sem as duas quebras do fim", "padrao": "^> (?:\\*\\*Fonte Exata no Livro:\\*\\*|\\*Murray - )(?!.*\\*  $)"},
     {"nome": "& nas páginas da fonte", "padrao": "^> (?:\\*\\*Fonte Exata no Livro:\\*\\*|\\*Murray - ).*&"},
-    {"nome": "comentário escondido", "padrao": "<!--"}
+    {"nome": "comentário escondido", "padrao": "<!--"},
+    {"nome": "item de lista sem rótulo em negrito",
+     "padrao": "^\\s*(?:[*+-]|\\d+[.)])(?:\\s+(?=\\S)(?!\\*\\*[^*\\s][^*]*\\*\\*)|\\s*$)"}
   ]
 }
