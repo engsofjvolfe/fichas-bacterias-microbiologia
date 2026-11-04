@@ -1,0 +1,14 @@
+{
+  "versao_schema": 1,
+  "modelos": {
+    "citacao": {"item": "listas-e-tabelas-citacao.md", "entre": "listas-e-tabelas-entre-citacoes.md"}
+  },
+  "listas": {
+    "glossario": {"arquivo": "glossario.json", "lista": "termos", "unico": "termo", "montados": {"fonte": "citacao"}},
+    "divergencias": {"arquivo": "divergencias.json", "lista": "divergencias", "unico": "fato",
+                     "montados": {"fonte": "citacao"}}
+  },
+  "tabelas": {
+    "baralho": {"arquivo": "../baralhos-anki/bacterias.csv", "chave": "id"}
+  }
+}

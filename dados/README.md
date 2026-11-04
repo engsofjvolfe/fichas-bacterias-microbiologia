@@ -17,12 +17,14 @@ prateleira.
 | `confere-commit.json` | [confere-commit](../prateleira/confere-commit/README.md#a-configuração) | as conferências de cada commit, que o gancho do git roda sobre os arquivos do commit, como estão no índice: a forma do changelog, a forma e as citações dos textos de bactéria, as citações do glossário e das divergências e o rodapé dos documentos, cada uma com os padrões dos arquivos dela e o comando, com as peças e as fontes da pasta principal |
 | `glossario.json` | [glossario](../prateleira/glossario/README.md) | os termos que os textos explicam, cada um com a explicação que o livro dá e o trecho do livro de onde ela vem |
 | `glossario-cabecalho.md` | [glossario](../prateleira/glossario/README.md) | o título e a abertura do glossário, `documentos-gerados/glossario.md` |
+| `listas-e-tabelas.json` | [listas-e-tabelas](../prateleira/listas-e-tabelas/README.md) | onde a peça das listas escreve: a lista das divergências, sem repetir o `fato`, e a do glossário, sem repetir o `termo`, cada uma com a `fonte` montada pelo modelo da citação, e o CSV do baralho, cada cartão achado pelo `id` |
+| `listas-e-tabelas-citacao.md` e `listas-e-tabelas-entre-citacoes.md` | [listas-e-tabelas](../prateleira/listas-e-tabelas/README.md#os-campos-montados) | o modelo da citação da fonte, na forma do bloco de fonte dos textos (a linha da referência, sem o rótulo, com o capítulo e as páginas, e a do trecho), e a linha `>` que vai entre duas citações |
 | `dicionario-das-duvidas.json` | [dicionario-das-duvidas](../prateleira/dicionario-das-duvidas/README.md) | a forma dos códigos dos títulos do dicionário das dúvidas, `documentos-gerados/dicionario-das-duvidas.md`: o capítulo e a página do lugar de cada dúvida, como `19/210`, ou só o capítulo |
 | `baralho-anki.json` | [baralho-anki](../prateleira/baralho-anki/README.md#a-configuração) | o baralho do Anki, `baralhos-anki/bacterias.apkg`: as colunas da tabela dos patógenos (o agente, a fonte e as cinco que viram cartão), as marcas de ênfase, o nome do baralho, o tipo de nota, com os campos, e a data da versão |
 | `baralho-anki-frente.html`, `baralho-anki-verso.html` e `baralho-anki-estilo.css` | [baralho-anki](../prateleira/baralho-anki/README.md#como-rodar) | os modelos da frente e do verso do cartão do baralho e o estilo dele |
 | `baralho-anki-conferido.json` | [baralho-anki](../prateleira/baralho-anki/README.md#o-registro-da-conferência) | o sha256 da tabela dos patógenos e de cada texto de estudo na última conferência de conteúdo dos cartões |
 | `rodape.md` | [rodape](../prateleira/rodape/README.md#o-modelo) | o modelo do rodapé da licença, com o link para o `LICENSE-CONTENT.txt` a partir desta pasta, que vai no fim de cada documento; o confere-forma e o confere-changelog o deixam fora da conferência, e as divergências e o glossário o põem no fim do documento que gravam |
-| `rodape.json` | [rodape](../prateleira/rodape/README.md#a-configuração) | os documentos que levam o rodapé, os `.md` do repositório, e os que ficam sem ele: os cabeçalhos dos documentos gravados, que entram no começo deles, e o esqueleto dos textos |
+| `rodape.json` | [rodape](../prateleira/rodape/README.md#a-configuração) | os documentos que levam o rodapé, os `.md` do repositório, e os que ficam sem ele: os cabeçalhos dos documentos gravados, que entram no começo deles, o esqueleto dos textos e os arquivos do modelo da citação, que entram nas listas |
 
 As marcas que uma ferramenta de IA deixa num texto (o caractere invisível ou o espaço
 especial, e o resto de citação) servem a qualquer projeto e ficam na prateleira, no
@@ -46,9 +48,30 @@ precisa sair com `0 sem o rodapé em dia`:
     python3 -I prateleira/rodape/rodape.py . dados/rodape.json dados/rodape.md
     python3 -I prateleira/rodape/rodape.py . dados/rodape.json dados/rodape.md --conferir
 
-O documento das divergências, com o rótulo de cada forma, e o glossário se gravam da lista e
-do cabeçalho de cada um, daqui, com o rodapé no fim, e as citações dos dois se conferem como
-as de um texto:
+As entradas novas das listas das divergências e do glossário, e os campos que mudam nos
+cartões do baralho, se escrevem por um arquivo de mudanças, só com dados, gravado fora do
+repositório (como em `/tmp`), que a peça das listas aplica sem mudar o resto dos arquivos; com
+qualquer problema, como o termo ou o fato que a lista já tem, nada se grava:
+
+    python3 -I prateleira/listas-e-tabelas/listas_e_tabelas.py dados/listas-e-tabelas.json <mudanças.json>
+
+No arquivo de mudanças, a `fonte` de cada termo e de cada forma de uma divergência vem como a
+lista das citações, cada uma com o `capitulo`, as `paginas` e o `trecho`, como no bloco de fonte
+dos textos, e o modelo a monta; a troca num cartão vem com o `id` dele e cada coluna que muda:
+
+```json
+{
+  "versao_schema": 1,
+  "listas": {
+    "glossario": [{"termo": "...", "definicao": "...", "fonte": [{"capitulo": 30, "paginas": "318", "trecho": "..."}]}]
+  },
+  "tabelas": {"baralho": [{"id": "...", "resposta": "...", "trecho": "..."}]}
+}
+```
+
+Depois, o documento das divergências, com o rótulo de cada forma, e o glossário se gravam de
+novo da lista e do cabeçalho de cada um, daqui, com o rodapé no fim, e as citações dos dois se
+conferem como as de um texto:
 
     python3 -I prateleira/divergencias/divergencias.py dados/divergencias.json dados/divergencias-cabecalho.md documentos-gerados/divergencias.md --ensinada "**Forma ensinada:**" --outra "**Outra forma:**" --rodape dados/rodape.md
     python3 -I prateleira/glossario/glossario.py dados/glossario.json dados/glossario-cabecalho.md documentos-gerados/glossario.md --rodape dados/rodape.md
@@ -81,19 +104,28 @@ o mesmo, sem fazer o commit, sobre o que está no índice agora:
 - Um padrão passa a ser proibido nos textos: entra em `confere-forma-proibidos.json` quando
   é deste projeto, e no `marcas-de-ia.json` da prateleira quando é uma marca que uma
   ferramenta de IA deixa em qualquer texto.
-- O livro diz um fato de formas diferentes: a divergência entra em `divergencias.json`, com
-  a forma que os textos ensinam e as outras, cada uma com a fonte na forma do bloco de fonte
-  dos textos (a linha da referência, sem o rótulo, e a do trecho), e o documento das
-  divergências se grava de novo.
-- Um texto explica um termo com as palavras do livro: o termo entra em `glossario.json`, com
-  a explicação e a fonte na forma do bloco de fonte dos textos, e o glossário se grava de
-  novo.
+- O livro diz um fato de formas diferentes: a divergência entra em `divergencias.json`, pela
+  peça das listas, com a forma que os textos ensinam e as outras, cada uma com a fonte em
+  capítulo, páginas e trecho, que o modelo da citação monta na forma do bloco de fonte dos
+  textos (a linha da referência, sem o rótulo, e a do trecho), e o documento das divergências
+  se grava de novo.
+- Um texto explica um termo com as palavras do livro: o termo entra em `glossario.json`, pela
+  peça das listas, com a explicação e a fonte em capítulo, páginas e trecho, e o glossário se
+  grava de novo.
+- A forma do bloco de fonte dos textos muda: mudam o modelo da citação,
+  `listas-e-tabelas-citacao.md`, e a linha que vai entre duas citações,
+  `listas-e-tabelas-entre-citacoes.md`.
+- Entra uma lista JSON ou uma tabela CSV em que se escreve entrada por entrada: ela entra em
+  `listas-e-tabelas.json` quando está na forma que a peça das listas refaz (a do `json.dumps`
+  ou a do módulo `csv` do Python); a lista dos nomes em itálico, em `confere-forma.json`,
+  escrita em outra forma, se muda à mão.
 - O livro deixa uma dúvida, como a transcrição truncada de uma página: ela entra no
   `documentos-gerados/dicionario-das-duvidas.md`, sob um título com os códigos do lugar
   (`capítulo/página`), e o conferidor do dicionário confere os títulos.
 - A tabela dos patógenos ou um texto de estudo muda: o registro da conferência do baralho diz
-  o que mudou, os cartões daquele agente se conferem de novo, e o baralho e o registro se
-  gravam outra vez, pelo [manual do baralho](../baralhos-anki/README.md#como-se-refaz).
+  o que mudou, os cartões daquele agente se conferem de novo, a pergunta, a resposta ou o
+  trecho que mudam se trocam no CSV pela peça das listas, e o baralho e o registro se gravam
+  outra vez, pelo [manual do baralho](../baralhos-anki/README.md#como-se-refaz).
 - Entra um arquivo `.md` que não é um documento inteiro, como o cabeçalho de um documento que
   uma peça grava: o padrão dele entra em `fora`, em `rodape.json`.
 - Entra em `documentos-gerados/` um documento que não é texto de bactéria: ele entra em

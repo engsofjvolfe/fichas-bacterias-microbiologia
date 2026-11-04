@@ -89,6 +89,10 @@ projeto segue o [Versionamento Semântico](https://semver.org/lang/pt-BR/spec/v2
   de formas diferentes: o que faz cada uma das duas toxinas na parede do intestino e o que
   cresce em excesso no intestino do paciente exposto a antibacterianos.
 - No glossário, os termos que o texto de *Clostridium difficile* explica.
+- A escrita nas listas das divergências e do glossário e no CSV do baralho pela peça
+  `listas-e-tabelas` da prateleira, com a configuração em `dados/listas-e-tabelas.json` e o
+  modelo da citação da fonte, que monta cada citação do capítulo, das páginas e do trecho; os
+  arquivos do modelo ficam sem o rodapé da licença, e o comando está em `dados/README.md`.
 
 ### Modificado
 
